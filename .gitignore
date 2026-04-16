@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# data artifacts (raw PDFs are private, processed .md files are committed)
+data/raw/
+data/processed/.ocr-progress.json
+data/processed/ocr-cron.log
+data/processed/tmp-pages/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
