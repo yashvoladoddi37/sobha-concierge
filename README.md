@@ -105,8 +105,8 @@ supabase/
 ### Setup
 
 ```bash
-git clone https://github.com/yashpreet-mitrarobot/sobha-chatbot.git
-cd sobha-chatbot
+git clone https://github.com/yashvoladoddi37/sobha-concierge.git
+cd sobha-concierge
 npm install
 ```
 
