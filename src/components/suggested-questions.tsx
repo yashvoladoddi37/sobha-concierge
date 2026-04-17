@@ -4,11 +4,11 @@ const SUGGESTIONS = [
   "What are the penalties for parking violations?",
   "What was decided in the last board meeting?",
   "What are the gym and pool rules?",
-  "How is the maintenance charge calculated?",
+  "How do I pre-approve my Uber driver on MyGate?",
   "Can I rent out my apartment?",
-  "What is the process for interior renovation?",
-  "Who are the current Board of Managers?",
-  "What are the noise rules after 10 PM?",
+  "How do I raise a complaint on MyGate?",
+  "How does Swiggy delivery entry work with MyGate?",
+  "How do I book the badminton court?",
 ];
 
 interface SuggestedQuestionsProps {

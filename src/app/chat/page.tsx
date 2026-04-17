@@ -75,23 +75,34 @@ export default function Home() {
           ) : (
             /* Chat messages */
             <div className="flex flex-col gap-4">
-              {messages.map((message) => (
-                <ChatMessage
-                  key={message.id}
-                  role={message.role as "user" | "assistant"}
-                  content={
-                    message.parts
-                      .filter((p): p is { type: "text"; text: string } => p.type === "text")
-                      .map((p) => p.text)
-                      .join("") || ""
-                  }
-                  isStreaming={
-                    isLoading &&
-                    message.id === messages[messages.length - 1]?.id &&
-                    message.role === "assistant"
-                  }
-                />
-              ))}
+              {messages.map((message, idx) => {
+                const prevUserMsg = message.role === "assistant"
+                  ? messages.slice(0, idx).reverse().find(m => m.role === "user")
+                  : undefined;
+                const prevUserText = prevUserMsg?.parts
+                  ?.filter((p): p is { type: "text"; text: string } => p.type === "text")
+                  .map(p => p.text).join("") || undefined;
+
+                return (
+                  <ChatMessage
+                    key={message.id}
+                    role={message.role as "user" | "assistant"}
+                    content={
+                      message.parts
+                        .filter((p): p is { type: "text"; text: string } => p.type === "text")
+                        .map((p) => p.text)
+                        .join("") || ""
+                    }
+                    isStreaming={
+                      isLoading &&
+                      message.id === messages[messages.length - 1]?.id &&
+                      message.role === "assistant"
+                    }
+                    messageId={message.id}
+                    previousUserMessage={prevUserText}
+                  />
+                );
+              })}
               {isLoading &&
                 messages[messages.length - 1]?.role === "user" && (
                   <TypingIndicator />

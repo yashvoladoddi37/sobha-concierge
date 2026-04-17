@@ -45,6 +45,7 @@ const DOCUMENT_REGISTRY: Record<string, { name: string; docType: string; date?: 
   "MoM-3-feb-2026.md": { name: "Board Meeting Minutes - 3 February 2026", docType: "minutes", date: "2026-02-03" },
   "MoM-3-mar-2026.md": { name: "Board Meeting Minutes - 3 March 2026", docType: "minutes", date: "2026-03-03" },
   "MoM-31-mar-2026.md": { name: "Board Meeting Minutes - 31 March 2026", docType: "minutes", date: "2026-03-31" },
+  "mygate-guide.md": { name: "MyGate Guide for Sobha Indraprastha", docType: "mygate" },
 };
 
 // ----- Chunking -----

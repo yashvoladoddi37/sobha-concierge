@@ -2641,3 +2641,928 @@ In these Bye-laws, unless the context requires otherwise:
 2.5) "DECLARATION" means the Declaration which the sole owner of the building has executed and registered as provided in Section 2 of the Karnataka Apartment Ownership Act, 1972.
 
 2.6) "MAJORITY OF OWNERS" means those owners holding 51% of the votes in accordance with the percentages assigned in the Declaration.
+
+--- PAGE 70 ---
+-67-
+
+2.7) "OWNER" or "APARTMENT OWNER" means the person owning an apartment in the "SOBHA INDRAPRASTHA" and holding 10 shares of "SOBHA INDRAPRASTHA".
+
+2.8) "SECTION" means a Section of the Act.
+
+2.9) "UNIT" means a dwelling unit in the "SOBHA INDRAPRASTHA".
+
+2.10) "REGISTRAR" means the Registrar of Co-operative Societies.
+
+2.11) "LIMITED COMMON AREAS AND FACILITIES" means those common areas and facilities designated in the declaration as a reserved for a use of certain apartment or apartments to the exclusion of the other apartments.
+
+3) APARTMENT OWNERSHIP:
+
+The building located at property bearing BBMP Katha No.19/2, situated at Mysore Deviation Road in Gopalpura, Ward No.25, Bangalore, and building known as "SOBHA INDRAPRASTHA" is submitted to the provisions of the Karnataka Apartment Ownership Act, 1972.
+
+4) OBJECTS OF ASSOCIATION:
+
+4.1) The objects of the Association shall be:
+
+4.1.1) to be and to act as the Association of the Apartment Owners of the building called "SOBHA INDRAPRASTHA" constructed on property bearing BBMP Katha No.19/2, situated at Mysore Deviation Road in Gopalpura, Ward No.25, Bangalore, (hereinafter called "THE SAID BUILDING") who have filed their respective declarations submitting their Apartments to the provisions of the Act;
+
+4.1.2) to invest or deposit money;
+
+4.1.3) to provide for the maintenance, repair and replacement of the common areas and facilities by receiving contributions from the Apartment Owners, if necessary by raising loans for that purpose;
+
+4.1.4) To maintain and be fully responsible for all water, electrical, fire, lift, pressure and other equipments, AMC's and to comply with all the conditions stipulated in the permissions and No-Objection Certificates issued by various statutory Authorities.
+
+4.1.5) to provide for and do all and any of the matters provided in Sub-Section (2) of Section 16;
+
+4.1.6) to frame additional rules, with the approval of the General Meeting of the Association and after consulting the Competent Authority; and may establish such funds as the General Body may deem fit for the benefit of the employees of the Association;
+
+4.1.7) to do all things necessary and/or otherwise provide for the welfare, expedient for the attainment of the objects, specified in these Bye-laws;
+
+4.2) The Association shall not act beyond the scope of its object without duly amending the provision of these Bye- laws for the purpose;
+
+5) MEMBERS OF ASSOCIATION:
+
+5.1) All persons who have purchased constructed Apartments in the "SOBHA INDRAPRASTHA" shall execute respective Declarations under Section 5 (ii) of the Karnataka Apartment Ownership Act, 1972, submitting their Apartments to the
+
+--- PAGE 71 ---
+-68-
+
+provisions of the Act. All persons who become the owner of the Apartment, shall acquire 10 shares of the "SOBHA INDRAPRASTHA" by paying Rs.1000 /- and on acquisition, shall become the member of the "SOBHA INDRAPRASTHA" and be bound by the Deed of Declaration and Exhibits thereto.
+
+5.2) Upon any Apartment Owner selling his/her Apartment, or absolutely conveying the same by way of gift under his/her will or otherwise, the purchaser or donee or any person becoming owner, shall compulsorily become a member of the Condominium and shall acquire 10 shares of the "SOBHA INDRAPRASTHA".
+
+5.3) On the death of an Apartment Owner, his/her Apartment shall be transferred to the person or persons to whom he/she bequeathed the same by his/her Will, or to the legal representatives of his/her estate in case he/she has not having made any specific bequest of the Apartment. The name of the legatee, or the name of the legal representatives jointly, shall be entered in the Registrar of Apartment Owners maintained by the Secretary, for the purpose of administration of the "SOBHA INDRAPRASTHA" as Apartment Owners. Where any legatee is a minor, any person appointed under a "Will", will look after the minors interest. Such legatee or legal heir/s shall compulsorily acquire by way of transfer of shares.
+
+5.4) For the purpose of such transfer, the Association has allotted shares to each of the Apartment Owners and on such transfer of ownership, the shares would have to be compulsorily transferred in favour of the Transferee on payment of Rs.25/- which will be duly endorsed by the Association as per this Rules and recorded in the register of members and shares;
+
+6) JOINT APARTMENT OWNERS:
+Where an Apartment has been purchased by two or more persons jointly, they shall be jointly entitled to the Apartment and the shares of the Association shall be issued in their joint names, but the person whose names stands first in the Share Certificate shall alone have the right to vote.
+
+7) DISQUALIFICATION:
+No Apartment Owner shall be entitled to vote on the question of the election of members of the Board of the President, Secretary, Treasurer, or any other Office Bearer, or be entitled to stand for election to such office, if he/she is in arrears on the last day of the year in respect of his/her contribution for common expenses to the Association for more than 60 days.
+
+CHAPTER - II
+VOTING, QUORUM AND PROXIES
+
+8) VOTING:
+Each Apartment Owner and shareholder whether joint Owner or otherwise will have the right of one vote for each Apartment;
+
+9) QUORUM:
+Except as otherwise provided in these Bye-laws, the presence in person of a majority of owners shall constitute a Quorum.
+
+10) VOTING:
+Votes shall be cast in person, E-mail, Proxy, Registered Post or by his/her/their duly constituted Power of Attorney Holder.
+
+--- PAGE 72 ---
+-69-
+
+CHAPTER - III
+ADMINISTRATION
+
+11) POWERS AND DUTIES OF ASSOCIATION:
+
+The Association will have the responsibility of administrating the maintenance of the Building, common areas and the annual maintenance etc., approving the Annual Budget, establishing and collecting monthly assessments and arranging for the management of the Condominium in an efficient manner.
+
+12) PLACE OF MEETINGS:
+
+Meetings of the Association shall be held at a suitable place, convenient to the owners, in the Building;
+
+13) ANNUAL MEETING:
+
+The first Annual Meeting of the Association shall be held within a period of six months. Thereafter the Annual Meetings of the Association shall be held at the end of every 12 months of the prior Annual Meeting for succeeding years. At such meetings, there shall be elected by ballot of the Apartment Owners, Board of Office Bearers. The owners may also transact such other business of the Association as may properly come before them.
+
+14) SPECIAL MEETINGS:
+
+It shall be the duty of the President to call a Special Meeting of the Apartment Owners, as directed by a resolution of the Board, or upon a petition signed by a majority of the Owners and having been presented to the Secretary, or any person authorised under the Act, in this regard. The notice of any Special Meeting shall state the place, the time of such meeting and the purpose thereof. No other business shall be transacted at a Special Meeting, except as stated in the notice, without the consent of four-fifths of the Owners present in person.
+
+15) NOTICE OF MEETINGS:
+
+15.1) It shall be the duty of the Secretary to mail or send a notice of each Annual or Special Meeting, stating the purpose thereof, as well as the place and the time it is to be held, to each Apartment Owner, at least 7 days but not more than 15 days prior to such meeting. The mailing or sending of a notice in the manner provided in this Bye-laws shall be considered as notice served.
+
+15.2) The said notices will be either by ordinary post or by hand delivery to each of the Apartment. Apartment from the dispatch stated above, the said Notices will also be put up on the notice board at least 10 days before the meeting is to be held;
+
+16) ADJOURNED MEETINGS:
+
+If the meeting of owners cannot be organised because a quorum has not attended, the owners who are present, may adjourn the meeting to a time not less than forty-eight hours from the time of original meeting was called. If at such adjourned meeting also, no quorum is present, the owners present in person, being not less than 20% shall form a quorum.
+
+--- PAGE 73 ---
+-70-
+
+17) ORDER OF BUSINESS:
+
+The order of business, at all meetings (special or general) of the owners of all units, shall be as follows:-
+
+(a) Roll Call;
+(b) Proof of notice of meeting on waiver of notice;
+(c) Reading of minutes of proceeding meeting;
+(d) Reports of Board if any;
+(e) Unfinished Business, if any;
+(f) New Business;
+
+CHAPTER - IV
+BOARD OF OFFICE BEARERS
+
+18) MANAGEMENT OF ASSOCIATION:
+
+The affairs of the Association shall be governed by a Board of Office Bearers.
+
+19) POWERS AND DUTIES OF BOARD:
+
+The Board shall have the powers and duties necessary for the administration of the affairs of the Association and may do all such acts and things as are not by law or by these Bye-laws directed to be exercised and done by the Owners.
+
+20) OTHER DUTIES:
+
+In addition to the duties imposed by these Bye-laws, or by regulations of the Association, the Board shall be responsible for the following, that is to say :-
+
+20.1) Care, upkeep and surveillance of " SOBHA INDRAPRASTHA" and the common areas & facilities and the restricted common areas and facilities;
+
+20.2) Collection from the owners annually of the maintenance charges and any Municipal taxes for common areas;
+
+20.3) Employment, Remuneration and Dismissal or the personnel necessary for the maintenance and operation of the common areas and facilities and the restricted common areas and facilities;
+
+20.4) To provide for the manner in which the audit and accounts of the Association, shall be carried out;
+
+20.5) To inspect the accounts kept by the Treasurer and examine the registers and account books and to take steps for the recovery of all sums due to the Association;
+
+20.6) To sanction working expenses, for maintenance of the Building;
+
+20.7) To see that the cash book is written up promptly, and is signed monthly, by one of the members of the Board authorised in this behalf;
+
+--- PAGE 74 ---
+-71-
+
+20.8) To hear and deal with complaints;
+
+21) ESTATE OFFICER:
+
+The Board may employ for the " SOBHA INDRAPRASTHA ", an Estate Officer at a compensation determined by the Board, to perform such duties and services as the Board shall authorise, including, but not limited to, the duties listed in Bye-law 21.
+
+22) VACANCIES:
+
+Vacancies in the Board of Managers, caused by any reason another than there removal of a Manager by a Vote of the Association shall be filled by vote of the majority of the remaining Managers, even though they may constitute less than a quorum; and each person so elected shall be a Manager until a successor is elected at the next Annual Meeting of the Association.
+
+23) REMOVAL OF MANAGER:
+
+At any regular or special meeting, duly called, any one or more of the Managers may be removed, with or without cause, by a majority of the Apartment Owners and a successors may then and there be elected to fill the vacancy thus created. Any Manager whose removal has been proposed by the owners shall be given an opportunity to be heard at the meeting.
+
+24) ORGANISATION MEETING:
+
+The First Meeting or a newly elected Board of Managers shall be held within ten days of election at such place as shall be fixed by the Managers at the meeting at which such Managers were elected and no notice shall be necessary to the newly elected Managers, in order to legally constitute such meeting, provided a majority of the whole Board shall be present;
+
+25) REGULAR MEETINGS:
+
+Regular Meetings of the Board of Managers may be held at such time and place as shall be determined, from time to time, by a majority of Managers; but at least two such meetings shall be held during each year. Notice of regular meetings of the Board shall be given to each Office Bearer, personally, or by mail or telegraph or email at least three days prior to the day named for such meetings;
+
+26) SPECIAL MEETINGS:
+
+Special Meetings of the Board of Managers may be called by the President on three days notice to each Manager, given personally or by mail or email telegraph, which notice shall state the time, place (as hereinabove provided) and purpose of meeting. Special Meetings of the Board shall be called by the President or Secretary in like manner and on like notice on the written request of at least three Managers.
+
+27) WAIVER OF NOTICE:
+
+Before, or at any meetings of the Board, any Manager may, in writing, waive notice of such meeting, and such waiver shall be deemed equivalent to the giving of such notice. Attendance by a Manager at any meeting of the Board, shall be a waiver of notice by him of the time and place thereof. If all the Managers are present, at any meeting of the Board, no notice shall be required and any business may be transacted at such meeting.
+
+--- PAGE 75 ---
+-72-
+
+28) QUORUM:
+
+At all meetings of the Board of Managers, at least three of the total strength of the Managers shall constitute a quorum for the transaction of business and the acts of the Managers present at a meeting, at which quorum is present, shall be the acts of the Board. If, at any meeting of the Board, there be less than a quorum present, the majority of those present may adjourn the meeting, from time to time. At any such adjourned meeting, any business which might have been transacted at the meeting, as originally called, may be transacted without further notice, provided there is a quorum present, failing which the decision of the President on such issue shall be considered final to be ratified by the general body meeting;
+
+29) DECISION BY CIRCULATION:
+
+The Board of Managers can take decision with regards to any of the issues even by circulation and if by circulation, the quorum is required for passing of Resolution is made, the said Resolution shall be deemed to have been passed by circulation.
+
+CHAPTER – V
+
+30) DESIGNATION:
+
+The Principal Officers of the Association shall be a President, a Secretary and a Treasurer, all of whom shall be elected by, and from the Board of Managers.
+
+31) ELECTION OF OFFICER BEARERRS:
+
+The Board of Managers shall be elected at ten end of every 2 years who shall hold the office for the next 2 years and the elected members amongst themselves will appoint their President, Secretary and a Treasurer;
+
+32) SECRETARY:
+
+The Secretary shall keep the minutes of all meetings of the Board and the minutes of all meetings of the Association, he shall have charge of such books and papers as the Board may direct; and he shall, in general, perform all the duties Incidental to the office of Secretary.
+
+33) TREASURER:
+
+The Treasurer shall be responsible for Association funds and securities and shall be responsible for keeping full and accurate accounts of all receipts and disbursements in books belonging to the Association.
+
+34) OPERATION OF BANK ACCOUNTS:
+
+The Association shall open a Bank Account in any of the Scheduled Banks which account shall be operated under the joint signatures of the President and the Treasurer or any person delegated by either of them;
+
+35) EXCESS FUND:
+
+Any excess fund belonging to the Association can be invested in any Scheduled Bank in any Fixed Deposit Schemes pursuant to Resolution passed by the Board of Managers.
+
+--- PAGE 76 ---
+-73-
+
+CHAPTER - VI
+OBLIGATIONS OF THE APARTMENT OWNERS
+
+36) ASSESSMENT:
+
+All Owners are obliged to pay in advance, annual assessments imposed by the Association to meet all expenses relating to maintenance of the Building, repairs, day to day outgoings, monthly salaries, etc., which may include an insurance premium for a policy to cover repair and re-construction work in case of hurricane, fire, earthquake or other hazards or calamity. The assessment shall be made prorate at the percentage of the undivided share in the Schedule Property acquired by the Owner.
+
+37) MAINTENANCE AND REPAIR:
+
+37.1) Every owner must perform promptly, all maintenance and repair work within the respective Unit, which if omitted would affect the Building entirely or in a part belonging to other owners, being expressly responsible for the damages and liabilities that his/her failure to do so may endanger.
+
+37.2) All the repairs of internal installations of the Unit such as water, light, gas, power, sewerage, telephones, air- conditioners, sanitary installations, doors, windows, lamps and all other accessories belonging to the Unit area shall be at the expense of the respective Apartment Owner/s.
+
+37.3) An owner shall reimburse the Association for any expenditure incurred in repairing or replacing any common area and facility damaged through that owner's fault.
+
+38) USE OF DWELLING UNITS/INTERNAL CHANGE:
+
+38.1) All Units shall be utilised for residential purposes only.
+
+38.2) An owner shall not make any structural modifications or alterations in the Unit or installations located therein without previously notifying the Association in writing through the President of the Board, if no Estate Manager is employed. The Association shall have the obligation to answer within fifteen days and failure to do so within the stipulated time shall mean that there is no objection to the proposed modification, alteration or installation;
+
+39) USE OF COMMON AREAS AND FACILITIES AND RESTRICTED COMMON AREAS AND FACILITIES:
+
+39.1) An owner shall not place or cause to be placed in the lobbies, vestibules, stairways, elevators and other areas of Building and facilities of a similar nature, both common and restricted, any furniture, packages or objects of any kind. Such areas shall be used for no other purpose than for normal transit through them and as common use;
+
+39.2) The Owners shall use the other facilities common garden area in prudent manner and any loss or damage caused to the or any of the items therein shall be paid for by the Owner causing such damage which may include repair of such items or replacing thereof;
+
+40) RIGHT OF ENTRY:
+
+40.1) An owner shall grant the right of entry to the Estate Manager or to any other person authorised by the Board of the Association in case of any emergency
+
+--- PAGE 77 ---
+-74-
+
+originating in or threatening his/her Unit, whether the owner is present at the time or not;
+
+40.2) An owner shall permit other owners, or their representatives, when so required, to enter his/her Unit for the purpose of performing installations, alterations or repairs to the mechanical or electrical services, maintenance of the fire fighting equipment provided that requests for entry are made in advance and that such an entry is at a time convenient to the owner. In case of an emergency, such right of entry shall be immediately permitted;
+
+40.3) The open area between the Blocks/Wings to be used only as open area by all the Owners, however and Owner may with previous written permission reserve the said common area for hoisting a private function or a party subject to payments of the amounts that may be fixed by the Board of Members from time to time. The use of the said open area/garden area for any private purpose shall be governed by the Rules and Regulations set out herein below;
+
+40.3.1) The guest using the said open /garden area during the private function/party will be restrict their movement in the said open /garden area;
+
+40.3.2) The use of the open area/ garden area during private parties/ function shall be restricted up to 10.00 p.m.only .
+
+40.3.3) The payments for such private parties/functions Shall be made in advance before the Board of Officers grants permission for such use;
+
+40.3.4) The Owner making use for private functions/party will take care that no nuisance is caused during such function;
+
+40.3.5) The Owner using the said open/garden area for private function/party will undertake to clear the open/garden area after the party/function;
+
+40.3.6) The Owner causing any damage to the garden will be required to pay for such damage to the lawn area or articles placed in the garden area;
+
+40.3.7) The Owner wanting to use the said open/garden area for private function/party will also required to pay the deposit over and above the charges for such use, which deposit shall be refunded on clearing the garden area of all wastages, garbage or replacing of any damage done;
+
+40.3.8) In the event of the Owner taking the garden area for private function/party failing to comply with the aforesaid rules, the Board of Officers from and out of the amounts deposited will be entitled to remove all the garbage's, debris and replace any damage that may be caused;
+
+41) EXCLUSIVE GARDEN AREA: The Owner occupying the apartment no 1001, 1021, 1341, 1041,1321 1361, 1061, 1081, 1101, 1121, 1141, 1161, 1181, 1201, 1221, 1241, 1261, 1281, 1301, 1051, 1071, 1091, 1131, 1151, 1171, 1191, 1211, 1231, 1251, 1291, 1311, 1331, 1031, 111, 1271, 1351, 1072, 2072, 1092, 2092, 1132, 2132, 1152, 2152, 1172, 2172, 1192, 2192, 1212, 2212, 1232, 2232, 1252, 2252, 1292, 2292, 1312, 2312, 1332, 2332, 1052, 2052, 1032, 2032, 1112, 2112, 1272, 2272, 1352, 2352,2001, 2021, 2041, 2061, 2081, 2101, 2121, 2141, 2161, 2181, 2201, 2221,2241,2261,2281,2301,2321,2341,2361 2051, 2071, 2091, 2131, 2151, 2171, 2191, 2211, 2231, 2251, 2291, 2311, 2331, 2031, 2111, 2271, 2351 are entitled to the exclusive use of the Garden area, attached thereto and none of the other owners will interfere in the use and enjoyment of the said terrace area and such use and enjoyment shall always be attached to the said Apartments and as and when the said Apartment is transferred to any other Purchaser/ Owner, such exclusive terrace
+
+--- PAGE 78 ---
+-75-
+
+area attached to the said Apartments shall also stand transferred to such new Purchasers for the enjoyment and use of the new Owners;
+
+EXCLUSIVE TERRACE AREA: The Owner occupying the apartment no 1051, 1071, 1091, 1131, 1151, 1171, 1191, 1211, 1231, 1251, 1291, 1311, 1331, 1032, 1112, 1272, 1352, 2032, 2112, 2272, 2352, 1003, 1053, 2053, 1004, 2004, 2031, 2111, 2271, 2351, 1005, 2005 are entitled to the exclusive use of the Terrace area, attached thereto and none of the other owners will interfere in the use and enjoyment of the said terrace area and such use and enjoyment shall always be attached to the said Apartments and as and when the said Apartment is transferred to any other Purchaser/ Owner, such exclusive terrace area attached to the said Apartments shall also stand transferred to such new Purchasers for the enjoyment and use of the new Owners;
+
+42) RULES OF CONDUCT:
+
+42.1) No resident of the Building shall post any advertisement or posters of any kind in or on the building except as authorised by the Board of Members in writing;
+
+42.2) Residents shall exercise extreme care about making noises or the use of musical instruments, radios, television and amplifiers that may disturb others. Residents keeping domestic animals shall abide by the Municipal Sanitary Bye-laws or Regulations and such rules the Owners Association may make;
+
+42.3) It is prohibited to hang garments, rugs etc., from the windows, balconies, or from any of the facades of the Building;
+
+42.4) It is prohibited to dust rugs etc., from the windows or to clean rugs etc., by beating on the exterior part of the said Condominium;
+
+42.5) It is prohibited to throw garbage or trash outside the disposal installations provided for such purposes in the service areas. If such installation is not provided all garbage or trash shall be collected in a vessel and thrown in the Municipal Dust Bin;
+
+42.6) No owner, resident or lessee shall in stall wiring for electrical or telephone installation, television antennas, machines or air-conditioning units etc., on the exterior of Building or that which protrude through the walls or the roof of that Condominium, except as authorised by the Association;
+
+42.7) The Board of Members will make Rules for the use of the Gymnasium, club House, open area/Garden area which will be adhered by all the Owners;
+
+42.8) Any Owner desirous of disposing of his Unit will prior to such disposal take a no objection for such sale and such no objection shall be subject to payment of Transfer Fee as set out in Chapter VII;
+
+CHAPTER - VII
+FUNDS AND THEIR INVESTMENTS
+
+43) FUNDS:
+
+Funds may be raised by the Association in all or any of the following ways namely:
+
+43.1) from common profits which shall form the nucleus of the Reserve Fund;
+
+43.2) any transfer effected by any of the Owner, such transfer will be subject to payment of transfer fee of Rs.25,000/- which amount shall be paid before the new Purchaser is made a member of the Association;
+
+--- PAGE 79 ---
+-76-
+
+43.3) any of the Owner not personally occupying the Premises will pay a non occupation charges fixed at 2% of the rental received per month, which charge can be revised by the Owners at its Annual General Meeting from time to time;
+
+43.4) sinking fund deposits that may be authorised in any Annual General body Meeting.
+
+44) INVESTMENT:
+
+The Association may invest or deposit its funds in one or more of the following:-
+
+44.1) In any Nationalized Bank; /Schedule Bank
+
+44.2) In any of the securities specified in Section 20 of the Indian Trust Act, 1882;
+
+45) ACCOUNTS:
+
+45.1) A Banking Account shall be opened by the Association into which all moneys received on behalf of the Association shall be paid, provided that the Secretary may retain in his personal custody an amount not exceeding Rs.10,000/- for petty expenses. All payments above Rs.500/- shall be made by Cheques signed by the Secretary and one member of the Board of Members;
+
+45.2) Any Estate Manager appointed by the Board of Members shall maintain the proper accounts with regards to all the expenses incurred for the Building;
+
+45.3) The Association shall, on or before 31st May in each year, publish an audited annual financial statement in respect of the common areas and facilities containing:-
+
+45.3.1) the profits and loss accounts;
+
+45.3.2) the receipts and expenditure of the previous financial years; and
+
+45.3.3) a summary of the property and assets and liabilities of the common areas and facilities of the Association giving such particulars as will disclose the general nature of these liabilities and assets and how the value of fixed assets has been arrived at;
+
+45.4) The Audited Financial Statement shall be open to the inspection or any member of the Association, during office hours and in the office of the Association and a copy thereof shall be submitted to the Competent Authority not later than 15th August every year;
+
+45.5) Every Financial Statement shall be accompanied by a complete list of the Apartment Owners. There shall also accompany the Financial Statement, a similar list of loonies. The Financial Statement shall state up to what date profits and expenses of common areas are included;
+
+46) PUBLICATION OF ACCOUNTS AND REPORTS:
+
+A copy of the last Financial Statement and of the Report of the Auditor, if any, shall be kept in a conspicuous place in the Office of the Association;
+
+47) APPOINTMENT OF AUDITORS:
+
+The Association shall appoint at its General Meeting, an Auditor who shall audit the accounts of the Association to be prepared by the Board as hereinbefore provided; and shall examine the annual return and verify the same, with the accounts to be correct, and shall either sign the same as found by him to be correct,
+
+--- PAGE 80 ---
+-77-
+
+duly vouched and in accordance with law; or specially report to the Association, in what respect he finds it incorrect, un-vouched or not in accordance with law.
+
+48) POWER OF AUDITOR:
+
+The Auditor shall be entitled to call for and examine any papers or documents belonging to the Association relating to the common areas and facilities (including limited common area and facilities) and common expenses and shall make a special report to the Association upon any matter connected with the accounts which appears to him to require notice;
+
+CHAPTER - VIII
+MORTGAGES
+
+49) NOTICE TO ASSOCIATION:
+
+An owner who mortgages his/her Unit shall without fail notify the association through the Manager, if any, or the President of the Board in the event there is no Manager, the name and address of his/her mortgagee and the Association shall Maintain such information in a book entitled "MORTGAGEES OF UNITS";
+
+50) NOTICE OF UNPAID ASSESSMENTS:
+
+The Association shall, at the request of a mortgagee of a Unit, report any unpaid assessment due from the owner of such Unit;
+
+CHAPTER - IX
+COMPLIANCE
+
+51) COMPLIANCE:
+
+These Bye-laws are set forth to comply with the requirements of the Karnataka Apartment Ownership Act, 1972. In case, any of these Bye-laws conflict with the provision of the said Act, it is hereby agreed and accepted that the provisions of the Act will apply;
+
+52) SEAL OF THE ASSOCIATION:
+
+The Association shall have a common seal, which shall be in the custody of the Secretary, and shall be used only under the authority of a resolution of the Board of Managers, and every deed of instrument, to which the seal is affixed, shall be attested for or on behalf of the Association by two members of the Board and the Secretary or any other person authorised by the Association in that behalf;
+
+CHAPTER - X
+AMENDMENTS TO BYE LAWS APARTMENT OWNERSHIP
+
+53) AMENDMENT OF BYE-LAWS:
+
+These Bye-laws may be amended by the Association in a duly constituted meeting for such purpose and no amendment shall take effect unless approved by owners representing at least 2/3rd of the total number of all Apartments in the Building as shown in the Declaration.
+
+--- PAGE 81 ---
+10.90 M WIDE ROAD TOWARDS MINERVA MILLS
+
+RESIDENT
+
+COMMERCIAL BUILDING
+
+PROPOSED UNDER PASS
+
+41.37M WIDE RAOD VATTAL NAGARAJ ROAD
+
+TO SRIRAM PURAM
+
+TO MAGADI ROAD
+
+32.50m wide road
+
+LAND ACQUIRED BY BBMP PHASE - 01
+
+LAND REQUIRED FOR ROAD WIDENING PHASE - 02
+
+SITE PLAN
+LAND REQUIRED FOR ROAD WIDENING PHASE - 1 = 5425.51 SQ.MTS
+LAND REQUIRED BY BBMP PHASE - 02 = 1838.60 SQ.MTS
+NOTE:
+PHASE - 01 ROAD WIDENING AREAS IS ALREADY RELINQUISHED TO BBMP
+LAND ACQUIRED BY BBMP PHASE 02 YET TO BE RELINQUISHMENT
+
+ENTRY
+EXIT
+RAMP
+TRANSFORMER YARD
+SECURITY
+LANDSCAPE
+DRIVEWAY
+OPEN TO SKY
+STP
+OHT
+FIRE TANK
+
+SCHEDULE OF AREAS
+SL NO  DESCRIPTION  AREA IN SQ.M  AREA IN SQ.FT
+
+REVISIONS
+SL NO  DESCRIPTION  DATE
+
+PROJECT
+CLIENT
+ARCHITECT
+DRAWING TITLE
+DATE
+SCALE
+DRN BY
+CHK BY
+DWG NO
+
+--- PAGE 82 ---
+10.90 M WIDE ROAD TOWARDS MINERVA MILLS
+
+COMMERCIAL BUILDING
+
+PROPOSED UNDER PASS
+
+41.37M WIDE RAOD VATTAL NAGARAJ ROAD
+
+TO SRIRAM PURAM
+
+PROPOSED UNDER PASS
+
+LAND ACQUIRED BY BBMP FOR ROAD WIDENING PHASE-1
+
+LAND REQUIRED FOR ROAD WIDENING PHASE-2
+
+32.50m wide road
+TO MAGADI ROAD
+
+GROUND FLOOR PLAN NO. OF UNIT = 07
+
+LAND REQUIRED FOR ROAD WIDENING PHASE - 1 = 6426.51 SQ.MTS
+LAND ACQUIRED BY BBMP PHASE - 02 = 1938.80 SQ.MTS
+
+NOTE:
+PHASE - 01 ROAD WIDENING AREA IS ALREADY RELINQUISHED TO BBMP
+LAND ACQUIRED BY BBMP PHASE - 02 YET TO BE RELINQUISHED
+
+PROJECT:
+PROPOSED COMMERCIAL BUILDING AT SY. NO. 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8, 1/9, 1/10, 1/11, 1/12, 1/13, 1/14, 1/15, 1/16, 1/17, 1/18, 1/19, 1/2
+
+--- PAGE 83 ---
+AREA STATEMENT (BBMP)
+Plot Area: 10117.14 Sqm
+Permissible FAR: 2.25
+Total Built up area: 22763.56 Sqm
+
+PARKING STATEMENT
+Required: 198
+Provided: 205
+
+PROJECT DESCRIPTION
+PROPOSED RESIDENTIAL APARTMENTS & COMMERCIAL BUILDING AT MUNICIPAL NO. 10/1/10/2/10/3, GOPAL PURA, BANGALORE.
+
+NOTES
+1. ALL DIMENSIONS ARE IN MILLIMETERS UNLESS OTHERWISE SPECIFIED.
+2. DO NOT SCALE THE DRAWING.
+3. ANY DISCREPANCY SHOULD BE BROUGHT TO THE NOTICE OF THE ARCHITECT.
+
+BASEMENT LEVEL - 01
+NO. OF REGULAR CAR PARKING = 169
+NO. OF VISITOR CAR PARKING = 36
+TOTAL NO. OF CAR PARKING = 205
+
+DRAWING TITLE: BASEMENT LEVEL - 01 (PLAN)
+SCALE: 1:150
+SHEET NO: 03
+
+5.5 M WIDE DRIVEWAY
+6.0 M WIDE DRIVEWAY
+RAMP UP
+RAMP DN
+LIFT
+STAIR
+FIRE LIFT
+ELECTRICAL ROOM
+FIRE SUMP
+DOMESTIC SUMP
+STP
+TRANSFORMER YARD
+SECURITY
+ENTRY
+EXIT
+UP
+DN
+V
+R
+WHEEL CHAIR
+FIRE REFUGE
+
+--- PAGE 84 ---
+AREA STATEMENT (RMP)
+PROJECT DETAILS:
+Project Name: PROPOSED RESIDENTIAL APARTMENT
+Location: SY NO. 10/3, MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK.
+Owner: M/S. GOPALAN ENTERPRISES (INDIA) PVT. LTD.
+Architect: GOPALAN ENTERPRISES (INDIA) PVT. LTD.
+
+AREA DETAILS:
+Total Site Area: 10117.14 SQM
+Permissible FAR: 2.25
+Achieved FAR: 2.24
+Total Built-up Area: 22713.56 SQM
+Ground Coverage: 35.00%
+Open Space: 65.00%
+
+SETBACKS:
+Front: 12.00 M
+Rear: 12.00 M
+Side (L): 12.00 M
+Side (R): 12.00 M
+
+PARKING DETAILS:
+Required Parking: 231 NOS
+Provided Parking: 231 NOS
+Basement 1: 117 NOS
+Basement 2: 114 NOS
+
+SCHEDULE OF OPENINGS:
+D1: 1.00 X 2.10 M
+D2: 0.90 X 2.10 M
+D3: 0.75 X 2.10 M
+W1: 1
+
+--- PAGE 85 ---
+2019-20
+
+AREA STATEMENT (BBMP)
+TOTAL SITE AREA: 11331.12 SQM
+DEDUCTIONS:
+KHARAB AREA: 0.00 SQM
+NET SITE AREA: 11331.12 SQM
+PERMISSIBLE F.A.R: 2.25
+TOTAL BUILT UP AREA: 25495.02 SQM
+F.A.R AREA: 25495.02 SQM
+F.A.R CONSUMED: 2.25
+GROUND COVERAGE: 45%
+PERMISSIBLE COVERAGE: 50%
+TOTAL NO. OF FLOORS: 2B+G+14 FLOORS
+TOTAL NO. OF UNITS: 211
+TOTAL NO. OF CAR PARKS REQUIRED: 211
+TOTAL NO. OF CAR PARKS PROVIDED: 211
+
+PARKING DETAILS
+TOTAL NO. OF CAR PARKS REQUIRED: 211
+TOTAL NO. OF CAR PARKS PROVIDED: 211
+BASEMENT LEVEL - 01: 70
+BASEMENT LEVEL - 02: 70
+BASEMENT LEVEL - 03: 71
+TOTAL: 211
+
+OWNER'S NAME:
+M/S SOUTH GLOBAL VILLAGE PVT LTD
+REPRESENTED BY ITS DIRECTOR
+MR. S.V. ANIL KUMAR
+BANGALORE
+
+ARCHITECT'
+
+--- PAGE 86 ---
+KEY PLAN (NOT TO SCALE)
+
+AREA STATEMENT (PROPOSED)
+TOTAL SITE AREA: 1,21,405.00 SQ.FT (2.78 ACRES)
+PERMISSIBLE F.A.R: 2.25
+PROPOSED F.A.R: 2.24
+TOTAL BUILT UP AREA: 2,72,450.00 SQ.FT
+GROUND COVERAGE: 35.00%
+OPEN SPACE: 65.00%
+
+PARKING DETAILS
+REQUIRED PARKING: 272 NOS
+PROVIDED PARKING: 275 NOS
+
+OWNER:
+M/S. GOPALAN ENTERPRISES
+NO. 5, RICHMOND ROAD, BANGALORE - 560 025.
+
+ARCHITECT:
+GOPALAN ARCHITECTS
+NO. 5, RICHMOND ROAD, BANGALORE - 560 025.
+
+PROJECT DESCRIPTION:
+PROPOSED GOPALAN GLOBAL HUB RESIDENTIAL COMPLEX IN SY. NO. 10/1, 10/2, 10/3 & 10/4, GOPALAPURA VILLAGE, KASABA HOBLI, BANGALORE NORTH TALUK, BANGALORE.
+
+FIRST FLOOR PLAN
+NUMBER OF UNITS = 08
+
+SECOND FLOOR PLAN
+NUMBER OF UNITS = 10
+
+FLOOR PLAN LABELS:
+BEDROOM
+LIVING
+DINING
+KITCHEN
+TOILET
+BALCONY
+UTILITY
+LIFT
+STAIRCASE
+CORRIDOR
+DUCT
+
+DRAWING TITLE:
+FIRST & SECOND FLOOR PLAN
+SCALE: 1:200
+SHEET NO: 06
+
+--- PAGE 87 ---
+AREA STATEMENT (BBMP)
+PROJECT DETAILS
+TOTAL SITE AREA AS PER DOCUMENT: 10117.14 SQ.M
+TOTAL SITE AREA AS PER SURVEY: 10117.14 SQ.M
+DEDUCTIONS:
+KHARAB AREA: 0.00 SQ.M
+ROAD WIDENING AREA: 0.00 SQ.M
+PARK AREA: 1011.71 SQ.M
+CIVIC AMENITIES AREA: 505.86 SQ.M
+NET SITE AREA: 8599.57 SQ.M
+PERMISSIBLE F.A.R: 2.25
+TOTAL PERMISSIBLE BUILT UP AREA: 19349.03 SQ.M
+PROPOSED F.A.R AREA: 19349.03 SQ.M
+PROPOSED F.A.R: 2.25
+TOTAL BUILT UP AREA: 32745.12 SQ.M
+GROUND COVERAGE: 45%
+PERMISSIBLE GROUND COVERAGE: 3869.81 SQ.M
+PROPOSED GROUND COVERAGE: 3869.81 SQ.M
+NO. OF FLOORS: B+G+4 FLOORS
+TOTAL NO. OF UNITS: 160 UNITS
+
+AREA DETAILS
+FLOOR LEVEL | BUILT UP AREA (SQ.M) | F.A.R AREA (SQ.M
+
+--- PAGE 88 ---
+2019-20
+
+AREA STATEMENT (BBMP)
+SL. NO. DESCRIPTION AREA IN SQ.M
+1 TOTAL SITE AREA 11533.54
+2 AREA FOR PARK & OPEN SPACE (15%) 1730.03
+3 AREA FOR CIVIC AMENITIES (5%) 576.68
+4 BALANCE AREA 9226.83
+5 AREA FOR ROAD WIDENING 104.50
+6 NET AREA 9122.33
+7 PERMISSIBLE F.A.R (2.25) 20525.24
+8 PROPOSED F.A.R AREA 20516.40
+9 GROUND COVERAGE (50%) 4561.16
+10 PROPOSED GROUND COVERAGE (31.75%) 2896.33
+
+FSI DETAILS
+SL. NO. DESCRIPTION AREA IN SQ.M
+1 BASEMENT FLOOR AREA 8414.11
+2 GROUND FLOOR AREA 2896.33
+3 TYPICAL FLOOR AREA (1st TO 10th) 2896.33
+4 TOTAL BUILT UP AREA 37377.41
+5 F.A.R AREA 20516.40
+6 NON F.A.R AREA 16861.01
+
+PARKING DETAILS
+SL. NO.
+
+--- PAGE 89 ---
+AREA STATEMENT (BBMP)
+TOTAL SITE AREA: 10117.14 SQ.M (108900.00 SQ.FT)
+PERMISSIBLE FAR: 2.25
+TOTAL BUILT UP AREA: 22763.56 SQ.M
+FAR AREA: 22763.56 SQ.M
+GROUND COVERAGE: 35%
+PROVIDED COVERAGE: 24.34%
+
+FAR ANALYSIS
+TOTAL FAR AREA: 22763.56 SQ.M
+
+SETBACKS
+FRONT: 12.00 M
+REAR: 12.00 M
+LEFT: 12.00 M
+RIGHT: 12.00 M
+
+PARKING DETAILS
+REQUIRED PARKING: 228 NOS
+PROVIDED PARKING: 230 NOS
+
+PROJECT INFORMATION
+PROPOSED RESIDENTIAL APARTMENT BUILDING
+AT SY. NO. 10/1, 10/2, 10/3, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9, 10/10, 10/11, 10/12, 10/13, 10/14, 10/15, 10/16, 10/17, 10/1
+
+--- PAGE 90 ---
+3988 20 2019-20
+
+AREA STATEMENT (SQM)
+TOTAL PLOT AREA: 11331.18
+TOTAL BUILT UP AREA: 104535.53
+TOTAL CARPET AREA: 64757.51
+TOTAL BALCONY AREA: 5180.60
+TOTAL UTILITY AREA: 1942.72
+TOTAL COMMON AREA: 32654.70
+TOTAL FAR AREA: 71880.83
+TOTAL NON FAR AREA: 32654.70
+TOTAL PARKING AREA: 24344.00
+TOTAL NO. OF UNITS: 640
+
+PARKING DETAILS
+TOTAL NO. OF CAR PARKING REQUIRED: 640
+TOTAL NO. OF CAR PARKING PROVIDED: 640
+TOTAL NO. OF TWO WHEELER PARKING REQUIRED: 1280
+TOTAL NO. OF TWO WHEELER PARKING PROVIDED: 1280
+
+PROJECT DETAILS
+PROJECT NAME: PROVIDENT SUNWORTH
+DEVELOPER: PURAVANKARA PROJECTS LTD
+LOCATION: SY NO 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+
+--- PAGE 91 ---
+3988
+2019-20
+9.1
+
+AREA STATEMENT (BBMP)
+DESCRIPTION                                AREA (SQ.M)
+TOTAL SITE AREA                            19972.42
+AREA DEDUCTIONS                            -
+NET SITE AREA                              19972.42
+PERMISSIBLE F.A.R                          2.25
+TOTAL BUILT UP AREA                        78474.24
+F.A.R AREA                                 44937.94
+NON F.A.R AREA                             33536.30
+TOTAL NO. OF UNITS                         388
+TOTAL NO. OF CAR PARKS                     412
+
+ARCHITECTS
+S.S. ARCHITECTS
+Architects and Engineers
+# 12, 1ST FLOOR, 1ST MAIN ROAD,
+VYALIKAVAL, BANGALORE - 560 003.
+PH: 080-2346 4444 / 2346 5555
+
+PROJECT DESCRIPTION
+PROPOSED RESIDENTIAL APARTMENT & CLUBHOUSE AT SY. NO. 10/1, 10/2, 10/3 OF MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK, BANGALORE
+
+CLIENT
+M/S. SOBHA LIMITED
+SOBHA CORPORATE OFFICE,
+SARJAPUR-MARATHAHALLI OUTER RING ROAD,
+BELLANDUR POST, BANGALORE - 560 103.
+
+DRAWING TITLE
+34TH FLOOR PLAN & SERVICE FLOOR & CLUBHOUSE LOWER LEVEL PLAN
+JOB NO.                                    1542
+DATE                                       19.02.2019
+SCALE                                      1:200
+DRG NO.                                    17
+REV NO.                                    00
+
+34TH FLOOR PLAN
+NUMBER OF UNITS = 04
+
+SERVICE FLOOR & CLUBHOUSE LOWER LEVEL
+
+LIVING/DINING
+KITCHEN
+UTILITY
+BEDROOM
+TOILET
+BALCONY
+LOBBY
+LIFT
+STAIRCASE
+ELECTRICAL ROOM
+PHE ROOM
+CLUBHOUSE
+GYM
+MULTIPURPOSE HALL
+SERVICE AREA
+
+--- PAGE 92 ---
+3988
+2019-20
+
+AREA STATEMENT (SQM)
+TOTAL SITE AREA: 10117.14
+AREA FOR ROAD WIDENING: 101.17
+NET SITE AREA: 10015.97
+PERMISSIBLE F.A.R: 3.25
+TOTAL PERMISSIBLE BUILT UP AREA: 32551.90
+PROPOSED BUILT UP AREA: 32548.42
+GROUND COVERAGE: 35%
+PERMISSIBLE GROUND COVERAGE: 3505.59
+PROPOSED GROUND COVERAGE: 3498.24
+NO. OF FLOORS: 2 BASEMENTS + GROUND + 37 UPPER FLOORS
+TOTAL NO. OF UNITS: 177
+PARKING REQUIRED: 354
+PARKING PROVIDED: 360
+
+PROJECT DESCRIPTION:
+PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY. NO. 141/1, 141/2, 141/3, 141/4, 141/5, 141/6, 141/7, 141/8, 141/9, 141/10, 141/11, 141/12, 141/13, 141/14,
+
+--- PAGE 93 ---
+KEY PLAN
+SITE
+N
+
+AREA STATEMENT (BBMP)
+PROJECT: G+24
+Application No:
+Applicant Name:
+Proposal Type: Building Plan
+Building Category: Residential
+Plot No: Sy No. 10/2
+Village: Gidada Konnenahalli
+Ward No: 160
+Zone: West
+AREA DETAILS:
+Total Plot Area: 12140.60 SQM
+Deduction for Road Widening: 1214.06 SQM
+Net Plot Area: 10926.54 SQM
+PERMISSIBLE F.A.R: 2.25
+PROPOSED F.A.R: 2.24
+TOTAL BUILT UP AREA: 24514.00 SQM
+GROUND COVERAGE: 25% (Permissible 45%)
+PARKING DETAILS:
+Required Car Parking: 271
+Provided Car Parking: 271
+Required Two Wheeler Parking: 135
+Provided Two Wheeler Parking: 135
+
+PROJECT DESCRIPTION:
+PROPOSED RESIDENTIAL APARTMENT BUILDING (G+24 FLOORS) AT MUNICIPAL NO. 10/2(SY.NO.10/2), GIDADA KONNENAHALLI VILLAGE, BBMP, BANGALORE.
+
+OWNER/GPA HOLDER:
+M/S. PROVIDENT HOUSING LIMITED
+NO. 130/1, ULSOOR ROAD, BANGALORE - 560 042.
+
+ARCHITECT:
+M.S. VENUGOPAL
+REGISTERED ARCHITECT
+CA/95/18441
+NO. 34, 1ST FLOOR, 1ST MAIN ROAD,
+VYALIKAVAL, BANGALORE - 560 003.
+
+BUILDING DETAILS:
+No. of Floors: G+24
+Total Height: 74.85 M
+Total No. of Units: 271
+Total Built up Area: 24514.00 SQM
+
+FLOOR WISE AREA STATEMENT
+FLOOR | BUILT UP AREA (SQM)
+TOTAL | 24514.00 SQM
+
+DRAWING TITLE:
+ELEVATION & SECTION
+SCALE: 1:200
+DRG NO: 13
+
+ELEVATION
+SECTION
+
+TERRACE FLOOR +74.85M
+24th FLOOR +71.85M
+23rd FLOOR +68.85M
+22nd FLOOR +65.85M
+21st FLOOR +62.85M
+20th FLOOR +59.85M
+19th FLOOR +56.85M
+18th FLOOR +53.85M
+17th FLOOR +50.85M
+16th FLOOR +47.85M
+15th FLOOR +44.85M
+14th FLOOR +41.85M
+13th FLOOR +38.85M
+12th FLOOR +35.85M
+11th FLOOR +32.85M
+10th FLOOR +29.85M
+9th FLOOR +26.85M
+8th FLOOR +23.85M
+7th FLOOR +20.85M
+6th FLOOR +17.85M
+5th FLOOR +14.85M
+4th FLOOR +11.85M
+3rd FLOOR +8.85M
+2nd FLOOR +5.85M
+1st FLOOR +2.85M
+GROUND FLOOR +0.00M
+STILT FLOOR -2.85M

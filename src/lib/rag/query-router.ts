@@ -29,6 +29,7 @@ const DOC_TYPES = [
   "financial",
   "certificate",
   "notice",
+  "mygate",
   "general",
 ] as const;
 
@@ -81,6 +82,20 @@ const REGEX_ROUTES: { patterns: RegExp[]; docType: string; intent: string }[] = 
     docType: "certificate",
     intent: "certificate_explicit",
   },
+  {
+    patterns: [
+      /\b(mygate|my.?gate)\b/i,
+      /\b(pre.?approv|preapprov)/i,
+      /\b(visitor|delivery|cab|uber|ola|rapido)\b.*\b(entry|gate|approve|allow)\b/i,
+      /\b(gate|entry)\b.*\b(visitor|delivery|cab|uber|ola|swiggy|zomato|blinkit)\b/i,
+      /\b(domestic help|maid|cook|staff)\b.*\b(entry|access|gate|qr)\b/i,
+      /\b(book|slot)\b.*\b(amenit|clubhouse|badminton|party hall|gym)\b/i,
+      /\b(helpdesk|raise.*complaint|raise.*ticket)\b/i,
+      /\b(intercom|call.*guard)\b/i,
+    ],
+    docType: "mygate",
+    intent: "mygate_explicit",
+  },
 ];
 
 function regexRoute(query: string): RouteResult | null {
@@ -113,6 +128,7 @@ Classify the resident's question into exactly one document type:
 - financial: Maintenance charges, income/expenditure, budget, corpus fund, receipts, association finances
 - certificate: BBMP occupancy certificate, completion certificate, building approvals
 - notice: Official notices, circulars, announcements from SIAOA
+- mygate: How to use the MyGate app — pre-approving visitors, delivery entry (Swiggy/Zomato/Uber/Ola), managing domestic help, booking amenities, raising complaints, paying maintenance, gate access, intercom, QR codes, visitor logs
 - general: Greetings, off-topic, or genuinely ambiguous questions that don't fit any category`;
 
 async function llmRoute(query: string): Promise<RouteResult> {

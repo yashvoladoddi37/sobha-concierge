@@ -2,15 +2,18 @@
 
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText } from "lucide-react";
+import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone } from "lucide-react";
+import { FeedbackButtons } from "@/components/feedback-buttons";
 
 interface ChatMessageProps {
   role: "user" | "assistant";
   content: string;
   isStreaming?: boolean;
+  messageId?: string;
+  previousUserMessage?: string;
 }
 
-export function ChatMessage({ role, content, isStreaming }: ChatMessageProps) {
+export function ChatMessage({ role, content, isStreaming, messageId, previousUserMessage }: ChatMessageProps) {
   const isBot = role === "assistant";
 
   return (
@@ -25,30 +28,41 @@ export function ChatMessage({ role, content, isStreaming }: ChatMessageProps) {
         <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="flex-shrink-0 rounded-full mt-1" />
       )}
 
-      {/* Message bubble */}
-      <div
-        className={cn(
-          "max-w-[85%] px-4 py-3 text-[15px] leading-relaxed",
-          isBot
-            ? "bg-[var(--color-emerald-light)] text-[var(--color-stone-900)] rounded-[2px_16px_16px_16px]"
-            : "bg-[var(--color-charcoal)] text-white rounded-[16px_16px_2px_16px]"
-        )}
-      >
-        {/* Render markdown-like content */}
+      <div className="max-w-[85%]">
+        {/* Message bubble */}
         <div
           className={cn(
-            "prose prose-sm max-w-none",
+            "px-4 py-3 text-[15px] leading-relaxed",
             isBot
-              ? "prose-stone"
-              : "prose-invert"
+              ? "bg-[var(--color-emerald-light)] text-[var(--color-stone-900)] rounded-[2px_16px_16px_16px]"
+              : "bg-[var(--color-charcoal)] text-white rounded-[16px_16px_2px_16px]"
           )}
         >
-          <MessageContent content={content} isBot={isBot} />
+          {/* Render markdown-like content */}
+          <div
+            className={cn(
+              "prose prose-sm max-w-none",
+              isBot
+                ? "prose-stone"
+                : "prose-invert"
+            )}
+          >
+            <MessageContent content={content} isBot={isBot} />
+          </div>
+
+          {/* Streaming indicator */}
+          {isStreaming && isBot && (
+            <span className="inline-block w-1.5 h-4 bg-[var(--color-emerald)] rounded-full ml-1 animate-pulse" />
+          )}
         </div>
 
-        {/* Streaming indicator */}
-        {isStreaming && isBot && (
-          <span className="inline-block w-1.5 h-4 bg-[var(--color-emerald)] rounded-full ml-1 animate-pulse" />
+        {/* Feedback buttons — shown on completed bot messages */}
+        {isBot && !isStreaming && messageId && (
+          <FeedbackButtons
+            messageId={messageId}
+            query={previousUserMessage}
+            response={content}
+          />
         )}
       </div>
     </div>
@@ -57,6 +71,7 @@ export function ChatMessage({ role, content, isStreaming }: ChatMessageProps) {
 
 function getDocIcon(citation: string) {
   const lower = citation.toLowerCase();
+  if (lower.includes("mygate")) return Smartphone;
   if (lower.includes("bylaw")) return Scale;
   if (lower.includes("meeting") || lower.includes("mom") || lower.includes("agm") || lower.includes("egm")) return ClipboardList;
   if (lower.includes("deed") || lower.includes("declaration")) return ScrollText;
