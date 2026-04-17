@@ -38,7 +38,7 @@ Documents go through: PDF → Gemini Vision OCR → clean markdown → semantic 
 |---|---|---|
 | Bylaws | 128 | SIAOA Apartment Bylaws (44 pages) |
 | Deed | 78 | Deed of Declaration (93 pages) |
-| Minutes | 42 | 8 board meeting minutes |
+| Minutes | 42 | 11 board/EGM meeting minutes |
 | Act | 10 | Karnataka Apartment Ownership Act 1972 |
 | Certificate | 7 | BBMP Occupancy + Completion Certificates |
 | Penalties | 5 | SIAOA Penalties & Violations |
