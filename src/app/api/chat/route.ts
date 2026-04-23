@@ -18,6 +18,14 @@ export async function POST(req: Request) {
     return new Response("No user message found", { status: 400 });
   }
 
+  const lastUserContent =
+    lastUserMessage.content ||
+    lastUserMessage.parts
+      ?.filter((p: { type: string }) => p.type === "text")
+      .map((p: { text: string }) => p.text)
+      .join("") ||
+    "";
+
   // Condense conversation history into a standalone retrieval query
   const searchQuery = condenseForRetrieval(
     messages.map((m: { role: string; content?: string; parts?: { type: string; text: string }[] }) => ({
@@ -37,7 +45,7 @@ export async function POST(req: Request) {
   });
 
   // Build the augmented prompt with context
-  const augmentedContent = buildPromptWithContext(lastUserMessage.content, results);
+  const augmentedContent = buildPromptWithContext(lastUserContent, results);
 
   // Build messages for the LLM, replacing the last user message with the augmented one
   const llmMessages = [
