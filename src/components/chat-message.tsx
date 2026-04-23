@@ -3,7 +3,7 @@
 import { useState, useMemo } from "react";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone } from "lucide-react";
+import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone, ChevronDown, X } from "lucide-react";
 import { FeedbackButtons } from "@/components/feedback-buttons";
 import type { SourceChunk } from "@/lib/types";
 
@@ -98,27 +98,145 @@ function parseCitation(raw: string): ParsedCitation {
   };
 }
 
-function FootnoteCitation({ index, citation }: { index: number; citation: ParsedCitation }) {
+function stripMetadataPrefix(text: string): string {
+  const idx = text.indexOf("]\n\n");
+  if (text.startsWith("[Document:") && idx !== -1) {
+    return text.slice(idx + 3).trim();
+  }
+  return text.trim();
+}
+
+function matchCitationToSource(citation: ParsedCitation, sources: SourceChunk[]): SourceChunk | undefined {
+  const citDocLower = citation.docName.toLowerCase();
+  const citSection = citation.section?.toLowerCase() ?? "";
+  const citPage = citation.page?.match(/\d+/)?.[0];
+
+  let best: SourceChunk | undefined;
+  let bestScore = 0;
+
+  for (const s of sources) {
+    let score = 0;
+    if (s.docName.toLowerCase().includes(citDocLower) || citDocLower.includes(s.docName.toLowerCase())) {
+      score += 3;
+    }
+    if (citSection && s.section?.toLowerCase().includes(citSection.slice(0, 20))) {
+      score += 2;
+    }
+    if (citPage && s.pageNumber?.toString() === citPage) {
+      score += 1;
+    }
+    if (score > bestScore) {
+      bestScore = score;
+      best = s;
+    }
+  }
+
+  return bestScore >= 3 ? best : undefined;
+}
+
+function FootnoteCitation({ index, citation, sources }: { index: number; citation: ParsedCitation; sources?: SourceChunk[] }) {
+  const [expanded, setExpanded] = useState(false);
   const Icon = getDocIcon(citation.docName);
   const details = [citation.section, citation.page].filter(Boolean).join(" · ");
+  const matched = sources ? matchCitationToSource(citation, sources) : undefined;
+  const hasSource = !!matched;
 
   return (
-    <div className="flex gap-2 py-1.5">
-      <span className="text-[11px] font-bold text-[var(--color-gold)] mt-0.5 flex-shrink-0 w-4 text-right">
-        {index}
-      </span>
-      <div className="min-w-0">
-        {citation.quote && (
-          <div className="text-[12px] italic text-[var(--color-stone-600)] mb-0.5">
-            &ldquo;{citation.quote}&rdquo;
-          </div>
+    <div className="my-0.5">
+      <div
+        role={hasSource ? "button" : undefined}
+        tabIndex={hasSource ? 0 : undefined}
+        onClick={hasSource ? () => setExpanded(!expanded) : undefined}
+        onKeyDown={hasSource ? (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setExpanded(!expanded); } } : undefined}
+        className={cn(
+          "flex gap-2 py-1.5 rounded -mx-1 px-1",
+          hasSource && "cursor-pointer hover:bg-[var(--color-gold-light)]/50 transition-colors"
         )}
-        <div className="flex items-center gap-1.5">
-          <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
-          <span className="text-[11px] font-medium text-[var(--color-gold)]">{citation.docName}</span>
-          {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+      >
+        <span className="text-[11px] font-bold text-[var(--color-gold)] mt-0.5 flex-shrink-0 w-4 text-right">
+          {index}
+        </span>
+        <div className="min-w-0 flex-1">
+          {citation.quote && (
+            <div className="text-[12px] italic text-[var(--color-stone-600)] mb-0.5">
+              &ldquo;{citation.quote}&rdquo;
+            </div>
+          )}
+          <div className="flex items-center gap-1.5">
+            <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
+            <span className="text-[11px] font-medium text-[var(--color-gold)]">{citation.docName}</span>
+            {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+          </div>
         </div>
+        {hasSource && (
+          <ChevronDown className={cn(
+            "w-3 h-3 text-[var(--color-stone-400)] flex-shrink-0 mt-1 transition-transform",
+            expanded && "rotate-180"
+          )} />
+        )}
       </div>
+
+      {expanded && matched && (
+        <div className="ml-5 mt-1 mb-2 p-3 rounded-lg bg-white/90 border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[10px] font-semibold text-[var(--color-stone-400)] uppercase tracking-wider">
+              Source excerpt
+            </span>
+            <button type="button" onClick={() => setExpanded(false)} className="cursor-pointer p-0.5">
+              <X className="w-3 h-3 text-[var(--color-stone-400)] hover:text-[var(--color-stone-600)]" />
+            </button>
+          </div>
+          <div className="whitespace-pre-wrap text-[12px]">{stripMetadataPrefix(matched.content)}</div>
+          <div className="mt-2 pt-2 border-t border-[var(--color-sandstone)]/60 flex items-center gap-1.5">
+            <Icon className="w-3 h-3 text-[var(--color-stone-400)]" />
+            <span className="text-[10px] text-[var(--color-stone-400)]">
+              {matched.docName}
+              {matched.pageNumber ? ` · Page ${matched.pageNumber}` : ""}
+            </span>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function SourceCard({ source }: { source: SourceChunk }) {
+  const [expanded, setExpanded] = useState(false);
+  const Icon = getDocIcon(source.docName);
+  const details = [source.chapter, source.section, source.pageNumber ? `Page ${source.pageNumber}` : null]
+    .filter(Boolean).join(" · ");
+
+  return (
+    <div className="my-0.5">
+      <div
+        role="button"
+        tabIndex={0}
+        onClick={() => setExpanded(!expanded)}
+        onKeyDown={(e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); setExpanded(!expanded); } }}
+        className="flex items-center gap-1.5 py-1.5 rounded -mx-1 px-1 cursor-pointer hover:bg-[var(--color-gold-light)]/50 transition-colors"
+      >
+        <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
+        <span className="text-[11px] font-medium text-[var(--color-gold)] flex-1">{source.docName}</span>
+        {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+        <ChevronDown className={cn(
+          "w-3 h-3 text-[var(--color-stone-400)] flex-shrink-0 transition-transform",
+          expanded && "rotate-180"
+        )} />
+      </div>
+
+      {expanded && (
+        <div className="ml-1 mt-1 mb-2 p-3 rounded-lg bg-white/90 border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[10px] font-semibold text-[var(--color-stone-400)] uppercase tracking-wider">
+              Source excerpt
+            </span>
+            <button type="button" onClick={() => setExpanded(false)} className="cursor-pointer p-0.5">
+              <X className="w-3 h-3 text-[var(--color-stone-400)] hover:text-[var(--color-stone-600)]" />
+            </button>
+          </div>
+          <div className="whitespace-pre-wrap text-[12px]">{stripMetadataPrefix(source.content)}</div>
+        </div>
+      )}
     </div>
   );
 }
@@ -175,10 +293,10 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
       {citations.length > 0 && (
         <div className="mt-3 pt-2 border-t border-[var(--color-gold-border)]/40">
           <div className="text-[10px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
-            References
+            References {sources && sources.length > 0 && "· click to expand"}
           </div>
           {citations.map((c, i) => (
-            <FootnoteCitation key={i} index={i + 1} citation={c} />
+            <FootnoteCitation key={i} index={i + 1} citation={c} sources={sources} />
           ))}
         </div>
       )}
@@ -186,19 +304,11 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
       {citations.length === 0 && sources && sources.length > 0 && (
         <div className="mt-3 pt-2 border-t border-[var(--color-gold-border)]/40">
           <div className="text-[10px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
-            Source documents
+            Sources · click to expand
           </div>
-          {sources.map((s, i) => {
-            const Icon = getDocIcon(s.docName);
-            const details = [s.chapter, s.section, s.pageNumber ? `Page ${s.pageNumber}` : null].filter(Boolean).join(" · ");
-            return (
-              <div key={i} className="flex items-center gap-1.5 py-1">
-                <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
-                <span className="text-[11px] font-medium text-[var(--color-gold)]">{s.docName}</span>
-                {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
-              </div>
-            );
-          })}
+          {sources.map((s, i) => (
+            <SourceCard key={i} source={s} />
+          ))}
         </div>
       )}
     </>
