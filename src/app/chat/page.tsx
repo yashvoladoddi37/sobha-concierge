@@ -3,7 +3,8 @@
 import { useChat } from "@ai-sdk/react";
 import { useState, useRef, useEffect, useCallback } from "react";
 import Image from "next/image";
-import { Menu, Plus } from "lucide-react";
+import Link from "next/link";
+import { Menu, Plus, BookOpen } from "lucide-react";
 import { ChatMessage, TypingIndicator } from "@/components/chat-message";
 import { ChatInput } from "@/components/chat-input";
 import { SuggestedQuestions } from "@/components/suggested-questions";
@@ -140,6 +141,13 @@ export default function ChatPage() {
                 Sobha Indraprastha Resident Assistant
               </p>
             </div>
+            <Link
+              href="/docs"
+              className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors"
+              title="Knowledge base"
+            >
+              <BookOpen className="w-5 h-5 text-[var(--color-stone-600)]" />
+            </Link>
             <button
               onClick={handleNewChat}
               className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors cursor-pointer"

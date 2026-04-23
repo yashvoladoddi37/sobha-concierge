@@ -3,8 +3,10 @@
 import { useState, useMemo } from "react";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone } from "lucide-react";
+import Link from "next/link";
+import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone, ExternalLink } from "lucide-react";
 import { FeedbackButtons } from "@/components/feedback-buttons";
+import { resolveDocUrl } from "@/lib/doc-url";
 import type { SourceChunk } from "@/lib/types";
 
 interface ChatMessageProps {
@@ -101,13 +103,14 @@ function parseCitation(raw: string): ParsedCitation {
 function FootnoteCitation({ index, citation }: { index: number; citation: ParsedCitation }) {
   const Icon = getDocIcon(citation.docName);
   const details = [citation.section, citation.page].filter(Boolean).join(" · ");
+  const docUrl = resolveDocUrl(citation.docName, citation.page);
 
-  return (
-    <div className="flex gap-2 py-1.5">
+  const inner = (
+    <>
       <span className="text-[11px] font-bold text-[var(--color-gold)] mt-0.5 flex-shrink-0 w-4 text-right">
         {index}
       </span>
-      <div className="min-w-0">
+      <div className="min-w-0 flex-1">
         {citation.quote && (
           <div className="text-[12px] italic text-[var(--color-stone-600)] mb-0.5">
             &ldquo;{citation.quote}&rdquo;
@@ -117,10 +120,21 @@ function FootnoteCitation({ index, citation }: { index: number; citation: Parsed
           <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
           <span className="text-[11px] font-medium text-[var(--color-gold)]">{citation.docName}</span>
           {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+          {docUrl && <ExternalLink className="w-2.5 h-2.5 text-[var(--color-stone-400)]" />}
         </div>
       </div>
-    </div>
+    </>
   );
+
+  if (docUrl) {
+    return (
+      <Link href={docUrl} target="_blank" className="flex gap-2 py-1.5 hover:bg-[var(--color-gold-light)]/50 -mx-1 px-1 rounded transition-colors">
+        {inner}
+      </Link>
+    );
+  }
+
+  return <div className="flex gap-2 py-1.5">{inner}</div>;
 }
 
 function MessageContent({ content, isBot, sources }: { content: string; isBot: boolean; sources?: SourceChunk[] }) {
@@ -191,12 +205,21 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
           {sources.map((s, i) => {
             const Icon = getDocIcon(s.docName);
             const details = [s.chapter, s.section, s.pageNumber ? `Page ${s.pageNumber}` : null].filter(Boolean).join(" · ");
-            return (
-              <div key={i} className="flex items-center gap-1.5 py-1">
+            const url = resolveDocUrl(s.docName, s.pageNumber ? `Page ${s.pageNumber}` : undefined);
+            const content = (
+              <>
                 <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
                 <span className="text-[11px] font-medium text-[var(--color-gold)]">{s.docName}</span>
                 {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
-              </div>
+                {url && <ExternalLink className="w-2.5 h-2.5 text-[var(--color-stone-400)]" />}
+              </>
+            );
+            return url ? (
+              <Link key={i} href={url} target="_blank" className="flex items-center gap-1.5 py-1 hover:bg-[var(--color-gold-light)]/50 -mx-1 px-1 rounded transition-colors">
+                {content}
+              </Link>
+            ) : (
+              <div key={i} className="flex items-center gap-1.5 py-1">{content}</div>
             );
           })}
         </div>
