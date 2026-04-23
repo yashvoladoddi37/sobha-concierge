@@ -180,6 +180,15 @@ function chunkBySection(text: string, docType: string): Chunk[] {
       continue;
     }
 
+    // Detect lettered sub-items in MoMs: "A. Topic", "B. Topic" (emergency items, etc.)
+    const letteredMatch = line.match(/^\s*([A-Z])\.\s+(.{3,})/);
+    if (letteredMatch && docType === "minutes" && currentContent.length > 100) {
+      flush();
+      currentSection = `Item ${letteredMatch[1]}: ${letteredMatch[2].substring(0, 60)}`;
+      currentContent = line + "\n";
+      continue;
+    }
+
     currentContent += line + "\n";
 
     // Hard split at MAX_CHUNK_CHARS
