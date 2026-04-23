@@ -9,7 +9,6 @@ export const maxDuration = 30;
 export async function POST(req: Request) {
   const { messages } = await req.json();
 
-  // Get the latest user message for retrieval
   const lastUserMessage = messages
     .filter((m: { role: string }) => m.role === "user")
     .pop();
@@ -26,7 +25,6 @@ export async function POST(req: Request) {
       .join("") ||
     "";
 
-  // Condense conversation history into a standalone retrieval query
   const searchQuery = condenseForRetrieval(
     messages.map((m: { role: string; content?: string; parts?: { type: string; text: string }[] }) => ({
       role: m.role,
@@ -34,26 +32,31 @@ export async function POST(req: Request) {
     }))
   );
 
-  // Route query to the right document type (regex fast-path, then LLM fallback)
   const { docTypeFilter } = await routeQuery(searchQuery);
 
-  // Retrieve relevant chunks with routing filter
   const results = await retrieve(searchQuery, {
     topK: 20,
     rerankTopK: 5,
     docTypeFilter: docTypeFilter ?? undefined,
   });
 
-  // Build the augmented prompt with context
   const augmentedContent = buildPromptWithContext(lastUserContent, results);
 
-  // Build messages for the LLM, replacing the last user message with the augmented one
   const llmMessages = [
     ...messages.slice(0, -1),
     { role: "user" as const, content: augmentedContent },
   ];
 
-  // Stream response from Gemini Flash
+  const sources = results.map((r) => ({
+    docName: r.doc_name,
+    docType: r.doc_type,
+    chapter: r.chapter,
+    section: r.section,
+    pageNumber: r.page_number,
+    docDate: r.doc_date,
+    content: r.content,
+  }));
+
   const result = streamText({
     model: google("gemini-2.5-flash-lite"),
     system: SYSTEM_PROMPT,
@@ -61,5 +64,12 @@ export async function POST(req: Request) {
     temperature: 0.2,
   });
 
-  return result.toUIMessageStreamResponse();
+  return result.toUIMessageStreamResponse({
+    messageMetadata: ({ part }) => {
+      if (part.type === "finish") {
+        return { sources };
+      }
+      return undefined;
+    },
+  });
 }
