@@ -33,7 +33,7 @@ export function ChatInput({ value, onChange, onSubmit, isLoading }: ChatInputPro
   };
 
   return (
-    <div className="border-t border-[var(--color-sandstone)] bg-white px-4 py-3 safe-bottom">
+    <div className="border-t border-[var(--color-sandstone)] bg-[var(--color-surface)] px-4 py-3 safe-bottom">
       <div className="max-w-2xl mx-auto flex items-end gap-2">
         <div className="flex-1 relative">
           <textarea
@@ -43,7 +43,7 @@ export function ChatInput({ value, onChange, onSubmit, isLoading }: ChatInputPro
             onKeyDown={handleKeyDown}
             placeholder="Ask about bylaws, meetings, penalties..."
             rows={1}
-            className="w-full resize-none rounded-xl border-[1.5px] border-[var(--color-sandstone)] bg-white px-4 py-3 text-[15px] placeholder:text-[var(--color-stone-400)] focus:border-[var(--color-emerald)] focus:ring-[3px] focus:ring-[var(--color-emerald)]/10 focus:outline-none transition-all duration-150"
+            className="w-full resize-none rounded-xl border-[1.5px] border-[var(--color-sandstone)] bg-[var(--color-surface-elevated)] text-[var(--color-charcoal)] px-4 py-3 text-[15px] placeholder:text-[var(--color-stone-400)] focus:border-[var(--color-emerald)] focus:ring-[3px] focus:ring-[var(--color-emerald)]/10 focus:outline-none transition-all duration-150"
           />
         </div>
         <button

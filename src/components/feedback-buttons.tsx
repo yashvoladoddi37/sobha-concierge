@@ -50,9 +50,9 @@ export function FeedbackButtons({ messageId, query, response }: FeedbackButtonsP
         className={cn(
           "p-1 rounded-md transition-all",
           rating === "down"
-            ? "text-red-500 bg-red-50"
+            ? "text-red-500 bg-red-500/10"
             : rating === null
-              ? "text-[var(--color-stone-400)] hover:text-red-500 hover:bg-red-50 cursor-pointer"
+              ? "text-[var(--color-stone-400)] hover:text-red-500 hover:bg-red-500/10 cursor-pointer"
               : "text-[var(--color-stone-300)] cursor-default"
         )}
         aria-label="Not helpful"

@@ -3,10 +3,8 @@
 import { useState, useMemo } from "react";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import Link from "next/link";
-import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone, ExternalLink } from "lucide-react";
+import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone } from "lucide-react";
 import { FeedbackButtons } from "@/components/feedback-buttons";
-import { resolveDocUrl } from "@/lib/doc-url";
 import type { SourceChunk } from "@/lib/types";
 
 interface ChatMessageProps {
@@ -36,7 +34,7 @@ export function ChatMessage({ role, content, sources, isStreaming, messageId, pr
       )}
     >
       {isBot && (
-        <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-white mt-1">
+        <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-[var(--color-surface-elevated)] mt-1">
           <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="w-full h-full object-contain" />
         </div>
       )}
@@ -47,13 +45,13 @@ export function ChatMessage({ role, content, sources, isStreaming, messageId, pr
             "px-4 py-3 text-[15px] leading-relaxed",
             isBot
               ? "bg-[var(--color-emerald-light)] text-[var(--color-stone-900)] rounded-[2px_16px_16px_16px]"
-              : "bg-[var(--color-charcoal)] text-white rounded-[16px_16px_2px_16px]"
+              : "bg-[var(--color-emerald)] text-white rounded-[16px_16px_2px_16px]"
           )}
         >
           <div
             className={cn(
               "prose prose-sm max-w-none",
-              isBot ? "prose-stone" : "prose-invert"
+              "prose-invert"
             )}
           >
             <MessageContent content={content} isBot={isBot} sources={sources} />
@@ -103,14 +101,13 @@ function parseCitation(raw: string): ParsedCitation {
 function FootnoteCitation({ index, citation }: { index: number; citation: ParsedCitation }) {
   const Icon = getDocIcon(citation.docName);
   const details = [citation.section, citation.page].filter(Boolean).join(" · ");
-  const docUrl = resolveDocUrl(citation.docName, citation.page);
 
-  const inner = (
-    <>
+  return (
+    <div className="flex gap-2 py-1.5">
       <span className="text-[11px] font-bold text-[var(--color-gold)] mt-0.5 flex-shrink-0 w-4 text-right">
         {index}
       </span>
-      <div className="min-w-0 flex-1">
+      <div className="min-w-0">
         {citation.quote && (
           <div className="text-[12px] italic text-[var(--color-stone-600)] mb-0.5">
             &ldquo;{citation.quote}&rdquo;
@@ -120,21 +117,10 @@ function FootnoteCitation({ index, citation }: { index: number; citation: Parsed
           <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
           <span className="text-[11px] font-medium text-[var(--color-gold)]">{citation.docName}</span>
           {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
-          {docUrl && <ExternalLink className="w-2.5 h-2.5 text-[var(--color-stone-400)]" />}
         </div>
       </div>
-    </>
+    </div>
   );
-
-  if (docUrl) {
-    return (
-      <Link href={docUrl} target="_blank" className="flex gap-2 py-1.5 hover:bg-[var(--color-gold-light)]/50 -mx-1 px-1 rounded transition-colors">
-        {inner}
-      </Link>
-    );
-  }
-
-  return <div className="flex gap-2 py-1.5">{inner}</div>;
 }
 
 function MessageContent({ content, isBot, sources }: { content: string; isBot: boolean; sources?: SourceChunk[] }) {
@@ -205,21 +191,12 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
           {sources.map((s, i) => {
             const Icon = getDocIcon(s.docName);
             const details = [s.chapter, s.section, s.pageNumber ? `Page ${s.pageNumber}` : null].filter(Boolean).join(" · ");
-            const url = resolveDocUrl(s.docName, s.pageNumber ? `Page ${s.pageNumber}` : undefined);
-            const content = (
-              <>
+            return (
+              <div key={i} className="flex items-center gap-1.5 py-1">
                 <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
                 <span className="text-[11px] font-medium text-[var(--color-gold)]">{s.docName}</span>
                 {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
-                {url && <ExternalLink className="w-2.5 h-2.5 text-[var(--color-stone-400)]" />}
-              </>
-            );
-            return url ? (
-              <Link key={i} href={url} target="_blank" className="flex items-center gap-1.5 py-1 hover:bg-[var(--color-gold-light)]/50 -mx-1 px-1 rounded transition-colors">
-                {content}
-              </Link>
-            ) : (
-              <div key={i} className="flex items-center gap-1.5 py-1">{content}</div>
+              </div>
             );
           })}
         </div>
@@ -253,7 +230,7 @@ function formatInline(text: string) {
 export function TypingIndicator() {
   return (
     <div className="flex gap-3 justify-start animate-message-in">
-      <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-white">
+      <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-[var(--color-surface-elevated)]">
         <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="w-full h-full object-contain" />
       </div>
       <div className="bg-[var(--color-emerald-light)] rounded-[2px_16px_16px_16px] px-4 py-3 flex items-center gap-1.5">

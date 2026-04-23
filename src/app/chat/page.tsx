@@ -3,8 +3,7 @@
 import { useChat } from "@ai-sdk/react";
 import { useState, useRef, useEffect, useCallback } from "react";
 import Image from "next/image";
-import Link from "next/link";
-import { Menu, Plus, BookOpen } from "lucide-react";
+import { Menu, Plus } from "lucide-react";
 import { ChatMessage, TypingIndicator } from "@/components/chat-message";
 import { ChatInput } from "@/components/chat-input";
 import { SuggestedQuestions } from "@/components/suggested-questions";
@@ -124,13 +123,13 @@ export default function ChatPage() {
       {/* Main chat area */}
       <div className="flex-1 flex flex-col min-w-0">
         {/* Header */}
-        <header className="flex-shrink-0 border-b border-[var(--color-sandstone)] bg-white shadow-[0_1px_3px_rgba(0,0,0,0.04)]">
+        <header className="flex-shrink-0 border-b border-[var(--color-sandstone)] bg-[var(--color-surface)]">
           <div className="max-w-2xl mx-auto px-4 h-14 flex items-center gap-3">
             <button
               onClick={() => setSidebarOpen(true)}
-              className="p-2 -ml-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors cursor-pointer md:hidden"
+              className="p-2 -ml-2 rounded-lg hover:bg-[var(--color-surface-elevated)] transition-colors cursor-pointer md:hidden"
             >
-              <Menu className="w-5 h-5 text-[var(--color-stone-600)]" />
+              <Menu className="w-5 h-5 text-[var(--color-stone-500)]" />
             </button>
             <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="rounded-full" />
             <div className="flex-1 min-w-0">
@@ -141,19 +140,12 @@ export default function ChatPage() {
                 Sobha Indraprastha Resident Assistant
               </p>
             </div>
-            <Link
-              href="/docs"
-              className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors"
-              title="Knowledge base"
-            >
-              <BookOpen className="w-5 h-5 text-[var(--color-stone-600)]" />
-            </Link>
             <button
               onClick={handleNewChat}
-              className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors cursor-pointer"
+              className="p-2 rounded-lg hover:bg-[var(--color-surface-elevated)] transition-colors cursor-pointer"
               title="New chat"
             >
-              <Plus className="w-5 h-5 text-[var(--color-stone-600)]" />
+              <Plus className="w-5 h-5 text-[var(--color-stone-500)]" />
             </button>
           </div>
         </header>

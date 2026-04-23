@@ -12,23 +12,26 @@
   --font-heading: var(--font-display);
   --font-display: var(--font-display);
 
-  /* Sobha Design Tokens */
-  --color-ivory: #FAF8F5;
-  --color-charcoal: #1C1917;
-  --color-emerald: #2D6A4F;
-  --color-emerald-light: #EBF5F0;
-  --color-emerald-dark: #235C42;
-  --color-gold: #B7872F;
-  --color-gold-light: #FDF8EF;
-  --color-gold-border: #E8D5B0;
-  --color-sandstone: #E7E0D8;
-  --color-stone-100: #F5F5F4;
-  --color-stone-200: #E7E5E4;
-  --color-stone-300: #D6D3D1;
-  --color-stone-400: #A8A29E;
-  --color-stone-500: #78716C;
-  --color-stone-700: #44403C;
-  --color-stone-900: #1C1917;
+  /* Sobha Design Tokens — Dark Elegant */
+  --color-ivory: #0C0C0B;
+  --color-charcoal: #EAE6E1;
+  --color-surface: #161514;
+  --color-surface-elevated: #1E1D1B;
+  --color-emerald: #3D9B6F;
+  --color-emerald-light: #13261D;
+  --color-emerald-dark: #2D8058;
+  --color-gold: #C9963A;
+  --color-gold-light: #1F1A10;
+  --color-gold-border: #3D3020;
+  --color-sandstone: #252220;
+  --color-stone-100: #161514;
+  --color-stone-200: #1E1D1B;
+  --color-stone-300: #333130;
+  --color-stone-400: #6B6560;
+  --color-stone-500: #8A837D;
+  --color-stone-600: #9A9490;
+  --color-stone-700: #B0A89F;
+  --color-stone-900: #EAE6E1;
 
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
@@ -69,29 +72,29 @@
 }
 
 :root {
-  --background: #FAF8F5;
-  --foreground: #1C1917;
-  --card: #FFFFFF;
-  --card-foreground: #1C1917;
-  --popover: #FFFFFF;
-  --popover-foreground: #1C1917;
-  --primary: #2D6A4F;
+  --background: #0C0C0B;
+  --foreground: #EAE6E1;
+  --card: #161514;
+  --card-foreground: #EAE6E1;
+  --popover: #161514;
+  --popover-foreground: #EAE6E1;
+  --primary: #3D9B6F;
   --primary-foreground: #FFFFFF;
-  --secondary: #F5F5F4;
-  --secondary-foreground: #1C1917;
-  --muted: #F5F5F4;
-  --muted-foreground: #78716C;
-  --accent: #EBF5F0;
-  --accent-foreground: #2D6A4F;
-  --destructive: #DC2626;
-  --border: #E7E0D8;
-  --input: #E7E0D8;
-  --ring: #2D6A4F;
-  --chart-1: #2D6A4F;
-  --chart-2: #B7872F;
-  --chart-3: #2563EB;
-  --chart-4: #16A34A;
-  --chart-5: #D97706;
+  --secondary: #1E1D1B;
+  --secondary-foreground: #EAE6E1;
+  --muted: #1E1D1B;
+  --muted-foreground: #8A837D;
+  --accent: #13261D;
+  --accent-foreground: #3D9B6F;
+  --destructive: #EF4444;
+  --border: #252220;
+  --input: #252220;
+  --ring: #3D9B6F;
+  --chart-1: #3D9B6F;
+  --chart-2: #C9963A;
+  --chart-3: #60A5FA;
+  --chart-4: #34D399;
+  --chart-5: #FBBF24;
   --radius: 0.5rem;
 }
 
@@ -189,4 +192,8 @@
 .scrollbar-thin::-webkit-scrollbar-thumb {
   background: var(--color-stone-300);
   border-radius: 4px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: var(--color-stone-400);
 }

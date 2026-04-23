@@ -46,7 +46,7 @@ export default function LandingPage() {
   return (
     <div className="min-h-dvh bg-[var(--color-ivory)]">
       {/* ── Nav ── */}
-      <nav className="fixed top-0 inset-x-0 z-50 bg-[var(--color-ivory)]/85 backdrop-blur-xl border-b border-[var(--color-sandstone)]/60">
+      <nav className="fixed top-0 inset-x-0 z-50 bg-[var(--color-ivory)]/90 backdrop-blur-xl border-b border-[var(--color-sandstone)]/60">
         <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2.5">
             <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="rounded-lg" />
@@ -98,7 +98,7 @@ export default function LandingPage() {
             </Link>
             <a
               href="#features"
-              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-lg border border-[var(--color-sandstone)] text-[var(--color-stone-700)] text-[15px] font-medium transition-all hover:bg-white hover:border-[var(--color-stone-300)]"
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-lg border border-[var(--color-sandstone)] text-[var(--color-stone-700)] text-[15px] font-medium transition-all hover:bg-[var(--color-surface)] hover:border-[var(--color-stone-400)]"
             >
               See How It Works
             </a>
@@ -107,9 +107,9 @@ export default function LandingPage() {
 
         {/* Chat Preview */}
         <div className="mt-16 max-w-lg mx-auto hero-fade-in" style={{ animationDelay: "350ms" }}>
-          <div className="rounded-2xl border border-[var(--color-sandstone)] bg-white shadow-[0_30px_60px_-30px_rgba(28,25,23,0.12),0_0_0_1px_rgba(28,25,23,0.03)] overflow-hidden">
+          <div className="rounded-2xl border border-[var(--color-sandstone)] bg-[var(--color-surface)] shadow-[0_30px_60px_-30px_rgba(0,0,0,0.4),0_0_0_1px_rgba(255,255,255,0.03)] overflow-hidden">
             {/* Mock header */}
-            <div className="h-12 border-b border-[var(--color-sandstone)]/60 flex items-center gap-2.5 px-4 bg-[var(--color-stone-100)]/50">
+            <div className="h-12 border-b border-[var(--color-sandstone)]/60 flex items-center gap-2.5 px-4 bg-[var(--color-surface-elevated)]/50">
               <Image src="/sobha-logo.png" alt="Sobha" width={24} height={24} className="rounded-full" />
               <span className="text-[13px] font-medium text-[var(--color-charcoal)]">Sobha Concierge</span>
               <span className="ml-auto flex items-center gap-1.5">
@@ -120,12 +120,12 @@ export default function LandingPage() {
             {/* Mock messages */}
             <div className="p-4 space-y-3">
               <div className="flex justify-end">
-                <div className="bg-[var(--color-charcoal)] text-white text-[14px] px-4 py-2.5 rounded-[16px_16px_2px_16px] max-w-[80%]">
+                <div className="bg-[var(--color-emerald)] text-white text-[14px] px-4 py-2.5 rounded-[16px_16px_2px_16px] max-w-[80%]">
                   What&apos;s the penalty for late maintenance payment?
                 </div>
               </div>
               <div className="flex justify-start">
-                <div className="bg-[var(--color-emerald-light)] text-[var(--color-charcoal)] text-[14px] px-4 py-2.5 rounded-[2px_16px_16px_16px] max-w-[85%] space-y-2">
+                <div className="bg-[var(--color-emerald-light)] text-[var(--color-stone-900)] text-[14px] px-4 py-2.5 rounded-[2px_16px_16px_16px] max-w-[85%] space-y-2">
                   <p>
                     As per <strong>Clause 36(a)</strong> of the SIAOA Bylaws, a late fee of{" "}
                     <strong>18% per annum</strong> is charged on overdue maintenance amounts.
@@ -144,7 +144,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Features ── */}
-      <section id="features" ref={featuresRef} className="py-24 px-6 bg-white border-y border-[var(--color-sandstone)]/40">
+      <section id="features" ref={featuresRef} className="py-24 px-6 bg-[var(--color-surface)] border-y border-[var(--color-sandstone)]/40">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-[clamp(24px,4vw,36px)] font-light tracking-[-0.02em] text-[var(--color-charcoal)] font-[family-name:var(--font-display)] reveal-on-scroll">
@@ -191,7 +191,7 @@ export default function LandingPage() {
             ].map(({ icon: Icon, title, desc }, i) => (
               <div
                 key={title}
-                className="reveal-on-scroll group p-6 rounded-xl border border-[var(--color-sandstone)]/60 bg-[var(--color-ivory)]/50 transition-all hover:shadow-[rgba(50,50,93,0.12)_0px_20px_40px_-20px,rgba(0,0,0,0.06)_0px_12px_24px_-12px] hover:border-[var(--color-stone-300)]"
+                className="reveal-on-scroll group p-6 rounded-xl border border-[var(--color-sandstone)]/60 bg-[var(--color-surface-elevated)]/50 transition-all hover:border-[var(--color-emerald)]/30 hover:shadow-[0_0_30px_rgba(61,155,111,0.06)]"
                 style={{ transitionDelay: `${i * 60}ms` }}
               >
                 <div className="w-10 h-10 rounded-lg bg-[var(--color-emerald-light)] flex items-center justify-center mb-4 group-hover:bg-[var(--color-emerald)] transition-colors">
@@ -259,7 +259,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── CTA ── */}
-      <section ref={ctaRef} className="py-24 px-6 bg-[var(--color-charcoal)]">
+      <section ref={ctaRef} className="py-24 px-6 bg-[var(--color-emerald-light)]">
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-[clamp(24px,4vw,36px)] font-light tracking-[-0.02em] text-white font-[family-name:var(--font-display)] mb-4 reveal-on-scroll">
             Stop guessing. <span className="font-semibold">Start asking.</span>

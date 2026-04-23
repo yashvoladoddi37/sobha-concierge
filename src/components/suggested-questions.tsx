@@ -22,7 +22,7 @@ export function SuggestedQuestions({ onSelect }: SuggestedQuestionsProps) {
         <button
           key={question}
           onClick={() => onSelect(question)}
-          className="px-4 py-2.5 bg-white border border-[var(--color-stone-300)] rounded-full text-[14px] text-[var(--color-emerald)] hover:bg-[var(--color-emerald-light)] hover:border-[var(--color-emerald)] transition-all duration-150 active:scale-[0.97] cursor-pointer"
+          className="px-4 py-2.5 bg-[var(--color-surface)] border border-[var(--color-stone-300)] rounded-full text-[14px] text-[var(--color-emerald)] hover:bg-[var(--color-emerald-light)] hover:border-[var(--color-emerald)] transition-all duration-150 active:scale-[0.97] cursor-pointer"
         >
           {question}
         </button>

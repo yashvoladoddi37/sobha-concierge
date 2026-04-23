@@ -39,7 +39,7 @@ export function ChatSidebar({ sessions, activeId, onSelect, onNew, onDelete, ope
 
       <aside
         className={cn(
-          "fixed top-0 left-0 h-full w-72 bg-white border-r border-[var(--color-sandstone)] z-50 flex flex-col transition-transform duration-200 ease-out",
+          "fixed top-0 left-0 h-full w-72 bg-[var(--color-surface)] border-r border-[var(--color-sandstone)] z-50 flex flex-col transition-transform duration-200 ease-out",
           "md:relative md:translate-x-0 md:z-auto",
           open ? "translate-x-0" : "-translate-x-full md:translate-x-0"
         )}
@@ -52,16 +52,16 @@ export function ChatSidebar({ sessions, activeId, onSelect, onNew, onDelete, ope
           <div className="flex items-center gap-1">
             <button
               onClick={onNew}
-              className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors cursor-pointer"
+              className="p-2 rounded-lg hover:bg-[var(--color-surface-elevated)] transition-colors cursor-pointer"
               title="New chat"
             >
-              <Plus className="w-4 h-4 text-[var(--color-stone-600)]" />
+              <Plus className="w-4 h-4 text-[var(--color-stone-500)]" />
             </button>
             <button
               onClick={onClose}
-              className="p-2 rounded-lg hover:bg-[var(--color-stone-100)] transition-colors cursor-pointer md:hidden"
+              className="p-2 rounded-lg hover:bg-[var(--color-surface-elevated)] transition-colors cursor-pointer md:hidden"
             >
-              <X className="w-4 h-4 text-[var(--color-stone-600)]" />
+              <X className="w-4 h-4 text-[var(--color-stone-500)]" />
             </button>
           </div>
         </div>
@@ -82,7 +82,7 @@ export function ChatSidebar({ sessions, activeId, onSelect, onNew, onDelete, ope
                   "group flex items-center gap-2 px-3 py-2.5 mx-2 rounded-lg cursor-pointer transition-colors",
                   session.id === activeId
                     ? "bg-[var(--color-emerald-light)] text-[var(--color-charcoal)]"
-                    : "hover:bg-[var(--color-stone-100)] text-[var(--color-stone-600)]"
+                    : "hover:bg-[var(--color-surface-elevated)] text-[var(--color-stone-500)]"
                 )}
                 onClick={() => {
                   onSelect(session.id);
@@ -103,7 +103,7 @@ export function ChatSidebar({ sessions, activeId, onSelect, onNew, onDelete, ope
                     e.stopPropagation();
                     onDelete(session.id);
                   }}
-                  className="opacity-0 group-hover:opacity-100 p-1 rounded hover:bg-red-50 transition-all cursor-pointer"
+                  className="opacity-0 group-hover:opacity-100 p-1 rounded hover:bg-red-500/10 transition-all cursor-pointer"
                   title="Delete"
                 >
                   <Trash2 className="w-3.5 h-3.5 text-red-400 hover:text-red-600" />
