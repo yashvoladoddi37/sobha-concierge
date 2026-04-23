@@ -346,14 +346,18 @@ function formatInline(text: string) {
 }
 
 const STATUS_VERBS = [
-  "Searching documents",
-  "Reading sources",
-  "Analyzing context",
-  "Crafting response",
+  "Flipping through the bylaws",
+  "Checking meeting minutes",
+  "Coming up from B3",
+  "Asking the security desk",
+  "Reading the fine print",
+  "Consulting the declaration deed",
+  "Checking with the RWA office",
+  "Getting back from the gym",
 ];
 
 export function TypingIndicator() {
-  const [verbIndex, setVerbIndex] = useState(0);
+  const [verbIndex, setVerbIndex] = useState(() => Math.floor(Math.random() * STATUS_VERBS.length));
 
   useEffect(() => {
     const interval = setInterval(() => {
