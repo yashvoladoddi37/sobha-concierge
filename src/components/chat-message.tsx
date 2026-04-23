@@ -1,9 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
-import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone, ChevronDown, X } from "lucide-react";
+import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone } from "lucide-react";
 import { FeedbackButtons } from "@/components/feedback-buttons";
 import type { SourceChunk } from "@/lib/types";
 
@@ -14,6 +14,13 @@ interface ChatMessageProps {
   isStreaming?: boolean;
   messageId?: string;
   previousUserMessage?: string;
+}
+
+interface ParsedCitation {
+  docName: string;
+  section?: string;
+  page?: string;
+  quote?: string;
 }
 
 export function ChatMessage({ role, content, sources, isStreaming, messageId, previousUserMessage }: ChatMessageProps) {
@@ -67,129 +74,86 @@ export function ChatMessage({ role, content, sources, isStreaming, messageId, pr
   );
 }
 
-function getDocIcon(type: string) {
-  switch (type) {
-    case "mygate": return Smartphone;
-    case "bylaws": return Scale;
-    case "minutes": return ClipboardList;
-    case "deed": return ScrollText;
-    case "act": return Landmark;
-    case "financial": return Receipt;
-    default: return FileText;
-  }
+function getDocIcon(name: string) {
+  const lower = name.toLowerCase();
+  if (lower.includes("mygate")) return Smartphone;
+  if (lower.includes("bylaw")) return Scale;
+  if (lower.includes("meeting") || lower.includes("mom") || lower.includes("agm") || lower.includes("egm")) return ClipboardList;
+  if (lower.includes("deed") || lower.includes("declaration")) return ScrollText;
+  if (lower.includes("act") || lower.includes("karnataka")) return Landmark;
+  if (lower.includes("income") || lower.includes("financial") || lower.includes("expenditure")) return Receipt;
+  return FileText;
 }
 
-function stripMetadataPrefix(content: string): string {
-  const match = content.indexOf("]\n\n");
-  if (content.startsWith("[Document:") && match !== -1) {
-    return content.slice(match + 3).trim();
-  }
-  return content.trim();
+function parseCitation(raw: string): ParsedCitation {
+  const quoteMatch = raw.match(/\|\s*"([^"]+)"\s*$/);
+  const withoutQuote = quoteMatch ? raw.slice(0, raw.lastIndexOf("|")).trim() : raw;
+  const parts = withoutQuote.split("|").map((p) => p.trim());
+
+  return {
+    docName: parts[0] || raw,
+    section: parts[1],
+    page: parts[2],
+    quote: quoteMatch?.[1],
+  };
 }
 
-function SourceCard({ source }: { source: SourceChunk }) {
-  const [expanded, setExpanded] = useState(false);
-  const Icon = getDocIcon(source.docType);
-
-  const details = [source.chapter, source.section, source.pageNumber ? `Page ${source.pageNumber}` : null]
-    .filter(Boolean)
-    .join(" · ");
-
-  const cleanContent = stripMetadataPrefix(source.content);
+function FootnoteCitation({ index, citation }: { index: number; citation: ParsedCitation }) {
+  const Icon = getDocIcon(citation.docName);
+  const details = [citation.section, citation.page].filter(Boolean).join(" · ");
 
   return (
-    <div className="my-1.5">
-      <button
-        type="button"
-        onClick={() => setExpanded(!expanded)}
-        className="w-full flex items-start gap-2 px-3 py-2 rounded-lg bg-[var(--color-gold-light)] border border-[var(--color-gold-border)] hover:bg-[var(--color-gold-light)]/80 transition-colors text-left cursor-pointer"
-      >
-        <Icon className="w-4 h-4 text-[var(--color-gold)] flex-shrink-0 mt-0.5" />
-        <div className="min-w-0 flex-1">
-          <div className="text-[12px] font-semibold text-[var(--color-gold)] leading-tight">
-            {source.docName}
-          </div>
-          {details && (
-            <div className="text-[11px] text-[var(--color-stone-500)] leading-tight mt-0.5">
-              {details}
-            </div>
-          )}
-        </div>
-        <ChevronDown className={cn(
-          "w-3.5 h-3.5 text-[var(--color-gold)] flex-shrink-0 mt-0.5 transition-transform",
-          expanded && "rotate-180"
-        )} />
-      </button>
-
-      {expanded && (
-        <div className="mt-1 mx-1 p-3 rounded-lg bg-white border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-64 overflow-y-auto">
-          <div className="flex items-center justify-between mb-2">
-            <span className="text-[11px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider">
-              Full clause
-            </span>
-            <button type="button" onClick={() => setExpanded(false)} className="cursor-pointer">
-              <X className="w-3.5 h-3.5 text-[var(--color-stone-400)] hover:text-[var(--color-stone-600)]" />
-            </button>
-          </div>
-          <div className="whitespace-pre-wrap">{cleanContent}</div>
-        </div>
-      )}
-    </div>
-  );
-}
-
-function CitationCard({ citation }: { citation: string }) {
-  const parts = citation.split("|").map((p) => p.trim());
-  const docName = parts[0] || citation;
-  const section = parts[1];
-  const page = parts[2];
-
-  const lower = citation.toLowerCase();
-  let Icon = FileText;
-  if (lower.includes("mygate")) Icon = Smartphone;
-  else if (lower.includes("bylaw")) Icon = Scale;
-  else if (lower.includes("meeting") || lower.includes("mom") || lower.includes("agm") || lower.includes("egm")) Icon = ClipboardList;
-  else if (lower.includes("deed") || lower.includes("declaration")) Icon = ScrollText;
-  else if (lower.includes("act") || lower.includes("karnataka")) Icon = Landmark;
-  else if (lower.includes("income") || lower.includes("financial") || lower.includes("expenditure")) Icon = Receipt;
-
-  return (
-    <div className="flex items-start gap-2 px-3 py-2 my-1.5 rounded-lg bg-[var(--color-gold-light)] border border-[var(--color-gold-border)]">
-      <Icon className="w-4 h-4 text-[var(--color-gold)] flex-shrink-0 mt-0.5" />
+    <div className="flex gap-2 py-1.5">
+      <span className="text-[11px] font-bold text-[var(--color-gold)] mt-0.5 flex-shrink-0 w-4 text-right">
+        {index}
+      </span>
       <div className="min-w-0">
-        <div className="text-[12px] font-semibold text-[var(--color-gold)] leading-tight">
-          {docName}
-        </div>
-        {(section || page) && (
-          <div className="text-[11px] text-[var(--color-stone-500)] leading-tight mt-0.5">
-            {[section, page].filter(Boolean).join(" · ")}
+        {citation.quote && (
+          <div className="text-[12px] italic text-[var(--color-stone-600)] mb-0.5">
+            &ldquo;{citation.quote}&rdquo;
           </div>
         )}
+        <div className="flex items-center gap-1.5">
+          <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
+          <span className="text-[11px] font-medium text-[var(--color-gold)]">{citation.docName}</span>
+          {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+        </div>
       </div>
     </div>
   );
 }
 
 function MessageContent({ content, isBot, sources }: { content: string; isBot: boolean; sources?: SourceChunk[] }) {
-  const parts = content.split(/(\[Source:[^\]]+\])/g);
+  const { textWithRefs, citations } = useMemo(() => {
+    const cits: ParsedCitation[] = [];
+    const citationMap = new Map<string, number>();
 
-  const textParts: string[] = [];
-  const inlineCitations: string[] = [];
+    const text = content.replace(/\[Source:\s*([^\]]+)\]/g, (_, raw: string) => {
+      const parsed = parseCitation(raw);
+      const key = `${parsed.docName}|${parsed.section || ""}|${parsed.page || ""}`;
 
-  parts.forEach((part) => {
-    if (part.startsWith("[Source:")) {
-      inlineCitations.push(part.slice(8, -1).trim());
-    } else {
-      textParts.push(part);
-    }
-  });
+      let num: number;
+      if (parsed.quote) {
+        num = cits.length + 1;
+        cits.push(parsed);
+        citationMap.set(key + "|" + num, num);
+      } else if (citationMap.has(key + "|" + (citationMap.get(key) ?? 0))) {
+        num = citationMap.get(key) ?? cits.length + 1;
+      } else {
+        num = cits.length + 1;
+        cits.push(parsed);
+        citationMap.set(key, num);
+      }
+      return `⟦${num}⟧`;
+    });
 
-  const mainText = textParts.join("").replace(/\n*Sources?\s*:?\s*$/i, "").trim();
-  const hasSources = sources && sources.length > 0;
+    const cleaned = text.replace(/\n*Sources?\s*:?\s*$/i, "").trim();
+    return { textWithRefs: cleaned, citations: cits };
+  }, [content]);
 
   return (
     <>
-      {mainText.split("\n").map((line, j) => {
+      {textWithRefs.split("\n").map((line, j) => {
         if (line.startsWith("- ") || line.startsWith("* ")) {
           return (
             <span key={j} className="block pl-3 relative before:content-[''] before:absolute before:left-0 before:top-[10px] before:w-1.5 before:h-1.5 before:rounded-full before:bg-current before:opacity-40">
@@ -208,27 +172,33 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
         );
       })}
 
-      {/* Expandable source cards from metadata (preferred) */}
-      {hasSources && (
-        <div className="mt-3 pt-3 border-t border-[var(--color-gold-border)]/40">
-          <div className="text-[11px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
-            Sources — click to expand
+      {citations.length > 0 && (
+        <div className="mt-3 pt-2 border-t border-[var(--color-gold-border)]/40">
+          <div className="text-[10px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
+            References
           </div>
-          {sources.map((s, i) => (
-            <SourceCard key={i} source={s} />
+          {citations.map((c, i) => (
+            <FootnoteCitation key={i} index={i + 1} citation={c} />
           ))}
         </div>
       )}
 
-      {/* Fallback: inline citations if no metadata sources */}
-      {!hasSources && inlineCitations.length > 0 && (
-        <div className="mt-3 pt-3 border-t border-[var(--color-gold-border)]/40">
-          <div className="text-[11px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
-            Sources
+      {citations.length === 0 && sources && sources.length > 0 && (
+        <div className="mt-3 pt-2 border-t border-[var(--color-gold-border)]/40">
+          <div className="text-[10px] font-medium text-[var(--color-stone-400)] uppercase tracking-wider mb-1">
+            Source documents
           </div>
-          {inlineCitations.map((c, i) => (
-            <CitationCard key={i} citation={c} />
-          ))}
+          {sources.map((s, i) => {
+            const Icon = getDocIcon(s.docName);
+            const details = [s.chapter, s.section, s.pageNumber ? `Page ${s.pageNumber}` : null].filter(Boolean).join(" · ");
+            return (
+              <div key={i} className="flex items-center gap-1.5 py-1">
+                <Icon className="w-3 h-3 text-[var(--color-gold)] flex-shrink-0" />
+                <span className="text-[11px] font-medium text-[var(--color-gold)]">{s.docName}</span>
+                {details && <span className="text-[10px] text-[var(--color-stone-400)]">· {details}</span>}
+              </div>
+            );
+          })}
         </div>
       )}
     </>
@@ -236,13 +206,21 @@ function MessageContent({ content, isBot, sources }: { content: string; isBot: b
 }
 
 function formatInline(text: string) {
-  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  const parts = text.split(/(⟦\d+⟧|\*\*[^*]+\*\*)/g);
   return parts.map((part, i) => {
     if (part.startsWith("**") && part.endsWith("**")) {
       return (
         <strong key={i} className="font-semibold">
           {part.slice(2, -2)}
         </strong>
+      );
+    }
+    const refMatch = part.match(/^⟦(\d+)⟧$/);
+    if (refMatch) {
+      return (
+        <sup key={i} className="text-[10px] font-bold text-[var(--color-gold)] ml-0.5">
+          [{refMatch[1]}]
+        </sup>
       );
     }
     return part;

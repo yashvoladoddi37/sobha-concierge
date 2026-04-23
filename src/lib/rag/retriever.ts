@@ -40,17 +40,28 @@ export async function retrieve(
 
   if (docTypeFilter) {
     // Fetch filtered + unfiltered in parallel, merge for broader recall
-    const [filtered, unfiltered] = await Promise.all([
+    const results = await Promise.allSettled([
       search(docTypeFilter),
       search(null),
     ]);
 
-    if (filtered.error) throw new Error(`Supabase search error: ${filtered.error.message}`);
-    if (unfiltered.error) throw new Error(`Supabase search error: ${unfiltered.error.message}`);
+    const allData: SearchResult[] = [];
+    for (const r of results) {
+      if (r.status === "fulfilled" && !r.value.error && r.value.data) {
+        allData.push(...r.value.data);
+      }
+    }
+
+    if (allData.length === 0 && results.every(r => r.status === "rejected" || r.value?.error)) {
+      const firstErr = results[0].status === "rejected"
+        ? (results[0].reason as Error).message
+        : results[0].value?.error?.message ?? "Unknown search error";
+      throw new Error(`Supabase search error: ${firstErr}`);
+    }
 
     // Deduplicate by id, keeping best scores
     const seen = new Map<number, SearchResult>();
-    for (const r of [...(filtered.data ?? []), ...(unfiltered.data ?? [])]) {
+    for (const r of allData) {
       const existing = seen.get(r.id);
       if (!existing || (r.similarity + r.text_rank) > (existing.similarity + existing.text_rank)) {
         seen.set(r.id, r);

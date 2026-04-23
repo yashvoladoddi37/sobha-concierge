@@ -32,13 +32,30 @@ export async function POST(req: Request) {
     }))
   );
 
-  const { docTypeFilter } = await routeQuery(searchQuery);
+  let results: Awaited<ReturnType<typeof retrieve>> = [];
+  let sources: { docName: string; docType: string; chapter: string | null; section: string | null; pageNumber: number | null; docDate: string | null; content: string }[] = [];
 
-  const results = await retrieve(searchQuery, {
-    topK: 20,
-    rerankTopK: 5,
-    docTypeFilter: docTypeFilter ?? undefined,
-  });
+  try {
+    const { docTypeFilter } = await routeQuery(searchQuery);
+
+    results = await retrieve(searchQuery, {
+      topK: 20,
+      rerankTopK: 5,
+      docTypeFilter: docTypeFilter ?? undefined,
+    });
+
+    sources = results.map((r) => ({
+      docName: r.doc_name,
+      docType: r.doc_type,
+      chapter: r.chapter,
+      section: r.section,
+      pageNumber: r.page_number,
+      docDate: r.doc_date,
+      content: r.content,
+    }));
+  } catch (err) {
+    console.error("Retrieval error (proceeding without context):", err);
+  }
 
   const augmentedContent = buildPromptWithContext(lastUserContent, results);
 
@@ -46,16 +63,6 @@ export async function POST(req: Request) {
     ...messages.slice(0, -1),
     { role: "user" as const, content: augmentedContent },
   ];
-
-  const sources = results.map((r) => ({
-    docName: r.doc_name,
-    docType: r.doc_type,
-    chapter: r.chapter,
-    section: r.section,
-    pageNumber: r.page_number,
-    docDate: r.doc_date,
-    content: r.content,
-  }));
 
   const result = streamText({
     model: google("gemini-2.5-flash-lite"),
