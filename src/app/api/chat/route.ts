@@ -59,8 +59,21 @@ export async function POST(req: Request) {
 
   const augmentedContent = buildPromptWithContext(lastUserContent, results);
 
+  const convertedHistory = messages.slice(0, -1).map(
+    (m: { role: string; content?: string; parts?: { type: string; text: string }[] }) => ({
+      role: m.role as "user" | "assistant",
+      content:
+        m.content ||
+        m.parts
+          ?.filter((p) => p.type === "text")
+          .map((p) => p.text)
+          .join("") ||
+        "",
+    })
+  );
+
   const llmMessages = [
-    ...messages.slice(0, -1),
+    ...convertedHistory,
     { role: "user" as const, content: augmentedContent },
   ];
 
