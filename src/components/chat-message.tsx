@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 import { FileText, Scale, Landmark, ClipboardList, Receipt, ScrollText, Smartphone, ChevronDown, X } from "lucide-react";
@@ -142,7 +142,7 @@ function FootnoteCitation({ index, citation, sources }: { index: number; citatio
   const hasSource = !!matched;
 
   return (
-    <div className="my-0.5">
+    <div id={`ref-${index}`} className="my-0.5 scroll-mt-4">
       <div
         role={hasSource ? "button" : undefined}
         tabIndex={hasSource ? 0 : undefined}
@@ -177,7 +177,7 @@ function FootnoteCitation({ index, citation, sources }: { index: number; citatio
       </div>
 
       {expanded && matched && (
-        <div className="ml-5 mt-1 mb-2 p-3 rounded-lg bg-white/90 border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
+        <div className="ml-5 mt-1 mb-2 p-3 rounded-lg bg-[var(--color-surface-elevated)] border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
           <div className="flex items-center justify-between mb-2">
             <span className="text-[10px] font-semibold text-[var(--color-stone-400)] uppercase tracking-wider">
               Source excerpt
@@ -225,7 +225,7 @@ function SourceCard({ source }: { source: SourceChunk }) {
       </div>
 
       {expanded && (
-        <div className="ml-1 mt-1 mb-2 p-3 rounded-lg bg-white/90 border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
+        <div className="ml-1 mt-1 mb-2 p-3 rounded-lg bg-[var(--color-surface-elevated)] border border-[var(--color-sandstone)] text-[13px] leading-relaxed text-[var(--color-stone-700)] max-h-56 overflow-y-auto shadow-sm">
           <div className="flex items-center justify-between mb-2">
             <span className="text-[10px] font-semibold text-[var(--color-stone-400)] uppercase tracking-wider">
               Source excerpt
@@ -328,25 +328,54 @@ function formatInline(text: string) {
     const refMatch = part.match(/^⟦(\d+)⟧$/);
     if (refMatch) {
       return (
-        <sup key={i} className="text-[10px] font-bold text-[var(--color-gold)] ml-0.5">
+        <a
+          key={i}
+          href={`#ref-${refMatch[1]}`}
+          onClick={(e) => {
+            e.preventDefault();
+            document.getElementById(`ref-${refMatch[1]}`)?.scrollIntoView({ behavior: "smooth", block: "center" });
+          }}
+          className="text-[10px] font-bold text-[var(--color-gold)] ml-0.5 align-super hover:underline cursor-pointer"
+        >
           [{refMatch[1]}]
-        </sup>
+        </a>
       );
     }
     return part;
   });
 }
 
+const STATUS_VERBS = [
+  "Searching documents",
+  "Reading sources",
+  "Analyzing context",
+  "Crafting response",
+];
+
 export function TypingIndicator() {
+  const [verbIndex, setVerbIndex] = useState(0);
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setVerbIndex((i) => (i + 1) % STATUS_VERBS.length);
+    }, 2000);
+    return () => clearInterval(interval);
+  }, []);
+
   return (
     <div className="flex gap-3 justify-start animate-message-in">
       <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-[var(--color-surface-elevated)]">
         <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="w-full h-full object-contain" />
       </div>
-      <div className="bg-[var(--color-emerald-light)] rounded-[2px_16px_16px_16px] px-4 py-3 flex items-center gap-1.5">
-        <div className="typing-dot w-2 h-2 rounded-full bg-[var(--color-emerald)]" />
-        <div className="typing-dot w-2 h-2 rounded-full bg-[var(--color-emerald)]" />
-        <div className="typing-dot w-2 h-2 rounded-full bg-[var(--color-emerald)]" />
+      <div className="bg-[var(--color-emerald-light)] rounded-[2px_16px_16px_16px] px-4 py-3 flex items-center gap-2.5">
+        <span className="text-[13px] text-[var(--color-stone-500)] animate-pulse">
+          {STATUS_VERBS[verbIndex]}…
+        </span>
+        <div className="flex gap-1">
+          <div className="typing-dot w-1.5 h-1.5 rounded-full bg-[var(--color-emerald)]" />
+          <div className="typing-dot w-1.5 h-1.5 rounded-full bg-[var(--color-emerald)]" />
+          <div className="typing-dot w-1.5 h-1.5 rounded-full bg-[var(--color-emerald)]" />
+        </div>
       </div>
     </div>
   );
