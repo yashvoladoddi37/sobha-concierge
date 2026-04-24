@@ -1,8 +1,6 @@
 # Sobha Concierge
 
-AI-powered concierge for residents of **Sobha Indraprastha**, a 356-unit apartment complex in Rajajinagar, Bangalore. Ask questions about bylaws, penalties, meeting decisions, MyGate operations, and more — grounded in real association documents with source citations.
-
-Responds in **English, Hindi, and Kannada** — detects the resident's language and matches it.
+AI-powered concierge for residents of **Sobha Indraprastha**, a 356-unit apartment complex in Rajajinagar, Bangalore. Ask questions about bylaws, penalties, meeting decisions, MyGate operations, and more — grounded in real association documents with inline source citations.
 
 Built with a RAG (Retrieval-Augmented Generation) pipeline on a **$0/month** stack.
 
@@ -40,12 +38,26 @@ Sobha Concierge makes the apartment's institutional memory searchable. Every rul
 ┌──────────────────────────────────────────────────────────────────────┐
 │  GENERATION                                                          │
 │                                                                      │
-│  Gemini 2.5 Flash + retrieved context → streaming cited response     │
-│  Language: auto-detected (English / Hindi / Kannada)                 │
+│  Gemini 2.5 Flash Lite + retrieved context → streaming cited response│
+│  Inline citations with exact quotes from source documents            │
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
-**How it works:** A resident's question flows through query condensation (handling multi-turn context), two-tier routing (regex then LLM), hybrid search (vector cosine + BM25 full-text), Cohere reranking, and streaming generation with Gemini Flash — all in under 3 seconds.
+## Features
+
+- **Inline cited answers** — every factual claim has a numbered reference `[1]` linking to the exact quote, document, clause, and page. Clickable superscripts scroll to the footnote.
+- **Expandable source excerpts** — footnote citations can be expanded to show the full source chunk from the retrieved document.
+- **Dark elegant UI** — near-black backgrounds, emerald accents, gold citation highlights. Auto-hiding scrollbars, smooth animations.
+- **Chat sessions** — sidebar with session history, create/switch/delete chats. Messages persist in localStorage across page reloads.
+- **English-first responses** — defaults to English regardless of source document language. Responds in Hindi/Kannada only when the resident writes in that language.
+- **Smart "latest" handling** — when asked about "the last meeting" or "most recent decision", picks the most recent date from context instead of listing all options.
+- **MyGate how-to guide** — step-by-step instructions for pre-approvals, delivery entry, amenity booking, complaints.
+- **Feedback loop** — thumbs up/down on every response, stored in Supabase for quality tracking.
+- **Hybrid search** — vector similarity (cosine) + BM25 full-text matching for comprehensive retrieval.
+- **Cohere reranking** — retrieved candidates scored against the actual query for precision (top 20 → top 5).
+- **Two-tier query routing** — regex fast-path (~60% of queries) + LLM fallback with Zod structured output.
+- **Streaming responses** — real-time generation with typing indicators.
+- **Suggested questions** — quick-start chips on empty chat for common queries.
 
 ## Query Routing
 
@@ -69,12 +81,7 @@ Incoming query
 └─────────────────────────────┘
 ```
 
-Queries are classified into one of **10 document types** using a two-tier system:
-
-- **Tier 1 — Regex** (0ms, free): High-confidence patterns like `bylaw`, `penalty|fine`, `EGM|AGM`, `mygate|pre-approve`, `uber|ola|delivery`. Catches ~60% of queries instantly.
-- **Tier 2 — LLM** (~300ms): For ambiguous questions like *"Can I keep a pet?"* or *"What about the CCTV thing from last month?"*. Uses Gemini Flash with structured output (Zod schema → `{ docType, reasoning }`).
-
-The router output feeds into hybrid search as a filter. Filtered + unfiltered results are merged so cross-category matches aren't lost, then Cohere reranks the combined pool.
+Queries are classified into one of **10 document types**. The router output feeds into hybrid search as a filter. Filtered + unfiltered results are merged so cross-category matches aren't lost, then Cohere reranks the combined pool.
 
 ## Ingestion Pipeline
 
@@ -98,11 +105,6 @@ PDF documents
                                                    └───────────────┘
 ```
 
-**Quality gates** at each stage:
-- OCR: 3-key API rotation, per-page progress saves, automatic resume on crash
-- Chunking: chapter/clause boundary detection, 200-char overlap, decoration line stripping, garbled-text filtering (< 40% English words)
-- Storage: IVFFlat + GIN indexes, incremental ingestion (won't re-process unchanged docs)
-
 ## Corpus
 
 | Document Type | Chunks | Source Documents |
@@ -118,28 +120,19 @@ PDF documents
 | Financial | 1 | Income & Expenditure Statement |
 | **Total** | **273+** | **19 documents** |
 
-## Features
-
-- **Cited answers** — every response references exact document, clause, and page number
-- **Multi-language** — responds in English, Hindi, or Kannada based on the resident's query
-- **MyGate guide** — step-by-step how-to for pre-approvals, delivery entry, amenity booking, complaints
-- **Feedback loop** — thumbs up/down on every response, stored for quality tracking
-- **Hybrid search** — vector similarity + BM25 keyword matching for comprehensive retrieval
-- **Two-tier routing** — regex fast-path + LLM fallback for query classification
-- **Streaming responses** — real-time response generation with typing indicators
-
 ## Tech Stack
 
 | Layer | Technology | Why |
 |---|---|---|
-| Frontend | Next.js 16 (App Router), Tailwind, shadcn/ui | Server components, streaming UI |
+| Frontend | Next.js 16 (App Router), Tailwind CSS 4, shadcn/ui | Server components, streaming UI |
 | Chat | AI SDK v6 (`useChat`, `streamText`) | Framework-agnostic streaming with `UIMessage` format |
 | LLM | Gemini 2.5 Flash Lite (free tier) | Fast, capable, free |
 | Embeddings | `gemini-embedding-001` (768d) | Matched to the LLM provider, free |
 | Vector DB | Supabase pgvector (free tier) | Hybrid search via SQL function (cosine + BM25) |
-| Reranker | Cohere Rerank v3.5 (free tier) | Dramatically improves precision (top 20 → top 5) |
+| Reranker | Cohere Rerank v3.5 (free tier) | Scores candidates against actual query for precision |
 | OCR | Gemini Vision API | Handles scanned PDFs with Kannada text, stamps, seals |
 | Routing | AI SDK `generateText` + `Output.object()` | Structured LLM output with Zod schema validation |
+| Persistence | localStorage | Chat sessions and message history |
 
 **Total cost: $0/month.** Every service runs on its free tier.
 
@@ -149,23 +142,26 @@ PDF documents
 src/
   app/
     api/
-      chat/route.ts            # POST handler: condense → route → retrieve → stream
-      feedback/route.ts        # POST handler: store thumbs up/down ratings
-    chat/page.tsx              # Chat UI with useChat()
-    page.tsx                   # Landing page
+      chat/route.ts            # POST: condense → route → retrieve → stream
+      feedback/route.ts        # POST: store thumbs up/down ratings
+    chat/page.tsx              # Chat UI with session management
+    page.tsx                   # Landing page (dark theme)
   components/
-    chat-input.tsx             # Message input with submit handling
-    chat-message.tsx           # Message bubbles with citation rendering
-    feedback-buttons.tsx       # Thumbs up/down feedback on responses
+    chat-input.tsx             # Message input with auto-resize
+    chat-message.tsx           # Message bubbles, inline citations, footnotes
+    chat-sidebar.tsx           # Session list with create/switch/delete
+    feedback-buttons.tsx       # Thumbs up/down on responses
     suggested-questions.tsx    # Quick-start question chips
   lib/
     rag/
       query-router.ts          # Two-tier routing (regex + LLM)
       retriever.ts             # Hybrid search + Cohere rerank
       embeddings.ts            # Gemini embedding API (single + batch)
-      prompt.ts                # System prompt + context formatting + language rules
+      prompt.ts                # System prompt, citation format, language rules
+    chat-store.ts              # Session management (localStorage)
     db/
       supabase.ts              # Client + types
+    types.ts                   # Shared TypeScript interfaces
 scripts/
   ocr-gemini.ts                # Gemini Vision OCR pipeline (resume-capable)
   ingest.ts                    # Chunking + embedding + storage pipeline

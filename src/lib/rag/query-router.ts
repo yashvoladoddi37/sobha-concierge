@@ -41,13 +41,21 @@ const REGEX_ROUTES: { patterns: RegExp[]; docType: string; intent: string }[] = 
   {
     patterns: [
       /\b(bylaw|bye.?law|clause \d)/i,
+      /\b(pet|dog|cat|animal|bird|cattle)\b/i,
+      /\b(pool|swimming|gym|clubhouse|badminton|tennis|squash|court|amenit)/i,
+      /\b(renovate|renovation|alterat|construct|interior|kitchen|bathroom|permission)\b/i,
+      /\b(rent|tenant|lease|sublet|airbnb|short.?stay|pg|bachelor)\b/i,
+      /\b(domestic help|maid|cook|driver|staff|servant|register)\b/i,
+      /\b(noise|disturb|party|music|loud|shout|drill)\b/i,
+      /\b(park|parking|slot|car|vehicle|electric|ev|charge)\b/i,
+      /\b(garbage|waste|segregat|trash|bin)\b/i,
     ],
     docType: "bylaws",
     intent: "bylaws_explicit",
   },
   {
     patterns: [
-      /\b(penalty|fine|penalt|violation)\b/i,
+      /\b(penalty|fine|penalt|violation|charge|late.?(fee|pay))\b/i,
     ],
     docType: "penalties",
     intent: "penalties_explicit",
@@ -56,13 +64,18 @@ const REGEX_ROUTES: { patterns: RegExp[]; docType: string; intent: string }[] = 
     patterns: [
       /\b(meeting|minutes|mom)\b.*\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|\d{4})\b/i,
       /\b(egm|agm|sgm)\b/i,
+      /\b(water|supply|tanker|cavery|borewell)\b/i,
+      /\b(cctv|camera|secur|surv|guard|intercom)\b/i,
+      /\b(election|committ|board|president|secretary|treasurer)\b/i,
     ],
     docType: "minutes",
     intent: "minutes_explicit",
   },
   {
     patterns: [
-      /\b(deed of declaration|undivided share|carpet area)\b/i,
+      /\b(deed of declaration|undivided share|carpet area|super built|sqft|sq\.ft)\b/i,
+      /\b(common areas?|terrace|corridor|lobby|lift|staircase)\b/i,
+      /\b(land|share|percent|proportion)\b/i,
     ],
     docType: "deed",
     intent: "deed_explicit",
@@ -71,16 +84,26 @@ const REGEX_ROUTES: { patterns: RegExp[]; docType: string; intent: string }[] = 
     patterns: [
       /\bkarnataka.*act\b/i,
       /\bapartment ownership act\b/i,
+      /\b(legal|law|state|government|section \d)\b/i,
+      /\b(owner|resident)\b.*\b(rights|powers|duty)\b/i,
     ],
     docType: "act",
     intent: "act_explicit",
   },
   {
     patterns: [
-      /\b(occupancy certificate|completion certificate|bbmp)\b/i,
+      /\b(occupancy certificate|completion certificate|bbmp|sanction|approv|fire noc|oc|plans)\b/i,
     ],
     docType: "certificate",
     intent: "certificate_explicit",
+  },
+  {
+    patterns: [
+      /\b(maintenance|bill|receipt|invoice|fund|finance|income|expend|budget|corpus|audit|tax)\b/i,
+      /\b(how much).*(pay|maintenance|charge)\b/i,
+    ],
+    docType: "financial",
+    intent: "financial_explicit",
   },
   {
     patterns: [

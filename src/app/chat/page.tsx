@@ -89,19 +89,14 @@ export default function ChatPage() {
     const id = store.createSession();
     hasSetInitial.current = id;
     setChatKey((k) => k + 1);
-    setMessages([]);
-  }, [store, setMessages]);
+  }, [store]);
 
   const handleSelectSession = useCallback((id: string) => {
     if (id === store.activeId) return;
     hasSetInitial.current = null;
     store.setActiveId(id);
     setChatKey((k) => k + 1);
-
-    const saved = loadMessagesForSession(id);
-    setMessages(saved.length > 0 ? (saved as SobhaMessage[]) : []);
-    hasSetInitial.current = id;
-  }, [store, setMessages]);
+  }, [store]);
 
   const hasMessages = messages.length > 0;
 
@@ -151,20 +146,20 @@ export default function ChatPage() {
         </header>
 
         {/* Messages area */}
-        <div ref={scrollRef} className="flex-1 overflow-y-auto scrollbar-thin">
-          <div className="max-w-2xl mx-auto px-4 py-6">
+        <div ref={scrollRef} className="flex-1 overflow-y-auto">
+          <div className="max-w-2xl mx-auto px-3 sm:px-4 py-4 sm:py-6">
             {!hasMessages ? (
-              <div className="flex flex-col items-center justify-center min-h-[60vh] gap-6">
-                <Image src="/sobha-logo.png" alt="Sobha" width={56} height={56} className="rounded-2xl shadow-[0_4px_12px_rgba(45,106,79,0.2)]" />
+              <div className="flex flex-col items-center justify-center min-h-[40vh] sm:min-h-[60vh] gap-4 sm:gap-6">
+                <Image src="/sobha-logo.png" alt="Sobha" width={56} height={56} className="rounded-2xl shadow-[0_4px_12px_rgba(45,106,79,0.2)] w-11 h-11 sm:w-14 sm:h-14" />
                 <div className="text-center">
-                  <h2 className="text-[24px] font-bold text-[var(--color-charcoal)] tracking-[-0.5px] font-[family-name:var(--font-display)]">
+                  <h2 className="text-[20px] sm:text-[24px] font-bold text-[var(--color-charcoal)] tracking-[-0.5px] font-[family-name:var(--font-display)]">
                     Welcome to Sobha Concierge
                   </h2>
-                  <p className="text-[14px] text-[var(--color-stone-500)] mt-2">
+                  <p className="text-[13px] sm:text-[14px] text-[var(--color-stone-500)] mt-1.5 sm:mt-2 px-2">
                     Ask about bylaws, meeting decisions, penalties, finances, and more.
                   </p>
                 </div>
-                <div className="mt-2 max-w-lg">
+                <div className="mt-1 sm:mt-2 w-full max-w-lg">
                   <SuggestedQuestions onSelect={(q) => handleSend(q)} />
                 </div>
               </div>

@@ -305,6 +305,11 @@ async function processDocument(mdFileName: string) {
       const parts = [`[Document: ${meta.name}`];
       if (chunk.chapter) parts.push(`${chunk.chapter}`);
       if (chunk.section) parts.push(`${chunk.section}`);
+      
+      // Add keyword synonyms for better retrieval
+      if (meta.docType === "financial") parts.push("income, expenditure, budget, maintenance costs");
+      if (meta.docType === "act") parts.push("legal rights, owner duties, sale restrictions");
+      
       const prefix = parts.join(" | ") + "] ";
       return prefix + chunk.content;
     });
@@ -317,6 +322,11 @@ async function processDocument(mdFileName: string) {
       if (chunk.chapter) parts.push(`${chunk.chapter}`);
       if (chunk.section) parts.push(`${chunk.section}`);
       if (chunk.pageNumber) parts.push(`Page ${chunk.pageNumber}`);
+      
+      // Add keyword synonyms for better retrieval (matching the embedding prefix)
+      if (meta.docType === "financial") parts.push("income, expenditure, budget, maintenance costs");
+      if (meta.docType === "act") parts.push("legal rights, owner duties, sale restrictions");
+
       const prefix = parts.join(" | ") + "]\n\n";
 
       return {

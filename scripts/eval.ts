@@ -263,7 +263,11 @@ async function runEval(): Promise<void> {
     let retrievedDocTypes: string[] = [];
 
     try {
-      const chunks = await retrieve(evalCase.question, { rerankTopK: 5 });
+      // FIX: Pass the route.docTypeFilter to retrieve() to match real bot behavior
+      const chunks = await retrieve(evalCase.question, { 
+        rerankTopK: 5,
+        docTypeFilter: route.docTypeFilter ?? undefined
+      });
 
       retrievedDocTypes = chunks.map((c) => c.doc_type);
       docTypeMatch = chunks.some(

@@ -16,10 +16,13 @@ import {
 } from "lucide-react";
 
 function useIntersectionReveal() {
-  const ref = useRef<HTMLDivElement>(null);
+  const ref = useRef<HTMLElement>(null);
   useEffect(() => {
     const el = ref.current;
     if (!el) return;
+    const targets = el.querySelectorAll(".reveal-on-scroll");
+    if (!targets.length) return;
+
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
@@ -29,11 +32,18 @@ function useIntersectionReveal() {
           }
         });
       },
-      { threshold: 0.15 }
+      { threshold: 0, rootMargin: "0px 0px 50px 0px" }
     );
-    const targets = el.querySelectorAll(".reveal-on-scroll");
     targets.forEach((t) => observer.observe(t));
-    return () => observer.disconnect();
+
+    const fallback = setTimeout(() => {
+      targets.forEach((t) => t.classList.add("revealed"));
+    }, 2000);
+
+    return () => {
+      observer.disconnect();
+      clearTimeout(fallback);
+    };
   }, []);
   return ref;
 }
@@ -47,7 +57,7 @@ export default function LandingPage() {
     <div className="min-h-dvh bg-[var(--color-ivory)]">
       {/* ── Nav ── */}
       <nav className="fixed top-0 inset-x-0 z-50 bg-[var(--color-ivory)]/90 backdrop-blur-xl border-b border-[var(--color-sandstone)]/60">
-        <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           <div className="flex items-center gap-2.5">
             <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="rounded-lg" />
             <span className="text-[15px] font-semibold tracking-[-0.01em] text-[var(--color-charcoal)]">
@@ -65,7 +75,7 @@ export default function LandingPage() {
       </nav>
 
       {/* ── Hero ── */}
-      <section className="pt-32 pb-20 px-6">
+      <section className="pt-24 sm:pt-32 pb-14 sm:pb-20 px-4 sm:px-6">
         <div className="max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full border border-[var(--color-gold-border)] bg-[var(--color-gold-light)] mb-8 hero-fade-in" style={{ animationDelay: "0ms" }}>
             <Sparkles className="w-3.5 h-3.5 text-[var(--color-gold)]" />
@@ -144,7 +154,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Features ── */}
-      <section id="features" ref={featuresRef} className="py-24 px-6 bg-[var(--color-surface)] border-y border-[var(--color-sandstone)]/40">
+      <section id="features" ref={featuresRef} className="py-16 sm:py-24 px-4 sm:px-6 bg-[var(--color-surface)] border-y border-[var(--color-sandstone)]/40">
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-[clamp(24px,4vw,36px)] font-light tracking-[-0.02em] text-[var(--color-charcoal)] font-[family-name:var(--font-display)] reveal-on-scroll">
@@ -210,7 +220,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── How it works ── */}
-      <section ref={capabilitiesRef} className="py-24 px-6">
+      <section ref={capabilitiesRef} className="py-16 sm:py-24 px-4 sm:px-6">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-center text-[clamp(24px,4vw,36px)] font-light tracking-[-0.02em] text-[var(--color-charcoal)] font-[family-name:var(--font-display)] mb-16 reveal-on-scroll">
             How <span className="font-semibold text-[var(--color-emerald)]">Sobha Concierge</span> finds your answer
@@ -236,7 +246,7 @@ export default function LandingPage() {
             ].map(({ step, title, desc }, i) => (
               <div
                 key={step}
-                className="reveal-on-scroll flex gap-6 py-8 border-b border-[var(--color-sandstone)]/60 last:border-0"
+                className="reveal-on-scroll flex gap-4 sm:gap-6 py-6 sm:py-8 border-b border-[var(--color-sandstone)]/60 last:border-0"
                 style={{ transitionDelay: `${i * 100}ms` }}
               >
                 <div className="flex-shrink-0 w-10 h-10 rounded-full border-2 border-[var(--color-emerald)] flex items-center justify-center">
@@ -259,7 +269,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── CTA ── */}
-      <section ref={ctaRef} className="py-24 px-6 bg-[var(--color-emerald-light)]">
+      <section ref={ctaRef} className="py-16 sm:py-24 px-4 sm:px-6 bg-[var(--color-emerald-light)]">
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-[clamp(24px,4vw,36px)] font-light tracking-[-0.02em] text-white font-[family-name:var(--font-display)] mb-4 reveal-on-scroll">
             Stop guessing. <span className="font-semibold">Start asking.</span>
@@ -279,7 +289,7 @@ export default function LandingPage() {
       </section>
 
       {/* ── Footer ── */}
-      <footer className="py-8 px-6 border-t border-[var(--color-sandstone)]/40">
+      <footer className="py-8 px-4 sm:px-6 border-t border-[var(--color-sandstone)]/40">
         <div className="max-w-5xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2">
             <Image src="/sobha-logo.png" alt="Sobha" width={24} height={24} className="rounded-md" />

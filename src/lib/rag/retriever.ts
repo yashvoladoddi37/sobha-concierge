@@ -39,24 +39,32 @@ export async function retrieve(
   let candidates: SearchResult[];
 
   if (docTypeFilter) {
-    // Fetch filtered + unfiltered in parallel, merge for broader recall
+    // Fetch filtered + unfiltered in parallel
     const results = await Promise.allSettled([
       search(docTypeFilter),
       search(null),
     ]);
 
     const allData: SearchResult[] = [];
-    for (const r of results) {
-      if (r.status === "fulfilled" && !r.value.error && r.value.data) {
-        allData.push(...r.value.data);
-      }
+    
+    // Process filtered results with a heavy weight bonus (50%)
+    if (results[0].status === "fulfilled" && !results[0].value.error && results[0].value.data) {
+      const filtered = results[0].value.data.map(r => ({
+        ...r,
+        // Give 50% boost to results that match the router's category
+        similarity: r.similarity * 1.5
+      }));
+      allData.push(...filtered);
     }
 
-    if (allData.length === 0 && results.every(r => r.status === "rejected" || r.value?.error)) {
-      const firstErr = results[0].status === "rejected"
-        ? (results[0].reason as Error).message
-        : results[0].value?.error?.message ?? "Unknown search error";
-      throw new Error(`Supabase search error: ${firstErr}`);
+    // Process unfiltered results
+    if (results[1].status === "fulfilled" && !results[1].value.error && results[1].value.data) {
+      allData.push(...results[1].value.data);
+    }
+
+    const firstErr = results.find(r => r.status === "rejected") as PromiseRejectedResult | undefined;
+    if (allData.length === 0 && firstErr) {
+      throw new Error(`Supabase search error: ${firstErr.reason.message}`);
     }
 
     // Deduplicate by id, keeping best scores
@@ -68,7 +76,10 @@ export async function retrieve(
       }
     }
     candidates = [...seen.values()];
+    // Re-sort after boost
+    candidates.sort((a, b) => (b.similarity * 0.7 + b.text_rank * 0.3) - (a.similarity * 0.7 + a.text_rank * 0.3));
   } else {
+    // Standard general search
     const { data, error } = await search(null);
     if (error) throw new Error(`Supabase search error: ${error.message}`);
     candidates = data ?? [];

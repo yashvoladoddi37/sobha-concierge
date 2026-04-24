@@ -39,10 +39,10 @@ export function ChatMessage({ role, content, sources, isStreaming, messageId, pr
         </div>
       )}
 
-      <div className="max-w-[85%]">
+      <div className="max-w-[90%] sm:max-w-[85%]">
         <div
           className={cn(
-            "px-4 py-3 text-[15px] leading-relaxed",
+            "px-3 sm:px-4 py-2.5 sm:py-3 text-[14px] sm:text-[15px] leading-relaxed",
             isBot
               ? "bg-[var(--color-emerald-light)] text-[var(--color-stone-900)] rounded-[2px_16px_16px_16px]"
               : "bg-[var(--color-emerald)] text-white rounded-[16px_16px_2px_16px]"
@@ -371,8 +371,8 @@ export function TypingIndicator() {
       <div className="flex-shrink-0 w-8 h-8 rounded-full overflow-hidden bg-[var(--color-surface-elevated)]">
         <Image src="/sobha-logo.png" alt="Sobha" width={32} height={32} className="w-full h-full object-contain" />
       </div>
-      <div className="bg-[var(--color-emerald-light)] rounded-[2px_16px_16px_16px] px-4 py-3 flex items-center gap-2.5">
-        <span className="text-[13px] text-[var(--color-stone-500)] animate-pulse">
+      <div className="bg-[var(--color-emerald-light)] rounded-[2px_16px_16px_16px] px-3 sm:px-4 py-2.5 sm:py-3 flex items-center gap-2.5">
+        <span className="text-[12px] sm:text-[13px] text-[var(--color-stone-500)] animate-pulse">
           {STATUS_VERBS[verbIndex]}…
         </span>
         <div className="flex gap-1">

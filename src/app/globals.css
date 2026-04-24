@@ -180,20 +180,50 @@
   transform: translateY(0);
 }
 
-/* Smooth scrollbar */
-.scrollbar-thin::-webkit-scrollbar {
-  width: 4px;
+/* Global scrollbar — thin, dark, auto-hide */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
 }
 
-.scrollbar-thin::-webkit-scrollbar-track {
+*:hover {
+  scrollbar-color: var(--color-stone-300) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
   background: transparent;
 }
 
-.scrollbar-thin::-webkit-scrollbar-thumb {
-  background: var(--color-stone-300);
-  border-radius: 4px;
+*::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 3px;
+  transition: background 0.2s;
 }
 
-.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+*:hover::-webkit-scrollbar-thumb {
+  background: var(--color-stone-300);
+}
+
+*::-webkit-scrollbar-thumb:hover {
   background: var(--color-stone-400);
+}
+
+*::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* Safe area — iPhone home bar / notch */
+.safe-bottom {
+  padding-bottom: max(0.75rem, env(safe-area-inset-bottom));
+}
+
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+  .safe-bottom {
+    padding-bottom: calc(0.75rem + env(safe-area-inset-bottom));
+  }
 }
