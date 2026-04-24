@@ -1,6 +1,12 @@
 import { google } from "@ai-sdk/google";
 import { groq } from "@ai-sdk/groq";
-import { streamText, type LanguageModel } from "ai";
+import {
+  streamText,
+  createUIMessageStream,
+  createUIMessageStreamResponse,
+  type LanguageModel,
+} from "ai";
+import { getSupabase } from "@/lib/db/supabase";
 import { retrieve } from "@/lib/rag/retriever";
 import { SYSTEM_PROMPT, buildPromptWithContext } from "@/lib/rag/prompt";
 import { routeQuery, condenseForRetrieval } from "@/lib/rag/query-router";
@@ -11,6 +17,63 @@ const MODELS: { model: LanguageModel; name: string }[] = [
   { model: google("gemini-2.5-flash-lite"), name: "gemini-2.5-flash-lite" },
   { model: groq("llama-3.3-70b-versatile"), name: "groq/llama-3.3-70b" },
 ];
+
+const CACHE_TTL_HOURS = 24;
+
+type SourceEntry = {
+  docName: string;
+  docType: string;
+  chapter: string | null;
+  section: string | null;
+  pageNumber: number | null;
+  docDate: string | null;
+  content: string;
+};
+
+function normalizeQuery(q: string): string {
+  return q.toLowerCase().trim().replace(/\s+/g, " ").replace(/[?.!,]+$/g, "");
+}
+
+async function getCachedResponse(key: string): Promise<{ text: string; sources: SourceEntry[] } | null> {
+  try {
+    const sb = getSupabase();
+    const { data, error } = await sb
+      .from("response_cache")
+      .select("response_text, sources")
+      .eq("query_key", key)
+      .gt("expires_at", new Date().toISOString())
+      .single() as { data: { response_text: string; sources: SourceEntry[] } | null; error: unknown };
+
+    if (error || !data) return null;
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    (sb.rpc as any)("bump_cache_hit", { cache_key: key }).catch(() => {});
+
+    return { text: data.response_text, sources: data.sources };
+  } catch {
+    return null;
+  }
+}
+
+async function setCachedResponse(key: string, rawQuery: string, text: string, sources: SourceEntry[]) {
+  try {
+    const sb = getSupabase();
+    const expiresAt = new Date(Date.now() + CACHE_TTL_HOURS * 60 * 60 * 1000).toISOString();
+
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    await (sb.from("response_cache") as any)
+      .upsert({
+        query_key: key,
+        query_raw: rawQuery,
+        response_text: text,
+        sources: JSON.stringify(sources),
+        hit_count: 0,
+        expires_at: expiresAt,
+      }, { onConflict: "query_key" });
+  } catch (err) {
+    console.warn("Cache write failed:", err);
+  }
+}
 
 export async function POST(req: Request) {
   const { messages } = await req.json();
@@ -38,8 +101,30 @@ export async function POST(req: Request) {
     }))
   );
 
+  // --- Check persistent cache (single-turn only) ---
+  const isFirstMessage = messages.filter((m: { role: string }) => m.role === "user").length === 1;
+  const cacheKey = normalizeQuery(searchQuery);
+
+  if (isFirstMessage) {
+    const cached = await getCachedResponse(cacheKey);
+    if (cached) {
+      const stream = createUIMessageStream({
+        execute: async ({ writer }) => {
+          const partId = crypto.randomUUID();
+          writer.write({ type: "text-delta", delta: cached.text, id: partId });
+          writer.write({
+            type: "finish",
+            messageMetadata: { sources: cached.sources },
+          });
+        },
+      });
+      return createUIMessageStreamResponse({ stream });
+    }
+  }
+
+  // --- Retrieval ---
   let results: Awaited<ReturnType<typeof retrieve>> = [];
-  let sources: { docName: string; docType: string; chapter: string | null; section: string | null; pageNumber: number | null; docDate: string | null; content: string }[] = [];
+  let sources: SourceEntry[] = [];
 
   try {
     const { docTypeFilter } = await routeQuery(searchQuery);
@@ -87,6 +172,11 @@ export async function POST(req: Request) {
     system: SYSTEM_PROMPT,
     messages: llmMessages,
     temperature: 0.2,
+    onFinish: ({ text }: { text: string }) => {
+      if (isFirstMessage && text.length > 0) {
+        setCachedResponse(cacheKey, lastUserContent, text, sources);
+      }
+    },
   };
 
   const metadataHandler = {
@@ -98,9 +188,6 @@ export async function POST(req: Request) {
     },
   };
 
-  // Stream with automatic fallback: if primary model fails (quota/auth error),
-  // the error surfaces on the first stream read. We catch it and retry with
-  // the next model before any data reaches the client.
   const readable = new ReadableStream({
     async start(controller) {
       for (let i = 0; i < MODELS.length; i++) {

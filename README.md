@@ -1,5 +1,13 @@
 # Sobha Concierge
 
+<div align="center">
+
+https://github.com/user-attachments/assets/4857656b-20f7-49ad-914b-805a9ef01fb5
+
+*Asking about parking rules, meeting decisions, and penalty amounts — all answered with inline citations from real apartment documents.*
+
+</div>
+
 AI-powered concierge for residents of **Sobha Indraprastha**, a 356-unit apartment complex in Rajajinagar, Bangalore. Ask questions about bylaws, penalties, meeting decisions, MyGate operations, and more — grounded in real association documents with inline source citations.
 
 Built with a RAG (Retrieval-Augmented Generation) pipeline on a **$0/month** stack.

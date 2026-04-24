@@ -92,7 +92,7 @@ const REGEX_ROUTES: { patterns: RegExp[]; docType: string; intent: string }[] = 
   },
   {
     patterns: [
-      /\b(occupancy certificate|completion certificate|bbmp|sanction|approv|fire noc|oc|plans)\b/i,
+      /\b(occupancy certificate|completion certificate|bbmp.{0,5}(certificate|oc|approval|sanction)|sanction|approv|fire noc|oc|plans)\b/i,
     ],
     docType: "certificate",
     intent: "certificate_explicit",

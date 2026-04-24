@@ -49,7 +49,7 @@ export async function retrieve(
     
     // Process filtered results with a heavy weight bonus (50%)
     if (results[0].status === "fulfilled" && !results[0].value.error && results[0].value.data) {
-      const filtered = results[0].value.data.map(r => ({
+      const filtered = results[0].value.data.map((r: SearchResult) => ({
         ...r,
         // Give 50% boost to results that match the router's category
         similarity: r.similarity * 1.5
@@ -129,6 +129,18 @@ async function rerank(
   }
 
   const data = await response.json();
+
+  console.log("[Cohere Rerank]", JSON.stringify({
+    query,
+    results: data.results.map((r: { index: number; relevance_score: number }) => ({
+      index: r.index,
+      score: r.relevance_score,
+      doc_name: candidates[r.index].doc_name,
+      section: candidates[r.index].section,
+      snippet: candidates[r.index].content.slice(0, 120),
+    })),
+  }, null, 2));
+
   return data.results.map(
     (r: { index: number; relevance_score: number }) => ({
       ...candidates[r.index],
