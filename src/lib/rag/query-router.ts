@@ -203,6 +203,8 @@ export function routeQuerySync(query: string): RouteResult {
 /**
  * Condense multi-turn conversation into a standalone search query.
  */
+const CONTINUATION_PATTERNS = /^(tell me more|go on|more|elaborate|explain|details|what else|and\??|continue|keep going|yes|yeah|okay tell me|haan|aur batao)$/i;
+
 export function condenseForRetrieval(
   messages: { role: string; content: string }[]
 ): string {
@@ -211,8 +213,16 @@ export function condenseForRetrieval(
     return userMessages[userMessages.length - 1]?.content || "";
   }
 
-  const recent = messages.slice(-6);
   const lastQuestion = userMessages[userMessages.length - 1].content;
+
+  // For continuation phrases, use the previous user question as the search query
+  // with "more details" appended so retrieval pulls deeper/adjacent chunks
+  if (CONTINUATION_PATTERNS.test(lastQuestion.trim())) {
+    const prevQuestion = userMessages[userMessages.length - 2]?.content;
+    if (prevQuestion) {
+      return `${prevQuestion} — more details, additional rules, exceptions, related information`;
+    }
+  }
 
   const words = lastQuestion.split(/\s+/);
   const hasPronouns = /\b(it|this|that|they|them|those|the same|above|previous)\b/i.test(lastQuestion);
@@ -220,6 +230,7 @@ export function condenseForRetrieval(
     return lastQuestion;
   }
 
+  const recent = messages.slice(-6);
   const context = recent
     .map((m) => `${m.role}: ${m.content}`)
     .join("\n");
