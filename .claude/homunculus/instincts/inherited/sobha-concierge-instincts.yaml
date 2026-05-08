@@ -1,0 +1,316 @@
+# Instincts generated from https://github.com/yashvoladoddi37/sobha-concierge
+# Generated: 2026-05-08T08:53:51.419Z
+# Version: 2.0
+# NOTE: This file supplements (does not replace) any existing curated instincts.
+# High-confidence manually curated instincts should be preserved alongside these.
+
+---
+id: sobha-concierge-commit-length
+trigger: "when writing a commit message"
+confidence: 0.6
+domain: git
+source: repo-analysis
+source_repo: https://github.com/yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Commit Length
+
+## Action
+
+Write moderate-length commit messages (~96 characters)
+
+## Evidence
+
+- Average commit message length: 96 chars
+- Based on 1 commits
+
+---
+id: sobha-concierge-naming-files
+trigger: "when creating a new file"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Naming Files
+
+## Action
+
+Use camelCase naming convention
+
+## Evidence
+
+- Analyzed file naming patterns in repository
+- Dominant pattern: camelCase
+
+---
+id: sobha-concierge-import-relative
+trigger: "when importing modules"
+confidence: 0.75
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Import Relative
+
+## Action
+
+Use relative imports for project files
+
+## Evidence
+
+- Import analysis shows relative import pattern
+- Example: import { x } from '../lib/x'
+
+---
+id: sobha-concierge-export-style
+trigger: "when exporting from a module"
+confidence: 0.7
+domain: code-style
+source: repo-analysis
+source_repo: https://github.com/yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Export Style
+
+## Action
+
+Prefer named exports
+
+## Evidence
+
+- Export pattern analysis
+- Dominant style: named
+
+---
+id: sobha-concierge-test-separate
+trigger: "when writing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: https://github.com/yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Test Separate
+
+## Action
+
+Place tests in the tests/ or __tests__/ directory, mirroring src structure
+
+## Evidence
+
+- Separate test directory pattern detected
+- Tests live in dedicated test folders
+
+---
+id: sobha-concierge-instinct-file-naming
+trigger: "When creating a new file in the codebase"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct File Naming
+
+## Action
+
+Name the file using camelCase convention
+
+## Evidence
+
+- Pattern in namingConventions.files: camelCase
+
+---
+id: sobha-concierge-instinct-function-naming
+trigger: "When defining a new function"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Function Naming
+
+## Action
+
+Use camelCase for the function name
+
+## Evidence
+
+- Pattern in namingConventions.functions: camelCase
+
+---
+id: sobha-concierge-instinct-class-naming
+trigger: "When creating a new class"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Class Naming
+
+## Action
+
+Use PascalCase for the class name
+
+## Evidence
+
+- Pattern in namingConventions.classes: PascalCase
+
+---
+id: sobha-concierge-instinct-constant-naming
+trigger: "When defining a constant"
+confidence: 0.9
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Constant Naming
+
+## Action
+
+Use SCREAMING_SNAKE_CASE for the constant name
+
+## Evidence
+
+- Pattern in namingConventions.constants: SCREAMING_SNAKE_CASE
+
+---
+id: sobha-concierge-instinct-import-style
+trigger: "When importing modules"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Import Style
+
+## Action
+
+Use relative import paths
+
+## Evidence
+
+- Pattern in importStyle: relative
+
+---
+id: sobha-concierge-instinct-export-style
+trigger: "When exporting functions, classes, or constants"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Export Style
+
+## Action
+
+Use named exports
+
+## Evidence
+
+- Pattern in exportStyle: named
+
+---
+id: sobha-concierge-instinct-error-handling
+trigger: "When handling potential errors in code"
+confidence: 0.8
+domain: code-style
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Error Handling
+
+## Action
+
+Use try-catch blocks for error handling
+
+## Evidence
+
+- Pattern in errorHandling.style: try-catch
+
+---
+id: sobha-concierge-instinct-git-commit-prefix
+trigger: "When writing a commit related to scripts"
+confidence: 0.9
+domain: git
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Git Commit Prefix
+
+## Action
+
+Prefix the commit message with 'scripts:'
+
+## Evidence
+
+- Seen in commit: scripts: add generation-quality eval (citation/quote/language/latest/refusal) + Sarvam candidate
+
+---
+id: sobha-concierge-instinct-git-commit-format
+trigger: "When writing a commit message"
+confidence: 0.8
+domain: git
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Git Commit Format
+
+## Action
+
+Use a freeform message after the prefix, describing the change in detail
+
+## Evidence
+
+- Pattern in commits.type: freeform
+- Seen in commit: scripts: add generation-quality eval (citation/quote/language/latest/refusal) + Sarvam candidate
+
+---
+id: sobha-concierge-instinct-test-location
+trigger: "When adding or organizing tests"
+confidence: 0.8
+domain: testing
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Test Location
+
+## Action
+
+Place tests in a separate location from the source code
+
+## Evidence
+
+- Pattern in architecture.testLocation: separate
+
+---
+id: sobha-concierge-instinct-scripts-folder-usage
+trigger: "When adding utility or support scripts"
+confidence: 0.8
+domain: architecture
+source: repo-analysis
+source_repo: yashvoladoddi37/sobha-concierge
+---
+
+# Sobha Concierge Instinct Scripts Folder Usage
+
+## Action
+
+Place scripts in the 'scripts' folder
+
+## Evidence
+
+- Pattern in architecture.commonFolders: scripts
+
