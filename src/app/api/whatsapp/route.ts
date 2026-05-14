@@ -148,10 +148,14 @@ async function processMessage(message: WebhookMessage): Promise<void> {
   console.log("[WhatsApp] Received message:", {
     from: message.from.slice(-4), // Log last 4 digits only
     text: text.slice(0, 50),
+    phoneHash: phoneHash.slice(0, 8),
   });
 
   // Check rate limit
+  console.log("[WhatsApp] Checking rate limit...");
   const rateLimit = await checkRateLimit(phoneHash);
+  console.log("[WhatsApp] Rate limit result:", { allowed: rateLimit.allowed, remaining: rateLimit.remaining });
+  
   if (!rateLimit.allowed) {
     console.log("[WhatsApp] Rate limit exceeded for", phoneHash.slice(0, 8));
     await sendTextMessage(
@@ -162,20 +166,27 @@ async function processMessage(message: WebhookMessage): Promise<void> {
   }
 
   // Check if new user
+  console.log("[WhatsApp] Checking if new user...");
   const isNew = await isNewUser(phoneHash);
+  console.log("[WhatsApp] Is new user:", isNew);
 
   // Load conversation context
+  console.log("[WhatsApp] Loading conversation context...");
   const recentMessages = await getRecentMessages(phoneHash);
+  console.log("[WhatsApp] Loaded", recentMessages.length, "messages");
 
   // Build response
   let responseText: string;
 
   try {
+    console.log("[WhatsApp] Generating response...");
     // For new users, prepend welcome message
     if (isNew && recentMessages.length === 0) {
+      console.log("[WhatsApp] New user flow - generating with welcome");
       const answer = await generateResponse(text, recentMessages);
       responseText = `${WELCOME_MESSAGE}\n\n${answer}`;
     } else {
+      console.log("[WhatsApp] Existing user flow");
       responseText = await generateResponse(text, recentMessages);
     }
 
@@ -200,14 +211,18 @@ async function processMessage(message: WebhookMessage): Promise<void> {
   }
 
   // Send response
+  console.log("[WhatsApp] Sending response...");
   const sendResult = await sendTextMessage(message.from, responseText);
+  console.log("[WhatsApp] Send result:", { success: sendResult.success, error: sendResult.error });
 
   if (sendResult.success) {
     // Store conversation history
+    console.log("[WhatsApp] Storing conversation history...");
     await storeMessage(phoneHash, "user", text);
     await storeMessage(phoneHash, "assistant", responseText);
 
     // Increment usage count
+    console.log("[WhatsApp] Incrementing usage...");
     await incrementUsage(phoneHash);
 
     console.log("[WhatsApp] Response sent successfully");
