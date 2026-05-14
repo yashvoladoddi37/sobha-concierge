@@ -84,6 +84,8 @@ export async function GET(request: NextRequest) {
  * Main webhook handler for incoming messages
  */
 export async function POST(request: NextRequest) {
+  console.log("[WhatsApp] POST request received");
+  
   const appSecret = process.env.WHATSAPP_APP_SECRET;
   if (!appSecret) {
     console.error("[WhatsApp] Missing WHATSAPP_APP_SECRET");
@@ -95,7 +97,10 @@ export async function POST(request: NextRequest) {
   const signature = request.headers.get("X-Hub-Signature-256");
 
   // Verify webhook signature
+  console.log("[WhatsApp] Verifying signature...");
   const isValid = verifyWebhookSignature(rawBody, signature, appSecret);
+  console.log("[WhatsApp] Signature valid:", isValid);
+  
   if (!isValid) {
     console.warn("[WhatsApp] Signature verification failed");
     // Return 200 to avoid Meta retrying, but don't process
