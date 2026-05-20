@@ -84,12 +84,13 @@ export async function GET(request: NextRequest) {
  * Main webhook handler for incoming messages
  */
 export async function POST(request: NextRequest) {
-  console.log("[WhatsApp] POST request received");
+  // Vercel-specific logging
+  console.error("[WhatsApp] POST request received - Vercel log");
   
   const appSecret = process.env.WHATSAPP_APP_SECRET;
   if (!appSecret) {
     console.error("[WhatsApp] Missing WHATSAPP_APP_SECRET");
-    return new NextResponse("Configuration error", { status: 500 });
+    return new NextResponse(JSON.stringify({ error: "Missing WHATSAPP_APP_SECRET" }), { status: 500 });
   }
 
   // Get raw body for signature verification
@@ -103,8 +104,13 @@ export async function POST(request: NextRequest) {
   
   if (!isValid) {
     console.warn("[WhatsApp] Signature verification failed");
-    // Return 200 to avoid Meta retrying, but don't process
-    return new NextResponse("OK", { status: 200 });
+    // Return debug info to help troubleshoot
+    return new NextResponse(JSON.stringify({ 
+      debug: "signature_failed",
+      hasSecret: !!appSecret,
+      hasSignature: !!signature,
+      bodyLength: rawBody.length
+    }), { status: 200 });
   }
 
   // Parse payload
