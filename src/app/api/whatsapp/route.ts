@@ -84,33 +84,19 @@ export async function GET(request: NextRequest) {
  * Main webhook handler for incoming messages
  */
 export async function POST(request: NextRequest) {
-  // Vercel-specific logging
-  console.error("[WhatsApp] POST request received - Vercel log");
-  
   const appSecret = process.env.WHATSAPP_APP_SECRET;
   if (!appSecret) {
     console.error("[WhatsApp] Missing WHATSAPP_APP_SECRET");
-    return new NextResponse(JSON.stringify({ error: "Missing WHATSAPP_APP_SECRET" }), { status: 500 });
+    return new NextResponse("Configuration error", { status: 500 });
   }
 
-  // Get raw body for signature verification
   const rawBody = await request.text();
   const signature = request.headers.get("X-Hub-Signature-256");
 
-  // Verify webhook signature
-  console.log("[WhatsApp] Verifying signature...");
   const isValid = verifyWebhookSignature(rawBody, signature, appSecret);
-  console.log("[WhatsApp] Signature valid:", isValid);
-  
   if (!isValid) {
     console.warn("[WhatsApp] Signature verification failed");
-    // Return debug info to help troubleshoot
-    return new NextResponse(JSON.stringify({ 
-      debug: "signature_failed",
-      hasSecret: !!appSecret,
-      hasSignature: !!signature,
-      bodyLength: rawBody.length
-    }), { status: 200 });
+    return new NextResponse("OK", { status: 200 });
   }
 
   // Parse payload
@@ -156,19 +142,8 @@ async function processMessage(message: WebhookMessage): Promise<void> {
   const phoneHash = hashPhone(message.from);
   const text = message.text.body.trim();
 
-  console.log("[WhatsApp] Received message:", {
-    from: message.from.slice(-4), // Log last 4 digits only
-    text: text.slice(0, 50),
-    phoneHash: phoneHash.slice(0, 8),
-  });
-
-  // Check rate limit
-  console.log("[WhatsApp] Checking rate limit...");
   const rateLimit = await checkRateLimit(phoneHash);
-  console.log("[WhatsApp] Rate limit result:", { allowed: rateLimit.allowed, remaining: rateLimit.remaining });
-  
   if (!rateLimit.allowed) {
-    console.log("[WhatsApp] Rate limit exceeded for", phoneHash.slice(0, 8));
     await sendTextMessage(
       message.from,
       formatRateLimitExceededMessage(rateLimit)
@@ -176,28 +151,16 @@ async function processMessage(message: WebhookMessage): Promise<void> {
     return;
   }
 
-  // Check if new user
-  console.log("[WhatsApp] Checking if new user...");
   const isNew = await isNewUser(phoneHash);
-  console.log("[WhatsApp] Is new user:", isNew);
-
-  // Load conversation context
-  console.log("[WhatsApp] Loading conversation context...");
   const recentMessages = await getRecentMessages(phoneHash);
-  console.log("[WhatsApp] Loaded", recentMessages.length, "messages");
 
-  // Build response
   let responseText: string;
 
   try {
-    console.log("[WhatsApp] Generating response...");
-    // For new users, prepend welcome message
     if (isNew && recentMessages.length === 0) {
-      console.log("[WhatsApp] New user flow - generating with welcome");
       const answer = await generateResponse(text, recentMessages);
       responseText = `${WELCOME_MESSAGE}\n\n${answer}`;
     } else {
-      console.log("[WhatsApp] Existing user flow");
       responseText = await generateResponse(text, recentMessages);
     }
 
@@ -221,22 +184,12 @@ async function processMessage(message: WebhookMessage): Promise<void> {
     responseText = ERROR_MESSAGE;
   }
 
-  // Send response
-  console.log("[WhatsApp] Sending response...");
   const sendResult = await sendTextMessage(message.from, responseText);
-  console.log("[WhatsApp] Send result:", { success: sendResult.success, error: sendResult.error });
 
   if (sendResult.success) {
-    // Store conversation history
-    console.log("[WhatsApp] Storing conversation history...");
     await storeMessage(phoneHash, "user", text);
     await storeMessage(phoneHash, "assistant", responseText);
-
-    // Increment usage count
-    console.log("[WhatsApp] Incrementing usage...");
     await incrementUsage(phoneHash);
-
-    console.log("[WhatsApp] Response sent successfully");
   } else {
     console.error("[WhatsApp] Failed to send response:", sendResult.error);
   }

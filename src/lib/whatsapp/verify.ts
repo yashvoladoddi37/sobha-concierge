@@ -22,15 +22,14 @@ export function verifyWebhookSignature(
   const computed = crypto
     .createHmac("sha256", appSecret)
     .update(body, "utf8")
-    .digest("base64");
+    .digest("hex");
 
   try {
     return crypto.timingSafeEqual(
-      Buffer.from(expectedSignature, "base64"),
-      Buffer.from(computed, "base64")
+      Buffer.from(expectedSignature, "hex"),
+      Buffer.from(computed, "hex")
     );
   } catch {
-    // Length mismatch or invalid base64
     return false;
   }
 }
