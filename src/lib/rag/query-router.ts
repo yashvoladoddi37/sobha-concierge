@@ -224,9 +224,11 @@ export function condenseForRetrieval(
     }
   }
 
-  const words = lastQuestion.split(/\s+/);
-  const hasPronouns = /\b(it|this|that|they|them|those|the same|above|previous)\b/i.test(lastQuestion);
-  if (words.length > 8 && !hasPronouns) {
+  // Only pull in prior context when the question actually refers to it.
+  // Otherwise short standalone questions ("penalties", "how many floors")
+  // get their embedding poisoned by the previous topic.
+  const hasPronouns = /\b(it|this|that|they|them|those|the same|above|previous|there|these|his|her|their)\b/i.test(lastQuestion);
+  if (!hasPronouns) {
     return lastQuestion;
   }
 
