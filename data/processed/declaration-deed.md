@@ -19,52 +19,94 @@ SCHEDULE "A" PROPERTY
 All that piece and parcel of land being extent of 35876.91 sqm or 386170 sft (After relinquishing an extent of 3986.23 sq. mtrs for Parks and Open spaces) bearing BBMP Katha No.19/2, situated at Mysore Deviation Road in Gopalpura, Ward No.25, Bangalore, and bounded as follows:
 
 ON THE EAST : By Mysore Deviation Road and property of Bangalore Mahanagara Palike;
-WEST : By Remaining Portion of Minerva Mills Land;
-NORTH : By Road leading to Rajajinagar (Vatal Nagaraj Road);
-SOUTH : By Minerva Mill Road, thereafter Minerva Mill Property
+WEST         : By Remaining Portion of Minerva Mills Land;
+NORTH        : By Road leading to Rajajinagar (Vatal Nagaraj Road);
+SOUTH        : By Minerva Mill Road, thereafter Minerva Mill Property
 
 SCHEDULE "B" PROPERTY
 (The Property on which the Building "SOBHA INDRAPRASTHA" is constructed)
 
 All that piece and parcel of 2,08,695 sft i.e., 19,388.24 sq.mtrs. of undivided share in portion of land out of the total 35876.91 sqm or 386170 sft (After relinquishing an extent of 3986.23 sq. mtrs for Parks and Open spaces) bearing BBMP Katha No.19/2, situated at Mysore Deviation Road in Gopalpura, Ward No.25, Bangalore, and bounded as follows
-EAST : By Land appurtenant and Mysore Deviation Road;
-WEST : By Land appurtenant Remaining Portion of Minerva Mills;
-NORTH : By Land appurtenant area between residential and commercial developments in Municipal No-19/2 and thereafter Commercial Property;
-SOUTH : By Land appurtenant and Road towards Minerva Mills Property.
+EAST         : By Land appurtenant and Mysore Deviation Road;
+WEST         : By Land appurtenant Remaining Portion of Minerva Mills;
+NORTH        : By Land appurtenant area between residential and commercial developments in Municipal No-19/2 and thereafter Commercial Property;
+SOUTH        : By Land appurtenant and Road towards Minerva Mills Property.
 
 --- PAGE 2 ---
 Department of Stamps and Registration
 
-M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C
+M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C , 200.00
 
 200.00 Paid by Cash
 200
 
-02/08/2019
+: Vijayanagar
+: 02/08/2019
 
 Designed and Developed by C- DAC ACTS Pune.
 
 --- PAGE 3 ---
 -2-
 
-the corresponding property on which "SOBHA INDRAPRASTHA" is constructed is outlined in plan enclosed as Annexure hereto.
+the corresponding property on which "SOBHA INDRAPRASTHA" is constructed is
+outlined in plan enclosed as Annexure hereto.
 
-WHEREAS Grantor/Promoter is the Joint Development Agreement holder for the Schedule 'A' Property vide Joint Development agreement dated 12/10/2005, registered as Document no.SRI-1-03106/2005-06 in Book-I, stored in CD No.SRID42 at the Office of the Sub-Registrar, Srirampuram, Bangalore.
+WHEREAS Grantor/Promoter is the Joint Development Agreement holder for the
+Schedule 'A' Property vide Joint Development agreement dated 12/10/2005, registered
+as Document no.SRI-1-03106/2005-06 in Book-I, stored in CD No.SRID42 at the Office
+of the Sub-Registrar, Srirampuram, Bangalore.
 
-WHEAREAS the Grantor/Promoter herein has formulated a Scheme for developing the Schedule 'A' Property into two blocks, one being block having residential apartments and another block being a Shopping Mall. Accordingly the Grantor/Promoter has constructed on a Southern portion of Schedule 'A' Property a residential building block consisting of two wings for residential housing project known as "SOBHA INDRAPRASTHA" (herein after referred to as the PROJECT) with separate amenities, facilities and attributes including Club House and Swimming Pool, save and except in co-operation with each other shall maintain the common road with common amenities like common passage, park and open space, STP, RWH, WTP room and OWC of the Schedule 'A' Property which is common to both the blocks.
+WHEAREAS the Grantor/Promoter herein has formulated a Scheme for developing the
+Schedule 'A' Property into two blocks, one being block having residential apartments
+and another block being a Shopping Mall. Accordingly the Grantor/Promoter has
+constructed on a Southern portion of Schedule 'A' Property a residential building block
+consisting of two wings for residential housing project known as "SOBHA
+INDRAPRASTHA" (herein after referred to as the PROJECT) with separate amenities,
+facilities and attributes including Club House and Swimming Pool, save and except in
+co-operation with each other shall maintain the common road with common amenities
+like common passage, park and open space, STP, RWH, WTP room and OWC of the
+Schedule 'A' Property which is common to both the blocks.
 
-1) The Grantor/Promoter has obtained a master development plan with the Bangalore Development Authority (BDA) for the development of SOBHA INDRAPRASTHA and the Work Order Vide No. BDA/TPM/DLP-14/2012-13/6215/2012-13 dated 02/02/2013 issued by the Commissioner - Bangalore Development Authority for a master development plan for the Larger Property.
+1) The Grantor/Promoter has obtained a master development plan with the
+Bangalore Development Authority (BDA) for the development of SOBHA
+INDRAPRASTHA and the Work Order Vide No. BDA/TPM/DLP-14/2012-
+13/6215/2012-13 dated 02/02/2013 issued by the Commissioner - Bangalore
+Development Authority for a master development plan for the Larger Property.
 
-2) In terms of the provisions and as required under the planning authority and before and for the grant of the master development plan the following areas have been relinquished out of the Schedule A Property;
-a) vide registered relinquishment deed dated 02.01.2013, Registered as document no.BDA-1-02898/2012-13, Book-I, C.D.No.BDAD184, registered in the office of the Additional District Registrar, Bengaluru Urban District, an extent of 3,986.23 sqm has been relinquished to Bangalore Development Authority under Deed of Relinquishment dated 02.01.2013 for the development of parks and other areas
+2) In terms of the provisions and as required under the planning authority and
+before and for the grant of the master development plan the following areas have
+been relinquished out of the Schedule A Property;
+a) vide registered relinquishment deed dated 02.01.2013, Registered as
+document no.BDA-1-02898/2012-13, Book-I, C.D.No.BDAD184, registered in
+the office of the Additional District Registrar, Bengaluru Urban District, an
+extent of 3,986.23 sqm has been relinquished to Bangalore Development
+Authority under Deed of Relinquishment dated 02.01.2013 for the
+development of parks and other areas
 
-b) vide registered relinquishment deed dated 29.07.2005, Registered as document no.SRI-I-02022/2005-06, Book-I, C.D.No.SRID39, registered in the office of the Sub-Registrar, Srirampuram, Bangalore, an extent of 5425.51 sqm of land is relinquished for the Road widening of Vatal Nagaraj Road/Rajajinagar Road and Mysore Deviation Road and further an extent of 1938.48is left for road widening as stated in the sanctioned plan.
+b) vide registered relinquishment deed dated 29.07.2005, Registered as
+document no.SRI-I-02022/2005-06, Book-I, C.D.No.SRID39, registered in the
+office of the Sub-Registrar, Srirampuram, Bangalore, an extent of 5425.51
+sqm of land is relinquished for the Road widening of Vatal Nagaraj
+Road/Rajajinagar Road and Mysore Deviation Road and further an extent of
+1938.48is left for road widening as stated in the sanctioned plan.
 
-b) An extent of 1,993.12 sqm in Schedule Property is earmarked for Civic Amenities sites out of which 591.35 sqm is earmarked in the residential development and 1,401.77 sqm in the commercial development.
+b) An extent of 1,993.12 sqm in Schedule Property is earmarked for Civic
+Amenities sites out of which 591.35 sqm is earmarked in the residential
+development and 1,401.77 sqm in the commercial development.
 
-3) That the GRANTOR/PROMOTER is developing a residential apartment building on the Southern portion of Schedule 'A' Property, the Building known as "SOBHA INDRAPRASTHA" consisting of Ground and Thirty Seven Upper Floors with separate entrances, lobby's, passages and amenities. As per the said scheme for developing with a residential Apartments, having common areas, pathways, roads, other amenities & facilities in the said residential apartment complex named as "SOBHA INDRAPRASTHA". The Grantor/Promoter has secured Plan Sanction for construction on the Southern portion of Schedule 'A' Property vide LP No.0467/12-13 dated 03/05/2013 issued by The Additional Director JD South, BBMP, Bangalore.
+3) That the GRANTOR/PROMOTER is developing a residential apartment building
+on the Southern portion of Schedule 'A' Property, the Building known as "SOBHA
+INDRAPRASTHA" consisting of Ground and Thirty Seven Upper Floors with separate
+entrances, lobby's, passages and amenities. As per the said scheme for developing
+with a residential Apartments, having common areas, pathways, roads, other
+amenities & facilities in the said residential apartment complex named as "SOBHA
+INDRAPRASTHA". The Grantor/Promoter has secured Plan Sanction for
+construction on the Southern portion of Schedule 'A' Property vide LP No.0467/12-
+13 dated 03/05/2013 issued by The Additional Director JD South, BBMP, Bangalore.
 
-In accordance with the terms and conditions of the development agreement dated 12.10.2005 and the supplementary agreement dated 04.04.2014 the parties have agreed that the commercial development belongs to the Owners and the residential
+In accordance with the terms and conditions of the development agreement dated
+12.10.2005 and the supplementary agreement dated 04.04.2014 the parties have
+agreed that the commercial development belongs to the Owners and the residential
 
 --- PAGE 4 ---
 Print Date & Time : 02-08-2019 11:09:16 AM
@@ -73,15 +115,19 @@ Print Date & Time : 02-08-2019 11:09:16 AM
 2 3325.00
 3525.00
 
-M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C
+M/s. SOBHA LIMITED rep by its Senior Vice' President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C
 
 M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C
 
 1 M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C .
-
 2 M/s. SOBHA LIMITED rep by its Senior Vice President-Legal and Land affairs Mr. Ashok Kumar N.B rep by his SPA holder Mr. Shantha Kumar.C .
 
-Mr. Ashok Kumar. N.B., Represented by his Special Power of Attorney Holder Shantha Kumar. C (Under Special Power of Attorney Dated 19/06/2006 registered as Document No. 237/2006-07 in Book IV, CD No. SHVD65 Registered in the Office of the Sub-Registrar, Shivaji Nagar)
+Mr. Ashok Kumar. N.B., Represented by his Special
+Power of Attorney Holder Shantha Kumar. C
+(Under Special Power of Attorney Dated 19/06/2006
+registered as Document No. 237/2006-07
+in Book IV, CD No. SHVD65 Registered
+in the Office of the Sub-Registrar, Shivaji Nagar)
 
 --- PAGE 5 ---
 -3-
@@ -116,8 +162,8 @@ The apartment areas has separate basements for 'SOBHA INDRAPRASTHA' with restric
 
 --- PAGE 6 ---
 1 Mahesh
-  Sobha, 51/5, Sarjapur Marathahalll Outer Ring Road (ORR),
-  Devarabisanahalll, Bellandur Post, Bangalore - 560 103
+  Sobha, 51/5, Sarjapur Marathahalli Outer Ring Road (ORR),
+  Devarabisanahalli, Bellandur Post, Bangalore - 560 103
 
 2 Hari
   Sobha, 51/5, Sarjapur Marathahalli Outer Ring Road (ORR),
@@ -260,7 +306,6 @@ THIRTY SEVENTH FLOOR UPPER LEVEL
 The Thirty seventh floor upper level has Gym, Squash court, Sky Lounge, Multipurpose hall, Badminton court and Swimming pool etc
 
 TERRACE:
-
 The Terrace has overhead water tanks, battery rooms and the lift machine rooms and helipad.
 
 5) The GRANTOR/PROMOTER states that the Apartment constituting a heritable and transferable immovable property within the meaning of any law for the time being in force in the State of Karnataka (hereinafter referred to as the "APARTMENT"); and also an undivided interest in the general and/or restricted common areas and facilities of the Building as listed hereinafter in this Deed of Declaration necessary for the adequate use and enjoyment and hereinafter referred to as the "GENERAL AND/OR RESTRICTED COMMON AREAS AND FACILITIES", all of the above in accordance with the Act and the terms hereof.
@@ -296,95 +341,90 @@ The Terrace has overhead water tanks, battery rooms and the lift machine rooms a
 
 SOBHA INDRAPRASTHA
 TYPE A
-SL.NO. Description Dimensions (Meters) Area (L x B)
-Length Breadth Sq.M Sq.Ft.
-1 FOYER 2.8 1.6 4.48 48.22
-2 LIVING 4.9 5.4 26.46 284.82
-3 DINING 4.9 4 19.60 210.97
-4 BEDROOM 1 5.62 4.05 22.76 245.00
-5 TOILET 1 3 1.8 5.40 58.13
-6 BEDROOM 2 3.5 4.05 14.18 152.58
-7 TOILET 2.8 1.6 4.48 48.22
-8 BEDROOM 3 4.2 4.05 17.01 183.10
-9 TOILET 3 2.8 1.8 5.04 54.25
-10 BEDROOM 4 5.62 3.45 19.39 208.70
-11 TOILET 4 2.8 1.6 4.48 48.22
-12 KITCHEN 3.82 3.1 11.84 127.47
-13 UTILITY 1.64 3.1 5.08 54.72
-14 FAMILY 4.9 5.21 25.53 274.79
-15 POOJA 1.9 1.8 3.42 36.81
-16 MAID'S ROOM 2.8 1.9 5.32 57.26
-17 TOILET 1.25 1.85 2.31 24.89
-18 PASSAGES 7.41 79.76
-19 INTERNAL WALL AREA 9.66 103.95
-
-CARPET AREA 213.85 2301.88
-
-20 SITOUT 1.64 2.96 4.85 52.25
-21 BALCONY 1.59 4.05 6.44 69.31
-22 BALCONY RAILING AREA 2.13 22.96
-23 EXTERNAL WALL AREA 16.23 174.73
-
-TOTAL PLINTH AREA 243.51 2621.14
-
-24 ADD COMMON AREA 47.22 508.28
-25 ADD PROPORTIONATE CLUBHOUSE 4.64 49.94
-26 PRIVATE GARDEN (ACTUAL AREA) 11.38 122.49
-TOTAL SBA 306.75 3301.84
+                                Dimensions
+SL.NO.      Description          (Meters)           Area (L x B)
+                              Length  Breadth     Sq.M      Sq.Ft.
+1   FOYER                       2.8      1.6      4.48       48.22
+2   LIVING                      4.9      5.4     26.46      284.82
+3   DINING                      4.9        4     19.60      210.97
+4   BEDROOM 1                  5.62     4.05     22.76      245.00
+5   TOILET 1                      3      1.8      5.40       58.13
+6   BEDROOM 2                   3.5     4.05     14.18      152.58
+7   TOILET                      2.8      1.6      4.48       48.22
+8   BEDROOM 3                   4.2     4.05     17.01      183.10
+9   TOILET 3                    2.8      1.8      5.04       54.25
+10  BEDROOM 4                  5.62     3.45     19.39      208.70
+11  TOILET 4                    2.8      1.6      4.48       48.22
+12  KITCHEN                    3.82      3.1     11.84      127.47
+13  UTILITY                    1.64      3.1      5.08       54.72
+14  FAMILY                      4.9     5.21     25.53      274.79
+15  POOJA                       1.9      1.8      3.42       36.81
+16  MAID'S ROOM                 2.8      1.9      5.32       57.26
+17  TOILET                     1.25     1.85      2.31       24.89
+18  PASSAGES                                      7.41       79.76
+19  INTERNAL WALL AREA                            9.66      103.95
+    CARPET AREA                                 213.85     2301.88
+20  SITOUT                     1.64     2.96      4.85       52.25
+21  BALCONY                    1.59     4.05      6.44       69.31
+22  BALCONY RAILING AREA                          2.13       22.96
+23  EXTERNAL WALL AREA                           16.23      174.73
+    TOTAL PLINTH AREA                           243.51     2621.14
+24  ADD COMMON AREA                              47.22      508.28
+25  ADD PROPORTIONATE CLUBHOUSE                   4.64       49.94
+26  PRIVATE GARDEN (ACTUAL AREA)                 11.38      122.49
+    TOTAL SBA                                   306.75     3301.84
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 823.31 SFT (0.213%)
 
 --- PAGE 13 ---
 -10-
-3988 13
-2019-20
 
 SOBHA INDRAPRASTHA
 TYPE A1
-Dimensions (Meters) Area (L x B)
-SL.NO. Description Length Breadth Sq.M Sq.Ft.
-1 FOYER 2.8 1.6 4.48 48.22
-2 LIVING 4.9 5.4 26.46 284.82
-3 DINING 4.9 4 19.60 210.97
-4 BEDROOM 1 5.62 4.05 22.76 245.00
-5 TOILET 1 3 1.8 5.40 58.13
-6 BEDROOM 2 3.5 4.05 14.18 152.58
-7 TOILET 2.8 1.6 4.48 48.22
-8 BEDROOM 3 4.2 4.05 17.01 183.10
-9 TOILET 3 2.8 1.8 5.04 54.25
-10 BEDROOM 4 5.62 3.45 19.39 208.70
-11 TOILET 4 2.8 1.6 4.48 48.22
-12 KITCHEN 3.82 3.1 11.84 127.47
-13 UTILITY 1.64 3.1 5.08 54.72
-14 FAMILY 4.9 5.21 25.53 274.79
-15 POOJA 1.9 1.8 3.42 36.81
-16 MAID'S ROOM 2.8 1.9 5.32 57.26
-17 TOILET 1.25 1.85 2.31 24.89
-18 PASSAGES 7.41 79.76
-19 INTERNAL WALL AREA 9.66 103.95
+                                Dimensions (Meters)      Area (L x B)
+SL.NO.      Description         Length    Breadth        Sq.M      Sq.Ft.
+1           FOYER               2.8       1.6            4.48      48.22
+2           LIVING              4.9       5.4            26.46     284.82
+3           DINING              4.9       4              19.60     210.97
+4           BEDROOM 1           5.62      4.05           22.76     245.00
+5           TOILET 1            3         1.8            5.40      58.13
+6           BEDROOM 2           3.5       4.05           14.18     152.58
+7           TOILET              2.8       1.6            4.48      48.22
+8           BEDROOM 3           4.2       4.05           17.01     183.10
+9           TOILET 3            2.8       1.8            5.04      54.25
+10          BEDROOM 4           5.62      3.45           19.39     208.70
+11          TOILET 4            2.8       1.6            4.48      48.22
+12          KITCHEN             3.82      3.1            11.84     127.47
+13          UTILITY             1.64      3.1            5.08      54.72
+14          FAMILY              4.9       5.21           25.53     274.79
+15          POOJA               1.9       1.8            3.42      36.81
+16          MAID'S ROOM         2.8       1.9            5.32      57.26
+17          TOILET              1.25      1.85           2.31      24.89
+18          PASSAGES                                     7.41      79.76
+19          INTERNAL WALL AREA                           9.66      103.95
 
-CARPET AREA 213.85 2301.88
+            CARPET AREA                                  213.85    2301.88
 
-20 SITOUT 1.8 2.96 5.33 57.35
-21 BALCONY 1.59 4.05 6.44 69.31
-22 BALCONY RAILING AREA 1.66 17.90
-23 EXTERNAL WALL AREA 16.23 174.70
+20          SITOUT              1.8       2.96           5.33      57.35
+21          BALCONY             1.59      4.05           6.44      69.31
+22          BALCONY RAILING AREA                         1.66      17.90
+23          EXTERNAL WALL AREA                           16.23     174.70
 
-TOTAL PLINTH AREA 243.51 2621.14
+            TOTAL PLINTH AREA                            243.51    2621.14
 
-24 ADD COMMON AREA 47.22 508.28
-ADD PROPORTIONATE
-25 CLUBHOUSE 4.64 49.94
+24          ADD COMMON AREA                              47.22     508.28
+            ADD PROPORTIONATE
+25          CLUBHOUSE                                    4.64      49.94
 
-TOTAL SBA 295.37 3179.36
+            TOTAL SBA                                    295.37    3179.36
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 792.77 SFT (0.205%)
 
 --- PAGE 14 ---
 -11-
 
-3988 14 2019-20
-
 SOBHA INDRAPRASTHA
 TYPE A2
+
 SL.NO. Description Dimensions (Meters) Area (L x B)
 Length Breadth Sq.M Sq.Ft.
 1 FOYER 2.8 1.6 4.48 48.22
@@ -406,16 +446,12 @@ Length Breadth Sq.M Sq.Ft.
 17 TOILET 1.25 1.85 2.31 24.89
 18 PASSAGES 7.41 79.76
 19 INTERNAL WALL AREA 9.66 103.95
-
 CARPET AREA 213.85 2301.88
-
 20 SITOUT 1.8 2.96 5.33 57.35
 21 BALCONY 1.59 4.05 6.44 69.31
 22 BALCONY RAILING AREA 1.66 17.90
 23 EXTERNAL WALL AREA 16.23 174.70
-
 TOTAL PLINTH AREA 243.51 2621.14
-
 24 ADD COMMON AREA 47.22 508.28
 25 ADD PROPORTIONATE CLUBHOUSE 4.64 49.94
 26 PRIVATE GARDEN (ACTUAL AREA) 12.41 133.58
@@ -425,9 +461,11 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 826.08 SFT (0.214%)
 
 --- PAGE 15 ---
 -12-
+3988 15 2019-20
 
 SOBHA INDRAPRASTHA
 TYPE A3
+
 Dimensions (Meters) Area (L x B)
 SL.NO. Description Length Breadth Sq.M Sq.Ft.
 1 FOYER 2.8 1.6 4.48 48.22
@@ -449,17 +487,21 @@ SL.NO. Description Length Breadth Sq.M Sq.Ft.
 17 TOILET 1.25 1.85 2.31 24.89
 18 PASSAGES 7.41 79.76
 19 INTERNAL WALL AREA 9.66 103.95
+
 CARPET AREA 213.85 2301.88
+
 20 SITOUT 1.8 2.96 5.33 57.35
 21 BALCONY 1.59 4.05 6.44 69.31
 22 BALCONY RAILING AREA 1.66 17.90
 23 EXTERNAL WALL AREA 16.23 174.70
+
 TOTAL PLINTH AREA 243.51 2621.14
 24 ADD COMMON AREA 47.22 508.28
 25 ADD PROPORTIONATE CLUBHOUSE 4.64 49.94
 26 PRIVATE GARDEN (ACTUAL AREA) 12.41 133.58
-27 PRIVATE TERRACE GARDEN (1/3rd) AREA) 5.73 61.68
+27 PRIVATE TERRACE GARDEN (1/3rd) AREA 5.73 61.68
 TOTAL SBA 313.51 3374.62
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 841.46 SFT (0.218%)
 
 --- PAGE 16 ---
@@ -468,36 +510,36 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 841.46 SFT (0.218%)
 SOBHA INDRAPRASTHA
 TYPE B
 
-SL.NO. Description Dimensions (Meters) Area (L x B)
-Length Breadth Sq.M Sq.Ft.
-1 FOYER 1.64 2.08 3.41 36.72
-2 LIVING / DINING 8.86 4.23 37.48 403.41
-3 BEDROOM 1 4.69 4.05 18.99 204.46
-4 TOILET 1 1.8 2.8 5.04 54.25
-5 BEDROOM 2 4.79 3.41 16.33 175.82
-6 TOILET 2 2.8 1.7 4.76 51.24
-7 BEDROOM 3 3.8 4.05 15.39 165.66
-8 TOILET 1.8 2.8 5.04 54.25
-9 KITCHEN 3.2 2.85 9.12 98.17
-10 UTILITY 1.64 2.09 3.43 36.89
-11 POOJA 1.11 1.26 1.40 15.05
-12 MAID'S ROOM 1.9 2.45 4.66 50.11
-13 TOILET 1.9 1.2 2.28 24.54
-14 PASSAGES 6.68 71.90
-15 INTERNAL WALL AREA 6.96 74.93
+SL.NO.  Description             Dimensions (Meters)     Area (L x B)
+                                Length  Breadth         Sq.M    Sq.Ft.
+1       FOYER                   1.64    2.08            3.41    36.72
+2       LIVING / DINING         8.86    4.23            37.48   403.41
+3       BEDROOM 1               4.69    4.05            18.99   204.46
+4       TOILET 1                1.8     2.8             5.04    54.25
+5       BEDROOM 2               4.79    3.41            16.33   175.82
+6       TOILET 2                2.8     1.7             4.76    51.24
+7       BEDROOM 3               3.8     4.05            15.39   165.66
+8       TOILET                  1.8     2.8             5.04    54.25
+9       KITCHEN                 3.2     2.85            9.12    98.17
+10      UTILITY                 1.64    2.09            3.43    36.89
+11      POOJA                   1.11    1.26            1.40    15.05
+12      MAID'S ROOM             1.9     2.45            4.66    50.11
+13      TOILET                  1.9     1.2             2.28    24.54
+14      PASSAGES                                        6.68    71.90
+15      INTERNAL WALL AREA                              6.96    74.93
 
-CARPET AREA 140.97 1517.40
+        CARPET AREA                                     140.97  1517.40
 
-16 SITOUT 3.73 1.66 6.19 66.65
-17 BALCONY 1.59 4.05 6.44 69.31
-18 BALCONY RAILING AREA 1.76 18.93
-19 EXTERNAL WALL AREA 12.30 132.40
+16      SITOUT                  3.73    1.66            6.19    66.65
+17      BALCONY                 1.59    4.05            6.44    69.31
+18      BALCONY RAILING AREA                            1.76    18.93
+19      EXTERNAL WALL AREA                              12.30   132.40
 
-TOTAL PLINTH AREA 167.66 1804.69
+        TOTAL PLINTH AREA                               167.66  1804.69
 
-20 ADD COMMON AREA 32.51 349.98
-21 ADD PROPORTIONATE CLUBHOUSE 3.19 34.33
-TOTAL SBA 203.36 2189.00
+20      ADD COMMON AREA                                 32.51   349.98
+21      ADD PROPORTIONATE CLUBHOUSE                     3.19    34.33
+        TOTAL SBA                                       203.36  2189.00
 
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 545.83 SFT (0.141%)
 
@@ -506,8 +548,9 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 545.83 SFT (0.141%)
 
 SOBHA INDRAPRASTHA
 TYPE B1
-Dimensions (Meters) Area (L x B)
-SL.NO. Description Length Breadth Sq.M Sq.Ft.
+
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
 1 FOYER 1.64 2.08 3.41 36.72
 2 LIVING / DINING 8.86 4.23 37.48 403.41
 3 BEDROOM 1 4.69 4.05 18.99 204.46
@@ -537,6 +580,7 @@ TOTAL PLINTH AREA 166.79 1795.33
 21 ADD PROPORTIONATE CLUBHOUSE 3.18 34.23
 
 TOTAL SBA 202.31 2177.67
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 543.00 SFT (0.141%)
 
 --- PAGE 18 ---
@@ -583,21 +627,43 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 570.87 SFT (0.148%)
 
 SOBHA INDRAPRASTHA
 TYPE B3
-                                Dimensions (Meters)     Area (L x B)
-SL.NO.  Description             Length  Breadth         Sq.M    Sq.Ft.
-1       FOYER                   1.64    2.08            3.41    36.72
-2       LIVING / DINING         8.86    4.23            37.48   403.41
-3       POOJA                   1.11    1.26            1.40    15.05
-4       BEDROOM 1               4.69    4.05            18.99   204.46
-5       TOILET 1                1.8     2.8             5.04    54.25
-6       BEDROOM 2               4.79    3.41            16.33   175.82
-7       TOILET 2                2.8     1.7             4.76    51.24
-8       BEDROOM 3               3.8     4.05            15.39   165.66
-9       TOILET                  1.8     2.8             5.04    54.25
-10      KITCHEN                 3.2     2.85            9.12    9
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
+1 FOYER 1.64 2.08 3.41 36.72
+2 LIVING / DINING 8.86 4.23 37.48 403.41
+3 POOJA 1.11 1.26 1.40 15.05
+4 BEDROOM 1 4.69 4.05 18.99 204.46
+5 TOILET 1 1.8 2.8 5.04 54.25
+6 BEDROOM 2 4.79 3.41 16.33 175.82
+7 TOILET 2 2.8 1.7 4.76 51.24
+8 BEDROOM 3 3.8 4.05 15.39 165.66
+9 TOILET 1.8 2.8 5.04 54.25
+10 KITCHEN 3.2 2.85 9.12 98.17
+11 UTILITY 1.64 2.09 3.43 36.89
+12 PASSAGES 6.68 71.90
+13 INTERNAL WALL AREA 5.52 59.38
+
+CARPET AREA 132.59 1427.20
+
+14 SITOUT 3.73 1.81 6.75 72.67
+15 BALCONY 1.59 4.05 6.44 69.31
+16 BALCONY RAILING AREA 1.21 12.97
+17 EXTERNAL WALL AREA 9.60 103.32
+
+TOTAL PLINTH AREA 158.64 1707.60
+
+18 ADD COMMON AREA 30.76 331.10
+19 ADD PROPORTIONATE CLUBHOUSE 3.02 32.51
+20 PRIVATE GARDEN(ACTUAL AREA) 9.33 100.46
+
+TOTAL SBA 201.75 2171.67
+
+PROPORTIONATE UNDIVIDED SHARE IN LAND IS 541.51 SFT (0.140%)
 
 --- PAGE 20 ---
 -17-
+3988
+2019-20
 
 SOBHA INDRAPRASTHA
 TYPE B4
@@ -632,7 +698,6 @@ TOTAL PLINTH AREA 167.66 1804.69
 21 ADD PROPORTIONATE CLUBHOUSE 3.19 34.34
 22 PRIVATE GARDEN(ACTUAL AREA) 9.33 100.43
 23 PRIVATE TERRACE GARDEN (1/3rd) AREA) 2.26 24.36
-
 TOTAL SBA 214.95 2313.75
 
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 576.94 SFT (0.149%)
@@ -642,45 +707,44 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 576.94 SFT (0.149%)
 
 SOBHA INDRAPRASTHA
 TYPE C
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
 
-SL.NO.  Description             Dimensions (Meters)     Area (L x B)
-                                Length  Breadth         Sq.M    Sq.Ft.
+1 FOYER 2.2 1.6 3.52 37.89
+2 LIVING 5.33 5.11 27.24 293.17
+3 DINING 4.98 3.35 16.68 179.58
+4 SITOUT 1.18 4.11 4.85 52.20
+5 BEDROOM 1 4.6 3.35 15.41 165.87
+6 TOILET 1 1.6 2.8 4.48 48.22
+7 BEDROOM 2 3.35 5.05 16.92 182.10
+8 TOILET 2 1.6 2.8 4.48 48.22
+9 BEDROOM 3 5 3.34 16.70 179.76
+10 TOILET 3 2.9 1.6 4.64 49.94
+11 BEDROOM 4 3.35 5.05 16.92 182.10
+12 TOILET 4 1.6 2.8 4.48 48.22
+13 FAMILY 6.8 3.35 22.78 245.20
+14 PRAYER 2.9 1.6 4.64 49.94
+15 KITCHEN 4.6 3.35 15.41 165.87
+16 UTILITY 1.6 2.8 4.48 48.22
+17 MAID'S ROOM 1.9 2.45 4.66 50.11
+18 TOILET 1.9 1.2 2.28 24.54
+19 STAIRCASE 22.36 240.68
+20 PASSAGES 6.90 74.27
+21 INTERNAL WALL AREA 7.53 81.0637
+CARPET AREA 227.35 2447.20
+22 BALCONY 1.39 2.8 3.89 41.89
+23 SITOUT 1.74 4.11 7.15 76.98
+24 BALCONY RAILING AREA 1.79 19.24
+25 EXTERNAL WALL AREA 29.31 315.49
+26 DOUBLE HEIGHT AREA 13.28 142.95
 
-1       FOYER                   2.2     1.6             3.52    37.89
-2       LIVING                  5.33    5.11            27.24   293.17
-3       DINING                  4.98    3.35            16.68   179.58
-4       SITOUT                  1.18    4.11            4.85    52.20
-5       BEDROOM 1               4.6     3.35            15.41   165.87
-6       TOILET 1                1.6     2.8             4.48    48.22
-7       BEDROOM 2               3.35    5.05            16.92   182.10
-8       TOILET 2                1.6     2.8             4.48    48.22
-9       BEDROOM 3               5       3.34            16.70   179.76
-10      TOILET 3                2.9     1.6             4.64    49.94
-11      BEDROOM 4               3.35    5.05            16.92   182.10
-12      TOILET 4                1.6     2.8             4.48    48.22
-13      FAMILY                  6.8     3.35            22.78   245.20
-14      PRAYER                  2.9     1.6             4.64    49.94
-15      KITCHEN                 4.6     3.35            15.41   165.87
-16      UTILITY                 1.6     2.8             4.48    48.22
-17      MAID'S ROOM             1.9     2.45            4.66    50.11
-18      TOILET                  1.9     1.2             2.28    24.54
-19      STAIRCASE                                       22.36   240.68
-20      PASSAGES                                        6.90    74.27
-21      INTERNAL WALL AREA                              7.53    81.0637
-        CARPET AREA                                     227.35  2447.20
-22      BALCONY                 1.39    2.8             3.89    41.89
-23      SITOUT                  1.74    4.11            7.15    76.98
-24      BALCONY RAILING AREA                            1.79    19.24
-25      EXTERNAL WALL AREA                              29.31   315.49
-26      DOUBLE HEIGHT AREA                              13.28   142.95
+TOTAL PLINTH AREA 282.77 3043.74
 
-        TOTAL PLINTH AREA                               282.77  3043.74
+27 ADD COMMON AREA 54.83 590.19
+28 ADD PROPORTIONATE CLUBHOUSE 5.39 58.02
+29 PRIVATE TERRACE GARDEN (1/3rd) AREA 2.14 23.03
 
-27      ADD COMMON AREA                                 54.83   590.19
-28      ADD PROPORTIONATE CLUBHOUSE                     5.39    58.02
-29      PRIVATE TERRACE GARDEN (1/3rd) AREA             2.14    23.03
-
-        TOTAL SBA                                       345.13  3714.98
+TOTAL SBA 345.13 3714.98
 
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 926.33 SFT (0.240%)
 
@@ -689,7 +753,6 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 926.33 SFT (0.240%)
 
 SOBHA INDRAPRASTHA
 TYPE C1
-
 SL.NO. Description Dimensions (Meters) Area (L x B)
 Length Breadth Sq.M Sq.Ft.
 1 FOYER 2.2 1.6 3.52 37.89
@@ -718,7 +781,6 @@ TOTAL PLINTH AREA 154.26 1660.45
 18 ADD COMMON AREA 29.91 321.95
 19 ADD PROPORTIONATE CLUBHOUSE 2.94 31.65
 TOTAL SBA 187.11 2014.05
-
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 502.21 SFT (0.130%)
 
 --- PAGE 23 ---
@@ -761,8 +823,6 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 504.62 SFT (0.131%)
 
 --- PAGE 24 ---
 -21-
-3988 24
-2019-20
 
 SOBHA INDRAPRASTHA
 TYPE C2A
@@ -796,6 +856,7 @@ TOTAL PLINTH AREA 155.00 1668.42
 18 ADD PROPORTIONATE CLUBHOUSE 2.95 31.70
 
 TOTAL SBA 188.01 2023.75
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 504.62 SFT (0.131%)
 
 --- PAGE 25 ---
@@ -805,6 +866,7 @@ SOBHA INDRAPRASTHA
 TYPE C3
 SL.NO. Description Dimensions (Meters) Area (L x B)
 Length Breadth Sq.M Sq.Ft.
+
 1 FOYER 2.2 1.6 3.52 37.89
 2 LIVING 5.33 5.11 27.24 293.17
 3 DINING 4.86 5.11 24.83 267.32
@@ -834,9 +896,12 @@ CARPET AREA 266.51 2868.71
 23 SWIMMING POOL DECK 9.20 99.03
 TOTAL PLINTH AREA 291.43 3136.95
 24 ADD COMMON AREA 56.51 608.27
-25 ADD PROPORTIONATE CLUBHOUSE 5.55 59.74
-26 PRIVATE TERRACE GARDEN (1/3rd) AREA 17.62 189.66
+ADD PROPORTIONATE
+25 CLUBHOUSE 5.55 59.74
+PRIVATE TERRACE GARDEN
+26 (1/3rd) AREA 17.62 189.66
 TOTAL SBA 371.11 3994.60
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 996.06 SFT (0.258%)
 
 --- PAGE 26 ---
@@ -844,44 +909,42 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 996.06 SFT (0.258%)
 
 SOBHA INDRAPRASTHA
 TYPE D
-                                Dimensions
-SL.NO.      Description          (Meters)           Area (L x B)
-                              Length  Breadth     Sq.M      Sq.Ft.
 
-1      FOYER                   1.46    2.15       3.14       33.79
-2      LIVING                   6.5    3.95      25.68      276.37
-3      DINING                   4.9    3.15      15.44      166.14
-4      BEDROOM 1                4.6    3.35      15.41      165.87
-5      TOILET 1                 1.6     2.8       4.48       48.22
-6      BEDROOM 2               3.35    5.04      16.88      181.74
-7      TOILET 2                 1.6     2.8       4.48       48.22
-8      BEDROOM 3               3.35    5.04      16.88      181.74
-9      TOILET 3                 1.6     2.8       4.48       48.22
-10     FAMILY                   6.6    3.95      26.07      280.62
-11     KITCHEN                 3.35    3.35      11.22      120.80
-12     UTILITY                 1.39    3.35       4.66       50.12
-13     MAID'S ROOM              1.6     2.8       4.48       48.22
-14     TOILET                  1.09    1.85       2.02       21.71
-15     STAIRCASE                                 15.16      163.18
-16     PASSAGES                                   6.81       73.30
-17     INTERNAL WALL AREA                        7.218       77.69
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
 
-       CARPET AREA                              184.50     1985.96
+1 FOYER 1.46 2.15 3.14 33.79
+2 LIVING 6.5 3.95 25.68 276.37
+3 DINING 4.9 3.15 15.44 166.14
+4 BEDROOM 1 4.6 3.35 15.41 165.87
+5 TOILET 1 1.6 2.8 4.48 48.22
+6 BEDROOM 2 3.35 5.04 16.88 181.74
+7 TOILET 2 1.6 2.8 4.48 48.22
+8 BEDROOM 3 3.35 5.04 16.88 181.74
+9 TOILET 3 1.6 2.8 4.48 48.22
+10 FAMILY 6.6 3.95 26.07 280.62
+11 KITCHEN 3.35 3.35 11.22 120.80
+12 UTILITY 1.39 3.35 4.66 50.12
+13 MAID'S ROOM 1.6 2.8 4.48 48.22
+14 TOILET 1.09 1.85 2.02 21.71
+15 STAIRCASE 15.16 163.18
+16 PASSAGES 6.81 73.30
+17 INTERNAL WALL AREA 7.218 77.69
 
-18     BALCONY                 1.39    3.35       4.66       50.12
-19     SITOUT                  1.84    3.15       5.80       62.39
-20     BALCONY RAILING AREA                       2.02       21.71
-21     EXTERNAL WALL AREA                        28.78      309.79
+CARPET AREA 184.50 1985.96
 
-       TOTAL PLINTH AREA                        225.75     2429.97
+18 BALCONY 1.39 3.35 4.66 50.12
+19 SITOUT 1.84 3.15 5.80 62.39
+20 BALCONY RAILING AREA 2.02 21.71
+21 EXTERNAL WALL AREA 28.78 309.79
 
-22     ADD COMMON AREA                           43.77      471.14
-       ADD PROPORTIONATE
-23     CLUBHOUSE                                  4.30       46.29
-       PRIVATE TERRACE
-24     GARDEN (1/3rd) AREA                        2.11       22.74
+TOTAL PLINTH AREA 225.75 2429.97
 
-       TOTAL SBA                                275.93     2970.14
+22 ADD COMMON AREA 43.77 471.14
+23 ADD PROPORTIONATE CLUBHOUSE 4.30 46.29
+24 PRIVATE TERRACE GARDEN (1/3rd) AREA 2.11 22.74
+
+TOTAL SBA 275.93 2970.14
 
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 740.61 SFT (0.192%)
 
@@ -927,8 +990,9 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 486.29 SFT (0.126%)
 
 SOBHA INDRAPRASTHA
 TYPE E
-Dimensions (Meters) Area (L x B)
-SL.NO. Description Length Breadth Sq.M Sq.Ft.
+
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
 
 1 FOYER 2.8 1.6 4.48 48.22
 2 LIVING 4.9 5.3 25.97 279.54
@@ -961,12 +1025,11 @@ CARPET AREA 214.96 2313.83
 TOTAL PLINTH AREA 243.76 2623.83
 
 25 ADD COMMON AREA 47.27 508.77
-ADD PROPORTIONATE
-26 CLUBHOUSE 4.64 49.94
-PRIVATE GARDEN(ACTUAL
-27 AREA) 11.39 122.63
+26 ADD PROPORTIONATE CLUBHOUSE 4.64 49.94
+27 PRIVATE GARDEN(ACTUAL AREA) 11.39 122.63
 
 TOTAL SBA 307.06 3305.18
+
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 824.15 SFT (0.213%)
 
 --- PAGE 29 ---
@@ -1009,8 +1072,7 @@ CARPET AREA 214.96 2313.83
 TOTAL PLINTH AREA 243.76 2623.83
 
 25 ADD COMMON AREA 47.27 508.81
-ADD PROPORTIONATE
-26 CLUBHOUSE 4.64 49.94
+26 ADD PROPORTIONATE CLUBHOUSE 4.64 49.94
 
 TOTAL SBA 295.67 3182.59
 
@@ -1018,57 +1080,9 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 793.58 sft (0.206%)
 
 --- PAGE 30 ---
 -27-
-3988 2019-20
 
 SOBHA INDRAPRASTHA
 TYPE E2
-
-SL.NO.  Description                     Dimensions (Meters)     Area (L x B)
-                                        Length  Breadth         Sq.M    Sq.Ft.
-
-1       FOYER                           2.8     1.6             4.48    48.22
-2       LIVING                          4.9     5.3             25.97   279.54
-3       DINING                          4.9     4.44            21.76   234.18
-4       BEDROOM 1                       5.62    3.8             21.36   229.88
-5       TOILET 1                        2.8     1.8             5.04    54.25
-6       DRESS                           1.5     1.8             2.70    29.06
-7       BEDROOM 2                       5.62    3.5             19.67   211.73
-8       TOILET 2                        2.8     1.6             4.48    48.22
-9       BEDROOM 3                       3.5     3.8             13.30   143.16
-10      TOILET                          2.8     1.6             4.48    48.22
-11      BEDROOM 4                       4.2     3.8             15.96   171.79
-12      TOILET 4                        2.8     1.8             5.04    54.25
-13      KITCHEN                         3.82    3.05            11.65   125.41
-14      UTILITY                         1.64    3.05            5.00    53.84
-15      FAMILY                          4.9     5.3             25.97   279.54
-16      POOJA                           1.9     1.37            2.60    28.02
-17      MAID'S ROOM                     2.8     2.01            5.63    60.58
-18      TOILET                          2.8     1.1             3.08    33.15
-19      PASSAGES                                                6.21    66.84
-20      INTERNAL WALL AREA                                      10.58   113.926
-
-        CARPET AREA                                             214.96  2313.83
-
-21      SITOUT                          1.8     2.96            5.33    57.35
-22      BALCONY                         1.59    3.8             6.04    65.04
-23      BALCONY RAILING AREA                                    2.05    22.07
-24      EXTERNAL WALL AREA                                      15.38   165.55
-
-        TOTAL PLINTH AREA                                       243.76  2623.83
-
-25      ADD COMMON AREA                                         47.27   508.81
-26      ADD PROPORTIONATE CLUBHOUSE                             4.64    49.94
-27      PRIVATE GARDEN(ACTUAL AREA)                             12.41   133.58
-
-        TOTAL SBA                                               308.08  3316.17
-
-PROPORTIONATE UNDIVIDED SHARE IN LAND IS 826.89 SFT (0.214%)
-
---- PAGE 31 ---
--28-
-
-SOBHA INDRAPRASTHA
-TYPE E3
 
 SL.NO.  Description             Dimensions (Meters)     Area (L x B)
                                 Length  Breadth         Sq.M    Sq.Ft.
@@ -1092,7 +1106,7 @@ SL.NO.  Description             Dimensions (Meters)     Area (L x B)
 17      MAID'S ROOM             2.8     2.01            5.63    60.58
 18      TOILET                  2.8     1.1             3.08    33.15
 19      PASSAGES                                        6.21    66.84
-20      INTERNAL WALL AREA                              10.584  113.926
+20      INTERNAL WALL AREA                              10.58   113.926
 
         CARPET AREA                                     214.96  2313.83
 
@@ -1104,10 +1118,60 @@ SL.NO.  Description             Dimensions (Meters)     Area (L x B)
         TOTAL PLINTH AREA                               243.76  2623.83
 
 25      ADD COMMON AREA                                 47.27   508.81
-26      ADD PROPORTIONATE CLUBHOUSE                     4.64    49.94
-27      PRIVATE GARDEN(ACTUAL AREA)                     12.41   133.60
-28      PRIVATE TERRACE GARDEN (1/3rd AREA)             6.07    65.34
-        TOTAL SBA                                       314.15  3381.51
+        ADD PROPORTIONATE
+26      CLUBHOUSE                                       4.64    49.94
+        PRIVATE GARDEN(ACTUAL
+27      AREA)                                           12.41   133.58
+
+        TOTAL SBA                                       308.08  3316.17
+
+PROPORTIONATE UNDIVIDED SHARE IN LAND IS 826.89 SFT (0.214%)
+
+--- PAGE 31 ---
+-28-
+
+SOBHA INDRAPRASTHA
+TYPE E3
+
+SL.NO.  Description                     Dimensions (Meters)      Area (L x B)
+                                        Length  Breadth  Sq.M    Sq.Ft.
+
+1       FOYER                           2.8     1.6      4.48    48.22
+2       LIVING                          4.9     5.3      25.97   279.54
+3       DINING                          4.9     4.44     21.76   234.18
+4       BEDROOM 1                       5.62    3.8      21.36   229.88
+5       TOILET 1                        2.8     1.8      5.04    54.25
+6       DRESS                           1.5     1.8      2.70    29.06
+7       BEDROOM 2                       5.62    3.5      19.67   211.73
+8       TOILET 2                        2.8     1.6      4.48    48.22
+9       BEDROOM 3                       3.5     3.8      13.30   143.16
+10      TOILET                          2.8     1.6      4.48    48.22
+11      BEDROOM 4                       4.2     3.8      15.96   171.79
+12      TOILET 4                        2.8     1.8      5.04    54.25
+13      KITCHEN                         3.82    3.05     11.65   125.41
+14      UTILITY                         1.64    3.05     5.00    53.84
+15      FAMILY                          4.9     5.3      25.97   279.54
+16      POOJA                           1.9     1.37     2.60    28.02
+17      MAID'S ROOM                     2.8     2.01     5.63    60.58
+18      TOILET                          2.8     1.1      3.08    33.15
+19      PASSAGES                                         6.21    66.84
+20      INTERNAL WALL AREA                               10.584  113.926
+
+        CARPET AREA                                      214.96  2313.83
+
+21      SITOUT                          1.8     2.96     5.33    57.35
+22      BALCONY                         1.59    3.8      6.04    65.04
+23      BALCONY RAILING AREA                             2.05    22.07
+24      EXTERNAL WALL AREA                               15.38   165.55
+
+        TOTAL PLINTH AREA                                243.76  2623.83
+
+25      ADD COMMON AREA                                  47.27   508.81
+26      ADD PROPORTIONATE CLUBHOUSE                      4.64    49.94
+27      PRIVATE GARDEN(ACTUAL AREA)                      12.41   133.60
+28      PRIVATE TERRACE GARDEN (1/3rd) AREA)             6.07    65.34
+
+        TOTAL SBA                                        314.15  3381.51
 
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 843.18 SFT (0.218%)
 
@@ -1116,8 +1180,8 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 843.18 SFT (0.218%)
 
 SOBHA INDRAPRASTHA
 TYPE F
-Dimensions (Meters) Area (L x B)
-SL.NO. Description Length Breadth Sq.M Sq.Ft.
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
 
 1 FOYER 1.5 2.05 3.08 33.10
 2 LIVING 6.26 3.85 24.10 259.42
@@ -1150,7 +1214,7 @@ TOTAL PLINTH AREA 218.44 2351.29
 ADD PROPORTIONATE
 23 CLUBHOUSE 4.16 44.78
 PRIVATE TERRACE
-24 GARDEN (1/3rd) AREA 2.09 22.50
+24 GARDEN (1/3rd) AREA) 2.09 22.50
 
 TOTAL SBA 267.05 2874.53
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 716.77 SFT (0.186%)
@@ -1160,30 +1224,30 @@ PROPORTIONATE UNDIVIDED SHARE IN LAND IS 716.77 SFT (0.186%)
 
 SOBHA INDRAPRASTHA
 TYPE F1
-SL.NO.  Description             Dimensions (Meters)  Area (L x B)
-                                Length  Breadth      Sq.M    Sq.Ft.
-1       FOYER                   1.63    2.1          3.42    36.85
-2       LIVING / DINING         10.14   3.85         39.04   420.22
-3       BEDROOM 1               5.5     3.98         21.89   235.62
-4       TOILET 1                1.8     2.7          4.86    52.31
-5       BEDROOM 2               4.7     4.03         18.94   203.88
-6       TOILET 2                1.6     2.7          4.32    46.50
-7       BEDROOM 3               4.26    3.98         16.95   182.50
-8       TOILET 3                1.6     2.7          4.32    46.50
-9       KITCHEN                 3.5     2.6          9.10    97.95
-10      UTILITY                 1.9     1.84         3.50    37.63
-11      PASSAGES                                     0.35    3.77
-12      INTERNAL WALL AREA                           6.00    64.55
-        CARPET AREA                                  132.69  1428.28
-13      BALCONY                 1.59    3.98         6.33    68.12
-14      SITOUT                  1.64    3.05         5.00    53.84
-15      BALCONY RAILING AREA                         1.68    18.07
-16      EXTERNAL WALL AREA                           11.52   124.00
-        TOTAL PLINTH AREA                            157.22  1692.32
-17      ADD COMMON AREA                              30.48   328.09
-        ADD PROPORTIONATE
-18      CLUBHOUSE                                    3.00    32.29
-        TOTAL SBA                                    190.70  2052.69
+SL.NO. Description Dimensions (Meters) Area (L x B)
+Length Breadth Sq.M Sq.Ft.
+1 FOYER 1.63 2.1 3.42 36.85
+2 LIVING / DINING 10.14 3.85 39.04 420.22
+3 BEDROOM 1 5.5 3.98 21.89 235.62
+4 TOILET 1 1.8 2.7 4.86 52.31
+5 BEDROOM 2 4.7 4.03 18.94 203.88
+6 TOILET 2 1.6 2.7 4.32 46.50
+7 BEDROOM 3 4.26 3.98 16.95 182.50
+8 TOILET 3 1.6 2.7 4.32 46.50
+9 KITCHEN 3.5 2.6 9.10 97.95
+10 UTILITY 1.9 1.84 3.50 37.63
+11 PASSAGES 0.35 3.77
+12 INTERNAL WALL AREA 6.00 64.55
+CARPET AREA 132.69 1428.28
+13 BALCONY 1.59 3.98 6.33 68.12
+14 SITOUT 1.64 3.05 5.00 53.84
+15 BALCONY RAILING AREA 1.68 18.07
+16 EXTERNAL WALL AREA 11.52 124.00
+TOTAL PLINTH AREA 157.22 1692.32
+17 ADD COMMON AREA 30.48 328.09
+ADD PROPORTIONATE
+18 CLUBHOUSE 3.00 32.29
+TOTAL SBA 190.70 2052.69
 PROPORTIONATE UNDIVIDED SHARE IN LAND IS 511.84 SFT (0.133%)
 
 --- PAGE 34 ---
@@ -1365,6 +1429,8 @@ d) ONE numbers of 'D1' Type Apartments;
 e) ONE numbers of 'F1' Type Apartments;
 
 --- PAGE 37 ---
+-34-
+
 In the TWENTY FOURTH FLOOR, there are following Apartments:-
 a) ONE numbers of 'A' Type Apartments;
 b) ONE numbers of 'B' Type Apartments;
@@ -1457,7 +1523,6 @@ a) ONE numbers of 'A' Type Apartments;
 b) ONE numbers of 'F1' Type Apartments;
 
 8.4) SOBHA INDRAPRASTHA (WING 02)
-
 In the GROUND FLOOR, there are following Apartments:-
 a) ONE numbers of 'F' Type Apartments;
 b) ONE numbers of 'D' Type Apartments;
@@ -1513,21 +1578,21 @@ a) ONE numbers of 'F1' Type Apartments;
 b) ONE numbers of 'D1' Type Apartments;
 c) ONE numbers of 'C2' Type Apartments;
 d) ONE numbers of 'B2' Type Apartments;
-e) ONE numbers of 'E2' Type Apartment;
+e) ONE numbers of 'E2' Type Apartments;
 
 In the EIGHTH FLOOR, there are following Apartments:-
 a) ONE numbers of 'F1' Type Apartments;
 b) ONE numbers of 'D1' Type Apartments;
 c) ONE numbers of 'C2' Type Apartments;
 d) ONE numbers of 'B' Type Apartments;
-e) ONE numbers of 'E' Type Apartment;
+e) ONE numbers of 'E' Type Apartments;
 
 In the NINTH FLOOR, there are following Apartments:-
 a) ONE numbers of 'F1' Type Apartments;
 b) ONE numbers of 'D1' Type Apartments;
 c) ONE numbers of 'C2' Type Apartments;
 d) ONE numbers of 'B2' Type Apartments;
-e) ONE numbers of 'E2' Type Apartment;
+e) ONE numbers of 'E2' Type Apartments;
 
 In the TENTH FLOOR, there are following Apartments:-
 a) ONE numbers of 'F1' Type Apartments;
@@ -1579,7 +1644,7 @@ a) ONE numbers of 'F1' Type Apartments;
 b) ONE numbers of 'D1' Type Apartments;
 c) ONE numbers of 'C2' Type Apartments;
 d) ONE numbers of 'B' Type Apartments;
-e) ONE numbers of 'E' Type Apartments;
+e) ONE numbers of 'E' Type Apartment;
 
 In the SEVENTEENTH FLOOR, there are following Apartments:-
 a) ONE numbers of 'F1' Type Apartments;
@@ -1729,178 +1794,173 @@ b) ONE numbers of 'E' Type Apartments;
 
 WING-01
 Ground Floor
-
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  A     1001     306.75     3301.80     823.31                          2
-2        Sobha Limited  C     1003     345.13     3714.93     926.33                          2
-3        Sobha Limited  D     1004     275.93     2970.14     740.61                          2
-4        Sobha Limited  F     1005     267.05     2874.52     716.77                          2
-
+Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
+1 | Sobha Limited | A | 1001 | 306.75 | 3301.80 | 823.31 | 2
+2 | Sobha Limited | C | 1003 | 345.13 | 3714.93 | 926.33 | 2
+3 | Sobha Limited | D | 1004 | 275.93 | 2970.14 | 740.61 | 2
+4 | Sobha Limited | F | 1005 | 267.05 | 2874.52 | 716.77 | 2
 Note: Apt No: 1003, 1004, 1005 are Duplex which is situated in Ground and First Floor.
 
 FIRST Floor
-
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  A1    1011     295.37     3179.31     792.77                          2
-2        Sobha Limited  B1    1012     202.31     2177.64     543.00                          2
+Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
+1 | Sobha Limited | A1 | 1011 | 295.37 | 3179.31 | 792.77 | 2
+2 | Sobha Limited | B1 | 1012 | 202.31 | 2177.64 | 543.00 | 2
 
 SECOND Floor
-
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  A     1021     306.75     3301.80     823.31                          2
-2        Sobha Limited  B     1022     203.36     2189.00     545.83                          2
-3        Sobha Limited  C2A   1023     188.01     2023.71     504.62                          1
-4        Sobha Limited  D1    1024     181.18     1950.20     486.29                          1
-5        Sobha Limited  F1    1025     190.70     2052.69     511.84                          2
+Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
+1 | Sobha Limited | A | 1021 | 306.75 | 3301.80 | 823.31 | 2
+2 | Sobha Limited | B | 1022 | 203.36 | 2189.00 | 545.83 | 2
+3 | Sobha Limited | C2A | 1023 | 188.01 | 2023.71 | 504.62 | 1
+4 | Sobha Limited | D1 | 1024 | 181.18 | 1950.20 | 486.29 | 1
+5 | Sobha Limited | F1 | 1025 | 190.70 | 2052.69 | 511.84 | 2
 
 THIRD Floor
-
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  A3    1031     313.51     3374.57     841.46                          2
-2        Sobha Limited  B4    1032     214.95     2313.75     576.94                          2
-3        Sobha Limited  C2A   1033     188.01     2023.71     504.62                          1
-4        Sobha Limited  D1    1034     181.18     1950.20     486.29                          1
-5        Sobha Limited  F1    1035     190.70     2052.69     511.84                          2
+Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
+1 | Sobha Limited | A3 | 1031 | 313.51 | 3374.57 | 841.46 | 2
+2 | Sobha Limited | B4 | 1032 | 214.95 | 2313.75 | 576.94 | 2
+3 | Sobha Limited | C2A | 1033 | 188.01 | 2023.71 | 504.62 | 1
+4 | Sobha Limited | D1 | 1034 | 181.18 | 1950.20 | 486.29 | 1
+5 | Sobha Limited | F1 | 1035 | 190.70 | 2052.69 | 511.84 | 2
 
 --- PAGE 44 ---
 -41-
 
 FOURTH Floor
-Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A | 1041 | 306.75 | 3301.80 | 823.31 | 2
-2 | Sobha Limited | B | 1042 | 203.36 | 2189.00 | 545.83 | 2
-3 | Sobha Limited | C2A | 1043 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1044 | 181.18 | 1950.20 | 486.29 | 2
-5 | Sobha Limited | F1 | 1045 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1041     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1042     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2A   1043     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1044     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1045     190.70     2052.69     511.84                          2
 
 FIFTH Floor
-Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A2 | 1051 | 307.78 | 3312.89 | 826.08 | 2
-2 | Sobha Limited | B3 | 1052 | 201.75 | 2171.66 | 541.51 | 2
-3 | Sobha Limited | C3 | 1053 | 371.11 | 3994.59 | 996.06 | 2
-4 | Sobha Limited | D1 | 1054 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1055 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1051     307.78     3312.89     826.08                          2
+2        Sobha Limited  B3    1052     201.75     2171.66     541.51                          2
+3        Sobha Limited  C3    1053     371.11     3994.59     996.06                          2
+4        Sobha Limited  D1    1054     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1055     190.70     2052.69     511.84                          2
 
 SIXTH Floor
-Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A | 1061 | 306.75 | 3301.80 | 823.31 | 2
-2 | Sobha Limited | B | 1062 | 203.36 | 2189.00 | 545.83 | 2
-3 | Sobha Limited | C2 | 1063 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1064 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1065 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1061     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1062     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1063     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1064     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1065     190.70     2052.69     511.84                          2
 
 SEVENTH Floor
-Sl. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A2 | 1071 | 307.78 | 3312.89 | 826.08 | 2
-2 | Sobha Limited | B2 | 1072 | 212.69 | 2289.43 | 570.87 | 2
-3 | Sobha Limited | C2 | 1073 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1074 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1075 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1071     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1072     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1073     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1074     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1075     190.70     2052.69     511.84                          2
 
 --- PAGE 45 ---
 -42-
 
 EIGHTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1081 306.75 3301.80 823.31 4
-2 Sobha Limited B 1082 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1083 188.01 2023.71 504.62 1
-4 Sobha Limited D1 1084 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1085 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1081     306.75     3301.80     823.31                          4
+2        Sobha Limited  B     1082     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1083     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1084     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1085     190.70     2052.69     511.84                          2
 
 NINTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A2 1091 307.78 3312.89 826.08 2
-2 Sobha Limited B2 1092 212.69 2289.43 570.87 2
-3 Sobha Limited C2 1093 188.01 2023.71 504.62 1
-4 Sobha Limited D1 1094 181.18 1950.20 486.29 2
-5 Sobha Limited F1 1095 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1091     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1092     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1093     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1094     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1095     190.70     2052.69     511.84                          2
 
 TENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1101 306.75 3301.80 823.31 2
-2 Sobha Limited B 1102 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1103 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1104 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1105 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1101     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1102     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1103     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1104     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1105     190.70     2052.69     511.84                          2
 
 ELEVENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A3 1111 313.51 3374.57 841.46 2
-2 Sobha Limited B4 1112 214.95 2313.75 576.94 2
-3 Sobha Limited C2 1113 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1114 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1115 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A3    1111     313.51     3374.57     841.46                          2
+2        Sobha Limited  B4    1112     214.95     2313.75     576.94                          2
+3        Sobha Limited  C2    1113     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1114     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1115     190.70     2052.69     511.84                          2
 
 --- PAGE 46 ---
 -43-
 
 TWELFTH Floor
-Sl. No.  Name            TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited   A     1121     306.75     3301.80     823.31                          2
-2        Sobha Limited   B     1122     203.36     2189.00     545.83                          2
-3        Sobha Limited   C2    1123     188.01     2023.71     504.62                          2
-4        Sobha Limited   D1    1124     181.18     1950.20     486.29                          2
-5        Sobha Limited   F1    1125     190.70     2052.69     511.84                          2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1121     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1122     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1123     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1124     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1125     190.70     2052.69     511.84                          2
 
 THIRTEENTH Floor
-Sl. No.  Name            TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited   A2    1131     307.78     3312.89     826.08                          2
-2        Sobha Limited   B2    1132     212.69     2289.43     570.87                          2
-3        Sobha Limited   C2    1133     188.01     2023.71     504.62                          2
-4        Sobha Limited   D1    1134     181.18     1950.20     486.29                          2
-5        Sobha Limited   F1    1135     190.70     2052.69     511.84                          1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1131     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1132     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1133     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1134     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1135     190.70     2052.69     511.84                          1
 
 FOURTEENTH Floor
-Sl. No.  Name            TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited   A     1141     306.75     3301.80     823.31                          2
-2        Sobha Limited   B     1142     203.36     2189.00     545.83                          2
-3        Sobha Limited   C2    1143     188.01     2023.71     504.62                          2
-4        Sobha Limited   D1    1144     181.18     1950.20     486.29                          2
-5        Sobha Limited   F1    1145     190.70     2052.69     511.84                          2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1141     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1142     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1143     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1144     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1145     190.70     2052.69     511.84                          2
 
 FIFTEENTH Floor
-Sl. No.  Name            TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited   A2    1151     307.78     3312.89     826.08                          2
-2        Sobha Limited   B2    1152     212.69     2289.43     570.87                          2
-3        Sobha Limited   C2    1153     188.01     2023.71     504.62                          2
-4        Sobha Limited   D1    1154     181.18     1950.20     486.29                          1
-5        Sobha Limited   F1    1155     190.70     2052.69     511.84                          2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1151     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1152     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1153     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1154     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1155     190.70     2052.69     511.84                          2
 
 --- PAGE 47 ---
 -44-
 
 SIXTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1161 306.75 3301.80 823.31 2
-2 Sobha Limited B 1162 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1163 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1164 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1165 190.70 2052.69 511.84 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1161     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1162     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1163     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1164     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1165     190.70     2052.69     511.84                          1
 
 SEVENTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A2 1171 307.78 3312.89 826.08 2
-2 Sobha Limited B2 1172 212.69 2289.43 570.87 2
-3 Sobha Limited C2 1173 188.01 2023.71 504.62 1
-4 Sobha Limited D1 1174 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1175 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1171     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1172     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1173     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1174     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1175     190.70     2052.69     511.84                          2
 
 EIGHTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1181 306.75 3301.80 823.31 2
-2 Sobha Limited B 1182 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1183 188.01 2023.71 504.62 1
-4 Sobha Limited D1 1184 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1185 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1181     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1182     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1183     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1184     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1185     190.70     2052.69     511.84                          2
 
 NINETEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A2 1191 307.78 3312.89 826.08 2
-2 Sobha Limited B2 1192 212.69 2289.43 570.87 2
-3 Sobha Limited C2 1193 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1194 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1195 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1191     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1192     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1193     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1194     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1195     190.70     2052.69     511.84                          2
 
 --- PAGE 48 ---
 -45-
@@ -1939,38 +1999,39 @@ Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in
 
 --- PAGE 49 ---
 -46-
+3988 49 2019-20
 
 TWENTY FOURTH Floor
-SI. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A | 1241 | 306.75 | 3301.80 | 823.31 | 2
-2 | Sobha Limited | B | 1242 | 203.36 | 2189.00 | 545.83 | 2
-3 | Sobha Limited | C2 | 1243 | 188.01 | 2023.71 | 504.62 | 2
-4 | Sobha Limited | D1 | 1244 | 181.18 | 1950.20 | 486.29 | 2
-5 | Sobha Limited | F1 | 1245 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1241     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1242     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1243     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1244     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1245     190.70     2052.69     511.84                          2
 
 TWENTY FIFTH Floor
-SI. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A2 | 1251 | 307.78 | 3312.89 | 826.08 | 2
-2 | Sobha Limited | B2 | 1252 | 212.69 | 2289.43 | 570.87 | 2
-3 | Sobha Limited | C2 | 1253 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1254 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1255 | 190.70 | 2052.69 | 511.84 | 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1251     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1252     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    1253     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1254     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1255     190.70     2052.69     511.84                          2
 
 TWENTY SIXTH Floor
-SI. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A | 1261 | 306.75 | 3301.80 | 823.31 | 2
-2 | Sobha Limited | B | 1262 | 203.36 | 2189.00 | 545.83 | 2
-3 | Sobha Limited | C2 | 1263 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1264 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1265 | 190.70 | 2052.69 | 511.84 | 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1261     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1262     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1263     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1264     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1265     190.70     2052.69     511.84                          1
 
 TWENTY SEVENTH Floor
-SI. No. | Name | TYPE | UNIT NO | SBA SQ.M. | SBA SQ.FT. | Undivided share in land in sft | No. of car parks
-1 | Sobha Limited | A3 | 1271 | 313.51 | 3374.57 | 841.46 | 2
-2 | Sobha Limited | B4 | 1272 | 214.95 | 2313.75 | 576.94 | 2
-3 | Sobha Limited | C2 | 1273 | 188.01 | 2023.71 | 504.62 | 1
-4 | Sobha Limited | D1 | 1274 | 181.18 | 1950.20 | 486.29 | 1
-5 | Sobha Limited | F1 | 1275 | 190.70 | 2052.69 | 511.84 | 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A3    1271     313.51     3374.57     841.46                          2
+2        Sobha Limited  B4    1272     214.95     2313.75     576.94                          2
+3        Sobha Limited  C2    1273     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1274     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1275     190.70     2052.69     511.84                          1
 
 --- PAGE 50 ---
 -47-
@@ -2011,115 +2072,117 @@ Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in
 -48-
 
 THIRTY SECOND Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1321 306.75 3301.80 823.31 2
-2 Sobha Limited B 1322 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1323 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1324 181.18 1950.20 486.29 2
-5 Sobha Limited F1 1325 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1321     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1322     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1323     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1324     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1325     190.70     2052.69     511.84                          2
 
 THIRTY THIRD Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A2 1331 307.78 3312.89 826.08 2
-2 Sobha Limited B2 1332 212.69 2289.43 570.87 1
-3 Sobha Limited C2 1333 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1334 181.18 1950.20 486.29 2
-5 Sobha Limited F1 1335 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A2    1331     307.78     3312.89     826.08                          2
+2        Sobha Limited  B2    1332     212.69     2289.43     570.87                          1
+3        Sobha Limited  C2    1333     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1334     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1335     190.70     2052.69     511.84                          2
 
 THIRTY FOURTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1341 306.75 3301.80 823.31 2
-2 Sobha Limited B 1342 203.36 2189.00 545.83 2
-3 Sobha Limited C2 1343 188.01 2023.71 504.62 2
-4 Sobha Limited D1 1344 181.18 1950.20 486.29 2
-5 Sobha Limited F1 1345 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1341     306.75     3301.80     823.31                          2
+2        Sobha Limited  B     1342     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    1343     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    1344     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    1345     190.70     2052.69     511.84                          2
 
 THIRTY FIFTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A3 1351 313.51 3374.57 841.46 2
-2 Sobha Limited B4 1352 214.95 2313.75 576.94 1
-3 Sobha Limited C2 1353 188.01 2023.71 504.62 1
-4 Sobha Limited D1 1354 181.18 1950.20 486.29 1
-5 Sobha Limited F1 1355 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A3    1351     313.51     3374.57     841.46                          2
+2        Sobha Limited  B4    1352     214.95     2313.75     576.94                          1
+3        Sobha Limited  C2    1353     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    1354     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    1355     190.70     2052.69     511.84                          2
 
 --- PAGE 52 ---
 -49-
+3988 52
+2019-20
 
 THIRTY SIXTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited A 1361 306.75 3301.80 823.31 2
-2 Sobha Limited F1 1365 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  A     1361     306.75     3301.80     823.31                          2
+2        Sobha Limited  F1    1365     190.70     2052.69     511.84                          2
 
 WING-02
 Ground Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2001 307.06 3305.18 824.15 2
-2 Sobha Limited D 2004 275.93 2970.14 740.61 2
-3 Sobha Limited F 2005 267.05 2874.52 716.77 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2001     307.06     3305.18     824.15                          2
+2        Sobha Limited  D     2004     275.93     2970.14     740.61                          2
+3        Sobha Limited  F     2005     267.05     2874.52     716.77                          2
 Note: Apt No: 2004, 2005 are Duplex which is situated in Ground and First Floor
 
 FIRST Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E1 2011 295.67 3182.58 793.58 2
-2 Sobha Limited B1 2012 202.31 2177.64 543.00 2
-3 Sobha Limited C1 2013 183.11 2014.05 502.21 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E1    2011     295.67     3182.58     793.58                          2
+2        Sobha Limited  B1    2012     202.31     2177.64     543.00                          2
+3        Sobha Limited  C1    2013     183.11     2014.05     502.21                          1
 
 SECOND Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2021 307.06 3305.18 824.15 2
-2 Sobha Limited B 2022 203.36 2189.00 545.83 1
-3 Sobha Limited C2 2023 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2024 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2025 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2021     307.06     3305.18     824.15                          2
+2        Sobha Limited  B     2022     203.36     2189.00     545.83                          1
+3        Sobha Limited  C2    2023     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2024     181.18     1950.20     486.29                          1
+5        Sobha Limited  F1    2025     190.70     2052.69     511.84                          2
 
 THIRD Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E3 2031 314.15 3381.49 843.18 2
-2 Sobha Limited B4 2032 214.95 2313.75 576.94 2
-3 Sobha Limited C2 2033 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2034 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2035 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E3    2031     314.15     3381.49     843.18                          2
+2        Sobha Limited  B4    2032     214.95     2313.75     576.94                          2
+3        Sobha Limited  C2    2033     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    2034     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2035     190.70     2052.69     511.84                          2
 
 --- PAGE 53 ---
 -50-
 
 FOURTH Floor
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  E     2041     307.06     3305.18     824.15                          2
-2        Sobha Limited  B     2042     203.36     2189.00     545.83                          2
-3        Sobha Limited  C2    2043     188.01     2023.71     504.62                          1
-4        Sobha Limited  D1    2044     181.18     1950.20     486.29                          2
-5        Sobha Limited  F1    2045     190.70     2052.69     511.84                          1
+Sl. No.    Name              TYPE    UNIT NO    SBA SQ.M.    SBA SQ.FT.    Undivided share in land in sft    No. of car parks
+1          Sobha Limited     E       2041       307.06       3305.18       824.15                            2
+2          Sobha Limited     B       2042       203.36       2189.00       545.83                            2
+3          Sobha Limited     C2      2043       188.01       2023.71       504.62                            1
+4          Sobha Limited     D1      2044       181.18       1950.20       486.29                            2
+5          Sobha Limited     F1      2045       190.70       2052.69       511.84                            1
 
 FIFTH Floor
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  A2    2051     307.78     3312.89     826.08                          2
-2        Sobha Limited  B3    2052     201.75     2171.66     541.51                          1
-3        Sobha Limited  C3    2053     371.11     3994.59     996.06                          2
-4        Sobha Limited  D1    2054     181.18     1950.20     486.29                          1
-5        Sobha Limited  F1    2055     190.70     2052.69     511.84                          2
+Sl. No.    Name              TYPE    UNIT NO    SBA SQ.M.    SBA SQ.FT.    Undivided share in land in sft    No. of car parks
+1          Sobha Limited     A2      2051       307.78       3312.89       826.08                            2
+2          Sobha Limited     B3      2052       201.75       2171.66       541.51                            1
+3          Sobha Limited     C3      2053       371.11       3994.59       996.06                            2
+4          Sobha Limited     D1      2054       181.18       1950.20       486.29                            1
+5          Sobha Limited     F1      2055       190.70       2052.69       511.84                            2
 
 SIXTH Floor
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  E     2061     307.06     3305.18     824.15                          2
-2        Sobha Limited  B     2062     203.36     2189.00     545.83                          2
-3        Sobha Limited  C2    2063     188.01     2023.71     504.62                          2
-4        Sobha Limited  D1    2064     181.18     1950.20     486.29                          1
-5        Sobha Limited  F1    2065     190.70     2052.69     511.84                          2
+Sl. No.    Name              TYPE    UNIT NO    SBA SQ.M.    SBA SQ.FT.    Undivided share in land in sft    No. of car parks
+1          Sobha Limited     E       2061       307.06       3305.18       824.15                            2
+2          Sobha Limited     B       2062       203.36       2189.00       545.83                            2
+3          Sobha Limited     C2      2063       188.01       2023.71       504.62                            2
+4          Sobha Limited     D1      2064       181.18       1950.20       486.29                            1
+5          Sobha Limited     F1      2065       190.70       2052.69       511.84                            2
 
 SEVENTH Floor
-Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
-1        Sobha Limited  E2    2071     308.08     3316.15     826.89                          2
-2        Sobha Limited  B2    2072     212.69     2289.43     570.87                          2
-3        Sobha Limited  C2    2073     188.01     2023.71     504.62                          2
-4        Sobha Limited  D1    2074     181.18     1950.20     486.29                          2
-5        Sobha Limited  F1    2075     190.70     2052.69     511.84                          2
+Sl. No.    Name              TYPE    UNIT NO    SBA SQ.M.    SBA SQ.FT.    Undivided share in land in sft    No. of car parks
+1          Sobha Limited     E2      2071       308.08       3316.15       826.89                            2
+2          Sobha Limited     B2      2072       212.69       2289.43       570.87                            2
+3          Sobha Limited     C2      2073       188.01       2023.71       504.62                            2
+4          Sobha Limited     D1      2074       181.18       1950.20       486.29                            2
+5          Sobha Limited     F1      2075       190.70       2052.69       511.84                            2
 
 --- PAGE 54 ---
 -51-
 
-EIGHTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+EIGTH Floor
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E 2081 307.06 3305.18 824.15 2
 2 Sobha Limited B 2082 203.36 2189.00 545.83 2
 3 Sobha Limited C2 2083 188.01 2023.71 504.62 1
@@ -2127,7 +2190,7 @@ SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No
 5 Sobha Limited F1 2085 190.70 2052.69 511.84 2
 
 NINTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E2 2091 308.08 3316.15 826.89 2
 2 Sobha Limited B2 2092 212.69 2289.43 570.87 2
 3 Sobha Limited C2 2093 188.01 2023.71 504.62 2
@@ -2135,7 +2198,7 @@ SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No
 5 Sobha Limited F1 2095 190.70 2052.69 511.84 2
 
 TENTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E 2101 307.06 3305.18 824.15 2
 2 Sobha Limited B 2102 203.36 2189.00 545.83 2
 3 Sobha Limited C2 2103 188.01 2023.71 504.62 2
@@ -2143,7 +2206,7 @@ SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No
 5 Sobha Limited F1 2105 190.70 2052.69 511.84 2
 
 ELEVENTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E3 2111 314.15 3381.49 843.18 2
 2 Sobha Limited B4 2112 214.95 2313.75 576.94 2
 3 Sobha Limited C2 2113 188.01 2023.71 504.62 1
@@ -2154,73 +2217,75 @@ SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No
 -52-
 
 TWELTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2121 307.06 3305.18 824.15 2
-2 Sobha Limited B 2122 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2123 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2124 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2125 190.70 2052.69 511.84 1
+
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2121     307.06     3305.18     824.15                          2
+2        Sobha Limited  B     2122     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    2123     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2124     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2125     190.70     2052.69     511.84                          1
 
 THIRTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E2 2131 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2132 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2133 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2134 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2135 190.70 2052.69 511.84 1
+
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E2    2131     308.08     3316.15     826.89                          2
+2        Sobha Limited  B2    2132     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    2133     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2134     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2135     190.70     2052.69     511.84                          1
 
 FOURTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2141 307.06 3305.18 824.15 2
-2 Sobha Limited B 2142 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2143 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2144 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2145 190.70 2052.69 511.84 2
+
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2141     307.06     3305.18     824.15                          2
+2        Sobha Limited  B     2142     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    2143     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2144     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2145     190.70     2052.69     511.84                          2
 
 FIFTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E2 2151 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2152 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2153 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2154 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2155 190.70 2052.69 511.84 2
+
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E2    2151     308.08     3316.15     826.89                          2
+2        Sobha Limited  B2    2152     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    2153     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    2154     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2155     190.70     2052.69     511.84                          2
 
 --- PAGE 56 ---
 -53-
-3988 56
-2019-20
 
 SIXTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2161 307.06 3305.18 824.15 2
-2 Sobha Limited B 2162 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2163 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2164 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2165 190.70 2052.69 511.84 2
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2161     307.06     3305.18     824.15                          2
+2        Sobha Limited  B     2162     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    2163     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2164     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2165     190.70     2052.69     511.84                          2
 
-SEVENTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E2 2171 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2172 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2173 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2174 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2175 190.70 2052.69 511.84 2
+SEVTEENTH Floor
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E2    2171     308.08     3316.15     826.89                          2
+2        Sobha Limited  B2    2172     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    2173     188.01     2023.71     504.62                          1
+4        Sobha Limited  D1    2174     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2175     190.70     2052.69     511.84                          2
 
 EIGHTEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2181 307.06 3305.18 824.15 2
-2 Sobha Limited B 2182 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2183 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2184 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2185 190.70 2052.69 511.84 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E     2181     307.06     3305.18     824.15                          2
+2        Sobha Limited  B     2182     203.36     2189.00     545.83                          2
+3        Sobha Limited  C2    2183     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2184     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2185     190.70     2052.69     511.84                          1
 
 NINETEENTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E2 2191 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2192 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2193 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2194 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2195 190.70 2052.69 511.84 1
+Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in land in sft  No. of car parks
+1        Sobha Limited  E2    2191     308.08     3316.15     826.89                          2
+2        Sobha Limited  B2    2192     212.69     2289.43     570.87                          2
+3        Sobha Limited  C2    2193     188.01     2023.71     504.62                          2
+4        Sobha Limited  D1    2194     181.18     1950.20     486.29                          2
+5        Sobha Limited  F1    2195     190.70     2052.69     511.84                          1
 
 --- PAGE 57 ---
 -54-
@@ -2261,7 +2326,7 @@ Sl. No.  Name           TYPE  UNIT NO  SBA SQ.M.  SBA SQ.FT.  Undivided share in
 -55-
 
 TWENTY FOURTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E 2241 307.06 3305.18 824.15 2
 2 Sobha Limited B 2242 203.36 2189.00 545.83 2
 3 Sobha Limited C2 2243 188.01 2023.71 504.62 2
@@ -2269,98 +2334,79 @@ SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No
 5 Sobha Limited F1 2245 190.70 2052.69 511.84 1
 
 TWENTY FIFTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SQ.FT. Undivided share in land in sft No. of car parks
 1 Sobha Limited E2 2251 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2252 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2253 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2254 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2255 190.70 2052.69 511.84 2
-
-TWENTY SIXTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2261 307.06 3305.18 824.15 2
-2 Sobha Limited B 2262 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2263 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2264 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2265 190.70 2052.69 511.84 2
-
-TWENTY SEVENTH Floor
-SI. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E3 2271 314.15 3381.49 843.18 2
-2 Sobha Limited B4 2272 214.95 2313.75 576.94 2
-3 Sobha Limited C2 2273 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2274 181.18 1950.20 486.29 2
-5 Sobha Limited F1 2275 190.70 2052.69 511.84 2
+2 Sobha Limited B2 2252 212.69 2289.43 570.8
 
 --- PAGE 59 ---
 -56-
 
 TWENTY EIGHTH Floor
-SI. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
-1	Sobha Limited	E	2281	307.06	3305.18	824.15	2
-2	Sobha Limited	B	2282	203.36	2189.00	545.83	2
-3	Sobha Limited	C2	2283	188.01	2023.71	504.62	1
-4	Sobha Limited	D1	2284	181.18	1950.20	486.29	2
-5	Sobha Limited	F1	2285	190.70	2052.69	511.84	2
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+1 Sobha Limited E 2281 307.06 3305.18 824.15 2
+2 Sobha Limited B 2282 203.36 2189.00 545.83 2
+3 Sobha Limited C2 2283 188.01 2023.71 504.62 1
+4 Sobha Limited D1 2284 181.18 1950.20 486.29 2
+5 Sobha Limited F1 2285 190.70 2052.69 511.84 2
 
 TWENTY NINTH Floor
-SI. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
-1	Sobha Limited	E2	2291	308.08	3316.15	826.89	2
-2	Sobha Limited	B2	2292	212.69	2289.43	570.87	2
-3	Sobha Limited	C2	2293	188.01	2023.71	504.62	1
-4	Sobha Limited	D1	2294	181.18	1950.20	486.29	1
-5	Sobha Limited	F1	2295	190.70	2052.69	511.84	2
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+1 Sobha Limited E2 2291 308.08 3316.15 826.89 2
+2 Sobha Limited B2 2292 212.69 2289.43 570.87 2
+3 Sobha Limited C2 2293 188.01 2023.71 504.62 1
+4 Sobha Limited D1 2294 181.18 1950.20 486.29 1
+5 Sobha Limited F1 2295 190.70 2052.69 511.84 2
 
 THIRTIETH Floor
-SI. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
-1	Sobha Limited	E	2301	307.06	3305.18	824.15	2
-2	Sobha Limited	B	2302	203.36	2189.00	545.83	2
-3	Sobha Limited	C2	2303	188.01	2023.71	504.62	1
-4	Sobha Limited	D1	2304	181.18	1950.20	486.29	1
-5	Sobha Limited	F1	2305	190.70	2052.69	511.84	2
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+1 Sobha Limited E 2301 307.06 3305.18 824.15 2
+2 Sobha Limited B 2302 203.36 2189.00 545.83 2
+3 Sobha Limited C2 2303 188.01 2023.71 504.62 1
+4 Sobha Limited D1 2304 181.18 1950.20 486.29 1
+5 Sobha Limited F1 2305 190.70 2052.69 511.84 2
 
 THIRTY FIRST Floor
-SI. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
-1	Sobha Limited	E2	2311	308.08	3316.15	826.89	2
-2	Sobha Limited	B2	2312	212.69	2289.43	570.87	2
-3	Sobha Limited	C2	2313	188.01	2023.71	504.62	1
-4	Sobha Limited	D1	2314	181.18	1950.20	486.29	1
-5	Sobha Limited	F1	2315	190.70	2052.69	511.84	1
+Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
+1 Sobha Limited E2 2311 308.08 3316.15 826.89 2
+2 Sobha Limited B2 2312 212.69 2289.43 570.87 2
+3 Sobha Limited C2 2313 188.01 2023.71 504.62 1
+4 Sobha Limited D1 2314 181.18 1950.20 486.29 1
+5 Sobha Limited F1 2315 190.70 2052.69 511.84 1
 
 --- PAGE 60 ---
 -57-
 
 THIRTY SECOND Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2321 307.06 3305.18 824.15 2
-2 Sobha Limited B 2322 203.36 2189.00 545.83 1
-3 Sobha Limited C2 2323 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2324 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2325 190.70 2052.69 511.84 2
+Sl. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
+1	Sobha Limited	E	2321	307.06	3305.18	824.15	2
+2	Sobha Limited	B	2322	203.36	2189.00	545.83	1
+3	Sobha Limited	C2	2323	188.01	2023.71	504.62	2
+4	Sobha Limited	D1	2324	181.18	1950.20	486.29	1
+5	Sobha Limited	F1	2325	190.70	2052.69	511.84	2
 
 THIRTY THIRD Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E2 2331 308.08 3316.15 826.89 2
-2 Sobha Limited B2 2332 212.69 2289.43 570.87 2
-3 Sobha Limited C2 2333 188.01 2023.71 504.62 1
-4 Sobha Limited D1 2334 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2335 190.70 2052.69 511.84 2
+Sl. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
+1	Sobha Limited	E2	2331	308.08	3316.15	826.89	2
+2	Sobha Limited	B2	2332	212.69	2289.43	570.87	2
+3	Sobha Limited	C2	2333	188.01	2023.71	504.62	1
+4	Sobha Limited	D1	2334	181.18	1950.20	486.29	1
+5	Sobha Limited	F1	2335	190.70	2052.69	511.84	2
 
 THIRTY FOURTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E 2341 307.06 3305.18 824.15 2
-2 Sobha Limited B 2342 203.36 2189.00 545.83 2
-3 Sobha Limited C2 2343 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2344 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2345 190.70 2052.69 511.84 2
+Sl. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
+1	Sobha Limited	E	2341	307.06	3305.18	824.15	2
+2	Sobha Limited	B	2342	203.36	2189.00	545.83	2
+3	Sobha Limited	C2	2343	188.01	2023.71	504.62	2
+4	Sobha Limited	D1	2344	181.18	1950.20	486.29	1
+5	Sobha Limited	F1	2345	190.70	2052.69	511.84	2
 
 THIRTY FIFTH Floor
-Sl. No. Name TYPE UNIT NO SBA SQ.M. SBA SQ.FT. Undivided share in land in sft No. of car parks
-1 Sobha Limited E3 2351 314.15 3381.49 843.18 2
-2 Sobha Limited B4 2352 214.95 2313.75 576.94 2
-3 Sobha Limited C2 2353 188.01 2023.71 504.62 2
-4 Sobha Limited D1 2354 181.18 1950.20 486.29 1
-5 Sobha Limited F1 2355 190.70 2052.69 511.84 2
+Sl. No.	Name	TYPE	UNIT NO	SBA SQ.M.	SBA SQ.FT.	Undivided share in land in sft	No. of car parks
+1	Sobha Limited	E3	2351	314.15	3381.49	843.18	2
+2	Sobha Limited	B4	2352	214.95	2313.75	576.94	2
+3	Sobha Limited	C2	2353	188.01	2023.71	504.62	2
+4	Sobha Limited	D1	2354	181.18	1950.20	486.29	1
+5	Sobha Limited	F1	2355	190.70	2052.69	511.84	2
 
 --- PAGE 61 ---
 -58-
@@ -2489,28 +2535,8 @@ d) The owners and occupants of SOBHA INDRAPRASTHA proportionately bear the maint
 
 12.1) That any person acquiring an Apartment in the Project building "SOBHA INDRAPRASTHA" shall be entitled to a membership in the club house and swimming pool separately constructed by the Grantor/Promoter and such membership shall
 
---- PAGE 66 ---
--63-
-
-automatically stand transferred to the new owners of the apartment immediately on the sale of such apartment.
-
-13) That each Apartment will be entitled to one vote in any of the meetings irrespective of the size of the Apartment;
-
-14) That the general and/or restricted common areas and facilities shall remain undivided and no owner shall bring any action for partition or division thereof;
-
-15) That percentage of the undivided interest in the general and/or restricted common areas and facilities established herein shall not be changed except with the consent of 75% of all the Apartment Owners.
-
-16) That the undivided interest in the general and/or restricted common areas and facilities shall not be separated from the Apartment to which it appertains and shall be deemed conveyed or encumbered with the Apartment even though such interest is not expressly mentioned or described in the conveyance or other instrument.
-
-17) That each Apartment Owner shall comply with the provisions of this Deed, the Bye-laws, decisions and resolutions of the Association of Apartment Owners and failure to comply with any such provisions, decisions or resolutions, shall be grounds for an action to recover sums due, for damages, or for injunctive relief.
-
-18) That the dedication of the property to the plan of Apartment Ownership herein shall not be revoked, or the property removed from the plan of Apartment Ownership or any of the provisions herein amended unless all of the Apartment Owners and the Mortgages of all the Mortgages covering the Apartments unanimously agree to such revocation or amendment or removal of the property from the plan by duly registered instruments; PROVIDED HOWEVER, the other provisions (except paragraph 13) of this Declaration may be amended but that the Declaration shall always be kept consistent with the provisions of the Act by a vote of 75% in number and in the common interest of all Apartment Owners at a Meeting duly held in accordance with the provisions of the Bye-laws (annexed as Exhibit "B" hereto), provided further that any such amendment shall have been approved in writing by the Mortgagors of all the Mortgages covering the Apartments. No such amendments shall be effective until duly registered in accordance with the provisions of the Registration Act.
-
-19) That no Apartment Owner of an Apartment may exempt himself/herself from liability for his/her contribution towards the common expenses by waiver of the
-
 --- PAGE 67 ---
 -64-
-3988 67 2019-20
 
 use or enjoyment of any of the general and/or restricted common areas and facilities or by the abandonment of his/her Apartment.
 
@@ -2532,15 +2558,17 @@ the property bearing BBMP Katha No.19/2, situated at Mysore Deviation Road in Go
 25) That insurance premium for any blanket insurance coverage shall be a common expense to be paid by monthly assessments levied by the Association of Apartment Owners; and that such payment shall be held in a separate account of the Association and used solely for the payment of the blanket property insurance premium as such premiums become due.
 
 WITNESS:
-1) HARI                                     GRANTOR/PROMOTER
-   Sarjapur-Marathahalli (ORR),
-   Devarabisanahalli, Bellandur Post,
-   BANGALORE - 560 103
+1) HARI
+Sarjapur-Marathahalli (ORR),
+Devarabisanahalli, Bellandur Post,
+BANGALORE - 560 103
 
 2) ASHWINI. S
-   Sarjapur-Marathahalli (ORR),
-   Devarabisanahalli, Bellandur Post,
-   BANGALORE - 560 103
+Sarjapur-Marathahalli (ORR),
+Devarabisanahalli, Bellandur Post,
+BANGALORE - 560 103
+
+GRANTOR/PROMOTER
 
 Drafted By:
 Advocate
@@ -2696,15 +2724,10 @@ If the meeting of owners cannot be organised because a quorum has not attended, 
 The order of business, at all meetings (special or general) of the owners of all units, shall be as follows:-
 
 (a) Roll Call;
-
 (b) Proof of notice of meeting on waiver of notice;
-
 (c) Reading of minutes of proceeding meeting;
-
 (d) Reports of Board if any;
-
 (e) Unfinished Business, if any;
-
 (f) New Business;
 
 CHAPTER - IV
@@ -2780,7 +2803,7 @@ At all meetings of the Board of Managers, at least three of the total strength o
 
 The Board of Managers can take decision with regards to any of the issues even by circulation and if by circulation, the quorum is required for passing of Resolution is made, the said Resolution shall be deemed to have been passed by circulation.
 
-CHAPTER – V
+CHAPTER - V
 
 30) DESIGNATION:
 
@@ -2842,7 +2865,7 @@ All Owners are obliged to pay in advance, annual assessments imposed by the Asso
 
 --- PAGE 77 ---
 -74-
-
+3988 77 2019-20
 originating in or threatening his/her Unit, whether the owner is present at the time or not;
 
 40.2) An owner shall permit other owners, or their representatives, when so required, to enter his/her Unit for the purpose of performing installations, alterations or repairs to the mechanical or electrical services, maintenance of the fire fighting equipment provided that requests for entry are made in advance and that such an entry is at a time convenient to the owner. In case of an emergency, such right of entry shall be immediately permitted;
@@ -2983,100 +3006,56 @@ AMENDMENTS TO BYE LAWS APARTMENT OWNERSHIP
 These Bye-laws may be amended by the Association in a duly constituted meeting for such purpose and no amendment shall take effect unless approved by owners representing at least 2/3rd of the total number of all Apartments in the Building as shown in the Declaration.
 
 --- PAGE 81 ---
+SCHEDULE OF AREAS
+SL NO. DESCRIPTION AREA IN SQ.M AREA IN SQ.FT
+1 TOTAL SITE AREA 41411.40 445748.31
+2 AREA FOR ROAD WIDENING 7264.11 78190.36
+3 NET SITE AREA 34147.29 367557.95
+
 10.90 M WIDE ROAD TOWARDS MINERVA MILLS
-
 RESIDENTIAL
-
 COMMERCIAL BUILDING
-
-DRIVE WAY
-RAMP
-ENTRY
-EXIT
-SECURITY
-TRANSFORMER YARD
-STP
-OHT
-FIRE DRIVE WAY
-
-LAND ACQUIRED BY BBMP PHASE - 01
-LAND REQUIRED FOR ROAD WIDENING PHASE - 02
-
-41.37M WIDE RAOD VATTAL NAGARAJ ROAD
 PROPOSED UNDER PASS
+41.37M WIDE RAOD VATTAL NAGARAJ ROAD
 TO SRIRAM PURAM
-
 32.50m wide road
 TO MAGADI ROAD
-PROPOSED UNDER PASS
+LAND ACQUIRED BY BBMP
+LAND REQUIRED FOR ROAD WIDENING PHASE-1
+LAND REQUIRED FOR ROAD WIDENING PHASE-2
 
 SITE PLAN
 LAND REQUIRED FOR ROAD WIDENING PHASE - 1 = 5425.51 SQ.MTS
-LAND ACQUIRED BY BBMP PHASE - 02 = 1838.60 SQ.MTS
+LAND REQUIRED BY BBMP PHASE - 02 = 1838.60 SQ.MTS
+
 NOTE:
 PHASE - 01 ROAD WIDENING AREAS IS ALREADY RELINQUISHED TO BBMP
 LAND ACQUIRED BY BBMP PHASE 02 YET TO BE RELINQUISHMENT
 
-SCHEDULE OF AREAS
-TOTAL SITE AREA
-AREA FOR ROAD WIDENING
-NET SITE AREA
-PERMISSIBLE F.A.R
-PROPOSED F.A.R
-TOTAL BUILT UP AREA
-GROUND COVERAGE
+OWNER:
+M/S. ETA KARNATAKA ESTATES PVT. LTD.
 
-PROJECT:
-PROPOSED RESIDENTIAL & COMMERCIAL BUILDING
-AT SY. NO. 1 TO 437, 439 TO 441, 443 TO 445, 447 TO 45
+ARCHITECT:
+M/S. RSP DESIGN CONSULTANTS (INDIA) PVT.
 
 --- PAGE 82 ---
 10.90 M WIDE ROAD TOWARDS MINERVA MILLS
 
 COMMERCIAL BUILDING
 
-PROPOSED FIRE DRIVE WAY
+PROPOSED UNDER PASS
 
-ENTRY
-
-EXIT
-
-RAMP DN
-
-RAMP UP
-
-TRANSFORMER YARD
-
-DG YARD
-
-STP
-
-OWC
-
-GAS BANK
-
-SECURITY
-
-PEDESTRIAN CONNECTIVITY AT LEVEL +1
-
-MULTI LEVEL CAR PARKING (MLCP)
-
-LAND ACQUIRED BY BBMP AND RELINQUISHED ROAD WIDENING PHASE - 1
-
-LAND ACQUIRED BY BBMP AND RELINQUISHED ROAD WIDENING PHASE - 2
-
-32.50m wide road TO MAGADI ROAD
-
-41.37M WIDE RAOD VATTAL NAGARAJ ROAD
+41.37M WIDE ROAD VATTAL NAGARAJ ROAD
 
 TO SRIRAM PURAM
 
-PROPOSED UNDER PASS
+32.50m wide road
+TO MAGADI ROAD
 
-PROPOSED UNDER PASS
+LAND REQUIRED FOR ROAD WIDENING PHASE - 1
+LAND ACQUIRED BY BBMP PHASE - 02
 
 GROUND FLOOR PLAN NO. OF UNIT = 07
-
 LAND REQUIRED FOR ROAD WIDENING PHASE - 1 = 6426.51 SQ.MTS
 LAND ACQUIRED BY BBMP PHASE - 02 = 1938.80 SQ.MTS
 
@@ -3084,280 +3063,190 @@ NOTE:
 PHASE - 01 ROAD WIDENING AREA IS ALREADY RELINQUISHED TO BBMP
 LAND ACQUIRED BY BBMP PHASE - 02 YET TO BE RELINQUISHED
 
-PROJECT: PROPOSED COMMERCIAL BUILDING AT SY NO. 1/1 TO 1/1056
-
-UNIT NO  TYPE  CARPET AREA  BALCONY AREA  SBUA
-01       COMM
+AREA STATEMENT
+SL. NO.  DESCRIPTION                                AREA IN SQ.MTS
+1.       TOTAL SITE AREA                            44515.42
+2.       AREA FOR ROAD WIDENING PHASE - 1           6426.51
+3.       AREA FOR ROAD WIDENING PHASE - 2           1938.80
+4.       NET SITE AREA                              36150.11
+5.       PERMISSIBLE F.A.R (3.25)                   117487.85
+6.       PROPOSED
 
 --- PAGE 83 ---
-3988
-2019-20
-83
-
 AREA STATEMENT (BBMP)
-PROPOSED TOTAL BUILT UP AREA
-S.NO. FLOOR LEVEL AREA IN SQ.M.
-1 BASEMENT LEVEL - 01
-2 BASEMENT LEVEL - 02
-3 GROUND FLOOR
-4 FIRST FLOOR
-5 SECOND FLOOR
-6 THIRD FLOOR
-7 FOURTH FLOOR
-TOTAL BUILT UP AREA
+Sl.No. Description Area in Sqm
+1 Total Site Area 11344.00
+2 Total Built up Area 54847.00
+3 F.A.R. Area 31200.00
+4 Non F.A.R. Area 23647.00
+5 Ground Coverage 4537.00 (40%)
+6 Total No. of Floors 2B + G + 14 Floors
+7 Total No. of Units 240 Units
+8 Total No. of Car Parks 410 Car Parks
 
 PARKING STATEMENT
-S.NO. DESCRIPTION NO. OF CARS
-1 REGULAR CAR PARKING 169
-2 VISITOR CAR PARKING 36
-TOTAL 205
+Sl.No. Level No. of Car Parks
+1 Basement Level - 02 205
+2 Basement Level - 01 205
+Total 410
 
-PROJECT DETAILS
-PROJECT NAME: PROPOSED CONSTRUCTION OF RESIDENTIAL APARTMENT & COMMERCIAL BUILDING AT MUNICIPAL NO. 10/1/14/12/1/1A, 10/1/1, GOPAL PURA, BANGALORE.
+PROJECT DESCRIPTION:
+PROPOSED CONSTRUCTION OF RESIDENTIAL CUM COMMERCIAL BUILDING AT MUNICIPAL NO. 10/1-10/2-11/1, 11/1-1, 11/2-1, GOPALAPURA, BANGALORE.
 
-REVISIONS
-REV. NO. DATE DESCRIPTION DRAWN BY CHECKED BY
+OWNER:
+M/S. BRIGADE ENTERPRISES LTD., 29TH & 30TH FLOOR, WORLD TRADE CENTER, BRIGADE GATEWAY CAMPUS, 26/1, DR. RAJKUMAR ROAD, MALLESWARAM-RAJAJINAGAR, BANGALORE-560055.
 
-PLAN LABELS:
-RAMP UP
-RAMP DOWN
-5.5M WIDE DRIVEWAY
-6.0M WIDE DRIVEWAY
-LIFT
-STAIRCASE
-ELECTRICAL ROOM
-FIRE SUMP
-DOMESTIC SUMP
-CAR PARKING
+ARCHITECT:
+VENKATARAMANAN ASSOCIATES, NO. 10/2, KASTURBA ROAD, BANGALORE-560001.
 
 BASEMENT LEVEL - 01
 NO. OF REGULAR CAR PARKING = 169
 NO. OF VISITOR CAR PARKING = 36
 TOTAL NO. OF CAR PARKING = 205
 
-DRAWING TITLE:
-BASEMENT LEVEL - 01
-(PLAN)
+DRAWING TITLE: BASEMENT LEVEL - 01 (PLAN)
 SCALE: 1:150
 SHEET NO: 03
 
---- PAGE 84 ---
-AREA STATEMENT (BBMP)
-PROJECT DETAILS
-NAME OF THE OWNER: M. MOHAN KUMAR
-ADDRESS: GPA HOLDER FOR M/S. VISHWADEEP DEVELOPERS
-SY NO: 13/3
-VILLAGE: MYLASANDRA
-HOBLI: KENGERI
-TALUK: BANGALORE SOUTH
-DISTRICT: BANGALORE
-
-AREA DETAILS
-TOTAL PLOT AREA: 10117.14 SQ.M
-DEDUCTION FOR ROAD WIDENING: ---
-NET PLOT AREA: 10117.14 SQ.M
-PERMISSIBLE F.A.R: 2.25
-PROPOSED F.A.R: 1.60
-TOTAL BUILT UP AREA: 32149.47 SQ.M
-GROUND COVERAGE PERMISSIBLE: 50%
-GROUND COVERAGE PROPOSED: 32%
-
-PARKING DETAILS
-REQUIRED PARKING: 225
-PROVIDED PARKING:
-BASEMENT-01: 117
-BASEMENT-02: 114
-TOTAL PARKING: 231
-
-SCHEDULE OF OPENINGS
-MARK  SIZE        DESCRIPTION
-D1    1.20 X 2.10  DOOR
-D2    1.00 X 2.10  DOOR
-D3    0.75 X 2.10  DOOR
-V     0.60 X 0.60  VENTILATOR
-
-OWNER
-M. MOHAN KUMAR
-GPA HOLDER FOR
-M/S. VISHWADEEP DEVELOPERS
-REPRESENTED BY ITS PARTNER
-SRI. MOHAN KUMAR
-
-ARCHITECT
-DESIGN FORUM
-
-PROJECT DESCRIPTION
-PROPOSED RESIDENTIAL APARTMENT BUILDING
-IN SY NO. 13/3 OF MYLASANDRA VILLAGE,
-KENGERI HOBLI, BANGALORE SOUTH TALUK.
-
-BUILDING DETAILS
-FLOOR           LEVEL  B.U.A     F.A.R AREA
-BASEMENT-02     -6.00  6477.66   ---
-BASEMENT-01     -3.00  6477.66   ---
-GROUND FLOOR    0.00   3238.83   3238.83
-FIRST FLOOR     3.00   3238.83   3238.83
-SECOND FLOOR    6.00   3238.83   3238.83
-THIRD FLOOR     9.00   3238.83   3238.83
-FOURTH FLOOR    12.00  3238.83   3238.83
-TOTAL                  32149.47  16194.15
-
-SETBACK DETAILS
-SIDE            REQUIRED  PROVIDED
-FRONT (NORTH)   12.00 M   12.00 M
-REAR (SOUTH)    12.00 M   12.00 M
-SIDE (EAST)     12.00 M   12.00 M
-SIDE (WEST)     12.00 M   12.00 M
-
 PLAN LABELS:
-5.50 M WIDE DRIVEWAY
+5.5M WIDE DRIVEWAY
+6.0M WIDE DRIVEWAY
 RAMP UP
 RAMP DOWN
-LIFT
+LIFT LOBBY
 STAIRCASE
 ELECTRICAL ROOM
-PUMP ROOM
-FIRE SUMP
-DOMESTIC SUMP
+FIRE PUMP ROOM
+WATER TANK
+STP
+TRANSFORMER YARD
+ENTRY
+EXIT
 UP
 DN
+FIRE REFUGE AREA
+LOBBY
+TOILET
+SECURITY
+GENSET ROOM
+PANEL ROOM
+VENT SHAFT
+CUT OUT
 
-TITLE BLOCK:
-DRAWING TITLE
-BASEMENT LEVEL-02
-(RESIDENTIAL)
-DATE: 15/12/17
-SHEET NO: 04
-SCALE: 1:150
-BASEMENT LEVEL - 02
-NUMBER OF CARPARKING=231
+--- PAGE 84 ---
+AREA STATEMENT (BBMP)
+PROJECT DETAILS:
+TOTAL SITE AREA
+DEDUCTIONS
+NET SITE AREA
+PERMISSIBLE F.A.R
+PROPOSED F.A.R
+TOTAL BUILT UP AREA
+GROUND COVERAGE
+PERMISSIBLE
+PROPOSED
+PARKING STATEMENT
+REQUIRED PARKING
+PROVIDED PARKING
+BASEMENT-01
+BASEMENT-02
+TOTAL
+
+PROJECT TITLE:
+PROPOSED RESIDENTIAL APARTMENT
+AT SY NO. 13/3, 14/1, 14/2, 14/3, 14/4, 14/5, 14/6, 14/7, 14/8, 14/9, 14/10, 14/11, 14/12, 14/13, 14/14, 14/15, 14/16, 14/17, 14/18, 14/19, 14/20, 14/21, 14/22, 14/23, 14/24, 14/25, 14/26, 14/27, 14/28, 14/29, 14/30, 14/31, 14/32, 14/33,
 
 --- PAGE 85 ---
 2019-20
 
 AREA STATEMENT (BBMP)
-SL. NO. DESCRIPTION AREA IN SQ.M AREA IN SQ.FT
-1 TOTAL SITE AREA 11432.23 123055.00
-2 DEDUCTION FOR ROAD WIDENING 1143.22 12305.50
-3 NET SITE AREA 10289.01 110749.50
-4 PERMISSIBLE F.A.R 2.25
-5 TOTAL PERMISSIBLE BUILT UP AREA 23150.27 249186.37
-6 PROPOSED BUILT UP AREA 23148.12 249163.23
-7 GROUND COVERAGE (PERMISSIBLE 50%) 5144.50 55374.75
-8 GROUND COVERAGE (PROPOSED 34.8%) 3580.57 38540.85
-9 TOTAL NO. OF FLOORS 2B+G+14 UF
-10 TOTAL NO. OF UNITS 168 UNITS
-11 HEIGHT OF THE BUILDING 44.95 M
+PROPOSED AREA
+TOTAL SITE AREA
+DEDUCTIONS
+NET SITE AREA
+PERMISSIBLE FAR
+PROPOSED FAR
+TOTAL BUILT UP AREA
+
+FAR DETAILS
 
 PARKING DETAILS
-SL. NO. DESCRIPTION NO. OF CARS
-1 REQUIRED CAR PARKING 168
-2 PROVIDED CAR PARKING 211
-3 VISITOR'S PARKING 17
-4 TOTAL CAR PARKING 228
-
-PROJECT DESCRIPTION:
-PROPOSED CONSTRUCTION OF MULTI-STOREY RESIDENTIAL
-APARTMENT BUILDING AT SY. NO. 10/1, 10/2, 10/3, 11/1, 11/2, 11/3,
-11/4, 11/5, GOWDANAPALYA VILLAGE, UTTARAHALLI HOBLI,
-BANGALORE SOUTH TALUK, BANGALORE.
-
-OWNER'S NAME:
-M/S. ADARSH DEVELOPERS
-NO. 10, VITTAL MALLYA ROAD,
-BANGALORE - 560 001.
-
-ARCHITECT'S NAME:
-M/S. VENKATARAMANAN ASSOCIATES
-NO. 10/2, KASTURBA ROAD,
-BANGALORE - 560 001.
-
-REVISIONS DETAILS
-REV. NO. DESCRIPTION DATE DRWN BY CHKD BY
 
 CONSULTANTS
-STRUCTURAL CONSULTANT:
-PHE CONSULTANT:
-ELECTRICAL CONSULTANT:
 
-SCHEDULE OF OPENINGS
-SL. NO. TYPE SIZE (M) DESCRIPTION
-1 D1 1.00 X 2.10 DOOR
-2 D2 0.90 X 2.10 DOOR
-3 D3 0.75 X 2.10 DOOR
-4 V1 0.60 X 0.60 VENTILATOR
+REVISIONS
+NO.  DATE  DESCRIPTION  DRAWN BY  CHECKED BY
 
-LEGEND
-SL. NO. SYMBOL DESCRIPTION
-1 R.C.C. WALL
-2 BRICK WALL
-3 COLUMN
-4 LIFT
-5 STAIRCASE
-6 RAMP
+PROJECT DESCRIPTION:
+PROPOSED G+13/14 UPPER FLOORS MULTI RESIDENTIAL
+APARTMENT BUILDING AT SY NO 10/1, 10/2, 11/1, 11/2, 11/3,
+11/4, GOKUL PURA, BENGALURU.
 
 DRAWING TITLE:
 BASEMENT LEVEL - 03
 (RESIDENTIAL)
-NUMBER OF CARPARKING = 211
 SCALE: 1:150
 SHEET NO: 05
 
-PLAN LAB
+BASEMENT LEVEL - 03
+NUMBER OF CARPARKING=211
+
+Labels in drawing:
+5.50 M WIDE DRIVEWAY
+5.75 M WIDE DRIVEWAY
+6.00 M WIDE DRIVEWAY
+RAMP UP
+RAMP DOWN
+LIFT
+FIRE LIFT
+STAIRCASE
+ELECTRICAL ROOM
+PUMP ROOM
+WATER TANK
+FIRE SUMP
+DOMESTIC SUMP
+STP AREA
+DRIVEWAY
+PARKING
+COLUMN
+WALL
+UP
+DN
 
 --- PAGE 86 ---
-KEY PLAN
+2019-20
+3988
+86
 
-PROJECT DETAILS
-NAME OF THE PROJECT: SYNDICATE CONCORD
-LOCATION: SY. NO. 10/3, MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK, BANGALORE.
-OWNER: M/S SYNDICATE CONCORD
-ARCHITECT: M/S. DESIGN FORUM INTERNATIONAL
-
-AREA STATEMENT
-SL. NO.  DESCRIPTION                      AREA IN SQ.M
-1        TOTAL SITE AREA                  2500.00
-2        PERMISSIBLE F.A.R (2.25)         5625.00
-3        PROPOSED F.A.R (2.24)            5600.00
-4        GROUND COVERAGE (45%)            1125.00
-5        PROPOSED GROUND COVERAGE (44.8%) 1120.00
-6        TOTAL BUILT UP AREA              5600.00
-7        NO. OF FLOORS                    G+4
-8        NO. OF UNITS                     46
-
-UNIT AREA STATEMENT
-UNIT NO.  TYPE   AREA (SQ.FT)
-101       3BHK   1350
-102       2BHK   1100
-103       2BHK   1100
-104       3BHK   1350
-105       3BHK   1350
-106       2BHK   1100
-107       2BHK   1100
-108       3BHK   1350
+PROJECT:
+PROPOSED RESIDENTIAL APARTMENT BUILDING
 
 OWNER:
-M/S SYNDICATE CONCORD
-REPRESENTED BY ITS PARTNERS
-1. MR. K.S. RAJASHEKAR
-2. MR. K.S. VIJAYAKUMAR
+M/S. [Name illegible]
 
-ARCHITECT:
-M/S. DESIGN FORUM INTERNATIONAL
-NO. 10, 1ST FLOOR, 1ST MAIN ROAD,
-VYALIKAVAL, BANGALORE - 560 003.
+LOCATION:
+SY NO. 10/3, MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK.
 
-PROJECT DESCRIPTION:
-PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY. NO. 10/3, MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK, BANGALORE.
+AREA STATEMENT (IN SQ.M)
+TOTAL SITE AREA: 1500.00 SQ.M
+PERMISSIBLE F.A.R: 2.25
+PROPOSED F.A.R: 2.24
+TOTAL BUILT UP AREA: 3360.00 SQ.M
+GROUND FLOOR AREA: 840.00 SQ.M
+FIRST FLOOR AREA: 840.00 SQ.M
+SECOND FLOOR AREA: 840.00 SQ.M
+THIRD FLOOR AREA: 840.00 SQ.M
 
 SCHEDULE OF OPENINGS
-SL. NO.  TYPE  SIZE (M)      DESCRIPTION
-1        D     1.00 X 2.10   MAIN DOOR
-2        D1    0.90 X 2.10   BEDROOM DOOR
-3        D2    0.75 X 2.10   TOILET DOOR
-4        W     1.80 X 1.20   WINDOW
-5        W1    1.50 X 1.20   WINDOW
-6        V     0.60 X 0.60   VENTILATOR
+D DOOR 1.00 X 2.10
+D1 DOOR 0.90 X 2.10
+D2 DOOR 0.75 X 2.10
+W WINDOW 1.80 X 1.20
+W1 WINDOW 1.50 X 1.20
+V VENTILATOR 0.60 X 0.60
+
+PROJECT DESCRIPTION:
+PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY NO. 10/3, MYLASANDRA VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK.
 
 FIRST FLOOR PLAN
 NUMBER OF UNITS = 08
@@ -3365,298 +3254,201 @@ NUMBER OF UNITS = 08
 SECOND FLOOR PLAN
 NUMBER OF UNITS = 10
 
-LIVING
-DINING
-KITCHEN
+ROOM LABELS (TYPICAL):
+LIVING/DINING
 BEDROOM
+KITCHEN
 TOILET
 BALCONY
 UTILITY
-DUCT
 LIFT
 STAIRCASE
 CORRIDOR
+DUCT
 
 DRAWING TITLE:
 FIRST & SECOND FLOOR PLAN
-SCALE: 1:200
+SCALE: 1:100
 SHEET NO: 06
 
 --- PAGE 87 ---
 AREA STATEMENT (BBMP)
-PROPOSED RESIDENTIAL APARTMENT BUILDING
-SL. NO.  DESCRIPTION                      AREA IN SQ.M.
-1.       TOTAL SITE AREA                  1114.83
-2.       DEDUCTION FOR ROAD WIDENING      0.00
-3.       NET SITE AREA                    1114.83
-4.       PERMISSIBLE F.A.R.               1.75
-5.       PERMISSIBLE FLOOR AREA           1950.95
-6.       PROPOSED FLOOR AREA              1949.44
-7.       PROPOSED F.A.R.                  1.748
-8.       PERMISSIBLE GROUND COVERAGE      50%
-9.       PROPOSED GROUND COVERAGE         44.15%
+PLOT AREA: 1114.83 SQM
+PERMISSIBLE F.A.R: 2.25
+PROPOSED F.A.R: 2.24
+TOTAL BUILT UP AREA: 2502.45 SQM
+GROUND COVERAGE: 44.71%
+PROPOSED GROUND COVERAGE: 44.71%
+TOTAL NO. OF UNITS: 50
+TOTAL NO. OF FLOORS: B+G+4 UF
 
 AREA DETAILS
-FLOOR DESCRIPTION                 AREA IN SQ.M.
-BASEMENT FLOOR (PARKING)          840.00
-GROUND FLOOR (PARKING)            492.18
-FIRST FLOOR                       487.36
-SECOND FLOOR                      487.36
-THIRD FLOOR                       487.36
-FOURTH FLOOR                      487.36
-TOTAL AREA                        3281.62
+BASEMENT FLOOR AREA: 1045.50 SQM
+GROUND FLOOR AREA: 498.45 SQM
+FIRST FLOOR AREA: 501.00 SQM
+SECOND FLOOR AREA: 501.00 SQM
+THIRD FLOOR AREA: 501.00 SQM
+FOURTH FLOOR AREA: 501.00 SQM
+TOTAL AREA: 3548.00 SQM
 
-PARKING STATEMENT
-SL. NO.  DESCRIPTION              REQUIRED  PROVIDED
-1.       CAR PARKING              20        20
-2.       TWO WHEELER PARKING      10        10
-
-UNIT WISE AREA STATEMENT
-UNIT NO.  AREA IN SQ.FT.
-301/401   515
-302/402   515
-303/403   515
-304/404   515
-305/405   515
-306/406   515
-307/407   515
-308/408   515
-309/409   515
-310/410   515
-
-PROJECT DESCRIPTION:
-PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY. NO. 111/1B,
-KODIGEHALLI VILLAGE, YELAHANKA HOBLI, BANGALORE NORTH TALUK,
-BANGALORE.
-FOR: M/S. GOPALAN ENTERPRISES.
-
-OWNER'S SIGNATURE:
-M/S. GOPALAN ENTERPRISES
-PARTNER
-
-ARCHITECT'S SIGNATURE:
-GOPALAN ARCHITECTS
-NO. 5, RICHMOND ROAD, BANGALORE - 560 025.
-COA REG. NO: CA/94/17451
-
-SCHEDULE OF OPENINGS
-TYPE  SIZE        DESCRIPTION
-D     3'6"x7'0"   DOOR
-D1    3'0"x7'0"   DOOR
-D2    2'6"x7'0"   DOOR
-W     6'0"x4'6"   WINDOW
-W1    4'0"x4'6"   WINDOW
-V     2'0"x2'0"   VENTILATOR
-
-DRAWING TITLE:
-THIRD & FOURTH FLOOR PLAN
-SCALE: 1:100
-SHEET NO: 07
-
-FOURTH FLOOR PLAN
-NUMBER OF UNITS = 10
-UNIT 401, UNIT 402, UNIT 403, UNIT 404, UNIT 405, UNIT 406, UNIT 407, UNIT 408, UNIT 409, UNIT 410
-BEDROOM, LIVING/DINING, KITCHEN, TOILET, BALCONY, UTILITY, LIFT, STAIRCASE, CORRIDOR, DUCT
-
-THIRD FLOOR PLAN
-NUMBER OF UNITS = 10
-UNIT 301, UNIT 302, UNIT 303, UNIT 304, UNIT 305, UNIT 306, UNIT 307, UNIT 308, UNIT 309, UNIT 310
-BEDROOM, LIVING/DINING, KITCHEN, TOILET, BALCONY, UTILITY, LIFT, STAIRCASE, CORRIDOR, DUCT
+PROJECT DESCRIPTION
+PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY NO. 10/1, 10/2, 10/3, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9, 10/10, 10/11, 10/12, 10/13, 10/14, 
 
 --- PAGE 88 ---
-2019-20
-
-TO RAJA RAJESHWARI NAGAR
-TO MYSORE ROAD
+TO RAJAJI NAGAR
+TO MAGADI ROAD
+TO VIJAYANAGAR
 SITE
 
 AREA STATEMENT (BBMP)
-TOTAL SITE AREA
-AREA FOR ROAD WIDENING
-NET SITE AREA
-PERMISSIBLE F.A.R
-F.A.R AREA PROPOSED
-TOTAL BUILT UP AREA
-NO. OF FLOORS
-NO. OF UNITS
-
-F.A.R DETAILS
-BLOCK-A
-BLOCK-B
-TOTAL
-
-PROJECT DESCRIPTION:
-PROPOSED RESIDENTIAL APARTMENT BUILDING (GROUP HOUSING LAYOUT) AT SY.NO.10/1, 10/2 & 10/3 OF PATTANAGERE VILLAGE, KENGERI HOBLI, BANGALORE SOUTH TALUK, BBMP, BANGALORE.
-
-DEVELOPER:
-M/S. PROVIDENT HOUSING LIMITED
-NO. 130/1, ULSOOR ROAD, BENGALURU - 560 042.
-
-DRAWING TITLE:
-FIFTH FLOOR PLAN & TYPICAL 7, 13, 19, 25 & 31 FLOOR PLAN
-SCALE: 1:100
-DRG NO: 05
-
-TYPICAL 7, 13, 19, 25 & 31 FLOOR PLAN
-NUMBER OF UNITS = 10
-
-FIFTH FLOOR PLAN
-NUMBER OF UNITS = 10
-
-ROOM LABELS (TYPICAL FOR ALL UNITS):
-LIVING
+SL.NO  DESCRIPTION                                AREA IN SQ.MT  AREA IN SQ.FT
+1.     TOTAL SITE AREA AS PER DOCUMENT            10117.14       108900.00
+2.     TOTAL SITE AREA AS PER SURVEY              10117.14       108900.00
+3.     AREA UNDER KHARAB                          0.00           0.00
+4.     NET SITE AREA                              10117.14       108900.00
+5.     AREA UNDER ROAD WIDENING                   0.00           0.00
+6.     AREA UNDER PARK & OPEN SPACE (15%)         1517.57        16335.00
+7.     AREA UNDER CIVIC AMENITIES (5%)            505.86         5445.00
+8.     REMAINING AREA                             8093.71        87120.00
+9.     PERMISSIBLE F.A.R (2.25)                   18210.85       196020.00
+10.    PROPOSED F.A.R AREA                        18209.43       196004.72
+1
 
 --- PAGE 89 ---
 AREA STATEMENT (BBMP)
-SITE AREA: 1114.80 SQ.MT (12000.00 SQ.FT)
-PERMISSIBLE F.A.R: 2.25
-PROPOSED F.A.R: 2.25
-TOTAL BUILT UP AREA: 2508.30 SQ.MT
-F.A.R AREA: 2508.30 SQ.MT
-NON F.A.R AREA: 1003.32 SQ.MT
-TOTAL BUILT UP AREA: 3511.62 SQ.MT
-GROUND COVERAGE: 45% (501.66 SQ.MT)
-PROPOSED GROUND COVERAGE: 44.8% (499.43 SQ.MT)
-NO. OF FLOORS: BASEMENT + GROUND + 32 UPPER FLOORS
-NO. OF UNITS: 320 UNITS
-CAR PARKING REQUIRED: 320 NOS
-CAR PARKING PROVIDED: 320 NOS
-
-OWNER:
-M/S. GOPALAN ENTERPRISES
-NO. 5, RICHMOND ROAD,
-BANGALORE - 560 025.
+SL NO DESCRIPTION AREA IN SQM
+1 TOTAL SITE AREA 1440.00
+2 DEDUCTION FOR ROAD WIDENING 0.00
+3 NET SITE AREA 1440.00
+4 PERMISSIBLE FAR 2.25
+5 PERMISSIBLE BUILT UP AREA 3240.00
+6 PROPOSED BUILT UP AREA 3239.85
+7 FAR ACHIEVED 2.25
+8 GROUND COVERAGE PERMISSIBLE 50% (720.00 SQM)
+9 GROUND COVERAGE PROPOSED 49.98% (719.71 SQM)
+10 NO. OF FLOORS G+32 FLOORS
+11 TOTAL NO. OF UNITS 330 UNITS
+12 PARKING REQUIRED 330 CARS
+13 PARKING PROVIDED 330 CARS
 
 PROJECT DESCRIPTION:
-PROPOSED RESIDENTIAL MULTI-DWELLING BUILDING AT SY. NO. 10/1, 10/2, 10/3, 10/4, 10/5, 1
+PROPOSED RESIDENTIAL MULTI-DWELLING BUILDING AT SY. NO. 10/1, 10/2, 10/3, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9, 10/10, 10/11, 10/12, 10/13, 10/14, 10/15,
 
 --- PAGE 90 ---
-3988/2019-20
-90
-
-AREA STATEMENT (BBMP)
-SL. NO. DESCRIPTION AREA IN SQ.M AREA IN SQ.FT
-1 TOTAL SITE AREA 10117.14 108900.00
-2 DEDUCTION FOR ROAD WIDENING 1011.71 10890.00
-3 NET SITE AREA 9105.43 98010.00
-4 PERMISSIBLE F.A.R (2.25) 20487.22 220522.50
-5 PROPOSED F.A.R AREA 20487.22 220522.50
-6 GROUND COVERAGE (45%) 4097.44 44104.50
-7 PROPOSED GROUND COVERAGE (33.3%) 3032.11 32637.50
-
-FAR CALCULATION
-SL. NO. FLOOR DESCRIPTION AREA IN SQ.M AREA IN SQ.FT
-1 GROUND FLOOR 1463.37 15751.50
-2 FIRST FLOOR 1463.37 15751.50
-3 SECOND FLOOR 1463.37 15751.50
-4 THIRD FLOOR 1463.37
+AREA STATEMENT (SQ.FT)
+BLOCK-A
+FLOOR LEVEL CARPET AREA BALCONY AREA UTILITY AREA TOTAL AREA
+TYPICAL 10, 16, 22, 28, 34 FLOOR PLAN
+UNIT-1 1045.00 45.00 35.00 1125.00
+UNIT-2 1045.00 45.00 35.00 1125.00
+UNIT-3 1045.00 45.00 35.00 1125.00
+UNIT-4 1045.00 45.00 35.00 1125.00
+UNIT-5 1045.00 45.00 35.00 1125.00
+UNIT-6 1045.00 45.00 35.00 1125.00
+UNIT-7 1045.00 45.00 35.00 1125.00
+UNIT-8 1045.00 45.00 35.00 1125.00
+UNIT-9 1045.00 45.0
 
 --- PAGE 91 ---
-LOCATION MAP (NTS)
-
-AREA STATEMENT (IN SQM)
-SL. NO.  DESCRIPTION  AREA
-1  TOTAL SITE AREA  97124.80
-2  TOTAL BUILT UP AREA  345471.42
-3  TOTAL CARPET AREA  214587.12
-4  TOTAL NO. OF UNITS  2344
-5  TOTAL NO. OF FLOORS  2B+G+34 FLOORS
-
-PROJECT DESCRIPTION:
-PROPOSED SOBHA ROYAL PAVILION (RESIDENTIAL & CLUBHOUSE) AT SY. NO. 10/1, 10/2, 10/3, 11/1, 11/2, 12/1, 12/2, 12/3, 13/1, 13/2, 13/3, 14/1, 14/2, 14/3, 15/1, 15/2, 15/3, 16/1, 16/2, 16/3, 17/1, 17/2, 17/3, 18/1, 18/2, 18/3, 19/1, 19/2, 19/3, 20/1, 20/2, 20/3, 21/
+SOBHA ROYAL PAVILION
+PROPOSED SOBHA ROYAL PAVILION (RESIDENTIAL & CLUBHOUSE) AT SY. NO. 10/1, 10/2, 12/1, 12/2, 13/1, 13/2, 14/1, 14/2, 15, 16, 17/1, 17/2, 18/1, 18/2, 19/1, 19/2, 20/1, 20/2, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69,
 
 --- PAGE 92 ---
-AREA STATEMENT (SQM)
-TOTAL SITE AREA: 12140.57
-TOTAL BUILT UP AREA: 104571.30
-TOTAL CARPET AREA: 64344.00
-TOTAL SALEABLE AREA: 85792.00
-TOTAL NO. OF UNITS: 412
-TOTAL NO. OF FLOORS: 2B+G+37 FLOORS
+AREA STATEMENT (BBMP)
+TOTAL SITE AREA
+PERMISSIBLE F.A.R
+PROPOSED F.A.R
+TOTAL BUILT UP AREA
+GROUND COVERAGE
 
 AREA DETAILS
-CLUB HOUSE AREA: 1486.45 SQM
-TERRACE AREA: 12140.57 SQM
+CLUB HOUSE AREA
 
 PROJECT DESCRIPTION:
-PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY. NO. 142/1, 142/2, 142/3, 142/4, 142/5, 142/6, 142/7, 142/8, 142/9, 142/10, 142/11, 142/12, 142/13, 142/14, 142/15, 142/16, 142/17, 142/18, 142/19, 142/20, 142/21, 142/22, 142/23,
+PROPOSED RESIDENTIAL APARTMENT BUILDING AT SY. NO. 142/1, 142/2, 142/3, 142/4, 142/5, 142/6, 142/7, 142/8, 142/9, 142/10, 142/11, 142/12, 142/13, 142/14, 142/15, 142/16, 142/17, 142/18, 142/19, 142/20, 142/21, 142/22, 142/23, 142/24, 142/25, 142/26, 142/27, 142/28, 142/29, 142/30, 142/31, 142/32, 142/33, 142/34, 
 
 --- PAGE 93 ---
 AREA STATEMENT (BBMP)
-PROJECT : G+24
-Application No :
-Proposal Type : Building Plan
-Plot No :
-Ward No :
-Zone :
-Land Use :
-AREA DETAILS
-Total Plot Area : SQ.M
-Deductions :
-Net Plot Area :
-FLOOR WISE AREA DETAILS (IN SQ.M)
-Basement Floor :
-Ground Floor :
-First Floor :
-Typical Floor (2nd to 24th) :
-Total Built up Area :
-FAR
-Permissible FAR :
-Proposed FAR :
-Ground Coverage
-Permissible Coverage :
-Proposed Coverage :
-PARKING DETAILS
-Required :
-Provided :
+PROJECT DETAILS
+Application No.
+Plot Area: 10117.12 SQM
+Proposed Use: RESIDENTIAL
+Building Purpose: APARTMENT
+Building Type: HIGH RISE
+Plot No: 100, 101, 102, 103
+Khatha No: 100, 101, 102, 103
+Ward No: 193
+Zone: SOUTH
 
-PROJECT DESCRIPTION
-PROPOSED CONSTRUCTION OF RESIDENTIAL BUILDING (G+24 UPPER FLOORS) AT MUNICIPAL NO. 190/191/192/193, GOTTIGERE, PURAVANKARA, BANGALORE.
+AREA DETAILS
+Total Built up Area: 54241.11 SQM
+F.A.R. Area: 34398.14 SQM
+F.A.R.: 3.40
+
+DEDUCTIONS (AS PER BYE-LAW 2003)
+Staircase/Lift/Lobby: 4422.97
+Balcony: 3419.97
+Parking Area: 12000.03
+Total Deductions: 19842.97
+
+NET F.A.R. AREA: 34398.14
+F.A.R. CONSUMED: 3.40
+
+PARKING DETAILS
+Required Parking: 371
+Provided Parking: 430
+
+PROJECT DESCRIPTION:
+PROPOSED RESIDENTIAL APARTMENT BUILDING (COMMERCIAL BUILDING) AT MUNICIPAL NO. 100/101/102/103, GOTTIGERE, PURAVANKARA, BANGALORE.
 
 OWNER:
-M/S PURAVANKARA PROJECTS PVT LTD
+M/S PURAVANKARA PROJECTS LTD.
+#130/1, ULSOOR ROAD, BANGALORE-560042.
+
+ARCHITECT:
+H. RAGHAVENDRA
+B.ARCH, M.C.A, F.I.I.A
+REGISTERED ARCHITECT
+CA/91/14144
+No. 34, 1st MAIN, 1st BLOCK,
+KORAMANGALA, BANGALORE-560034.
 
 BUILDING DETAILS
-Block Name
-No. of Floors G+24
-Height of Building 75.00M
-Total No. of Units
+Floor Level      Height (m)
+Terrace Floor    +75.00M
+24th FLOOR       +72.00M
+23rd FLOOR       +69.00M
+22nd FLOOR       +66.00M
+21st FLOOR       +63.00M
+20th FLOOR       +60.00M
+19th FLOOR       +57.00M
+18th FLOOR       +54.00M
+17th FLOOR       +51.00M
+16th FLOOR       +48.00M
+15th FLOOR       +45.00M
+14th FLOOR       +42.00M
+13th FLOOR       +39.00M
+12th FLOOR       +36.00M
+11th FLOOR       +33.00M
+10th FLOOR       +30.00M
+9th FLOOR        +27.00M
+8th FLOOR        +24.00M
+7th FLOOR        +21.00M
+6th FLOOR        +18.00M
+5th FLOOR        +15.00M
+4th FLOOR        +12.00M
+3rd FLOOR        +9.00M
+2nd FLOOR        +6.00M
+1st FLOOR        +3.00M
+GROUND FLOOR     +0.00M
+BASEMENT 1       -3.00M
+BASEMENT 2       -6.00M
 
-REVISIONS
-NO. DATE DESCRIPTION DRAWN BY CHECKED BY
+ELEVATION
+SECTION
 
 DRAWING TITLE:
 ELEVATION & SECTION
 SCALE: 1:200
+DATE: OCT 2013
 DRG NO: 13
-
-TERRACE FLOOR LEVEL +75.00M
-24TH FLOOR LEVEL +72.00M
-23RD FLOOR LEVEL +69.00M
-22ND FLOOR LEVEL +66.00M
-21ST FLOOR LEVEL +63.00M
-20TH FLOOR LEVEL +60.00M
-19TH FLOOR LEVEL +57.00M
-18TH FLOOR LEVEL +54.00M
-17TH FLOOR LEVEL +51.00M
-16TH FLOOR LEVEL +48.00M
-15TH FLOOR LEVEL +45.00M
-14TH FLOOR LEVEL +42.00M
-13TH FLOOR LEVEL +39.00M
-12TH FLOOR LEVEL +36.00M
-11TH FLOOR LEVEL +33.00M
-10TH FLOOR LEVEL +30.00M
-9TH FLOOR LEVEL +27.00M
-8TH FLOOR LEVEL +24.00M
-7TH FLOOR LEVEL +21.00M
-6TH FLOOR LEVEL +18.00M
-5TH FLOOR LEVEL +15.00M
-4TH FLOOR LEVEL +12.00M
-3RD FLOOR LEVEL +9.00M
-2ND FLOOR LEVEL +6.00M
-1ST FLOOR LEVEL +3.00M
-GROUND FLOOR LEVEL +0.00M
-BASEMENT FLOOR LEVEL -3.00M
-
-ELEVATION
-SECTION
