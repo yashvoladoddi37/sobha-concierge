@@ -237,11 +237,35 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ### Evaluate
 
+Two complementary eval suites:
+
+**Retrieval quality** (`scripts/eval.ts`) — does the right document come back for each question?
+
 ```bash
-npx tsx scripts/eval.ts
+npm run eval
 ```
 
 Runs 20 questions across 7 categories. Checks retrieval accuracy (doc type match), keyword hit rate, and query routing correctness. Exits with code 1 if overall pass rate falls below 70%.
+
+**Generation quality** (`scripts/eval-generation.ts`) — given the right context, does the LLM actually follow the prompt rules in `src/lib/rag/prompt.ts`?
+
+```bash
+npm run eval:gen
+```
+
+Loops every (candidate model × test case) and scores answers on six axes:
+citation format, quote accuracy (quote actually appears in retrieved chunks),
+language correctness (English / Hindi-script / Kannada-script / Hinglish→English),
+"latest" date handling, refusal correctness, and call-error rate.
+
+Models are auto-discovered from env vars: Gemini (Flash Lite, Flash) require
+`GOOGLE_GENERATIVE_AI_API_KEY`, Groq models (`llama-3.3-70b-versatile`,
+`llama-3.1-8b-instant`, `openai/gpt-oss-20b`, `openai/gpt-oss-120b`) require
+`GROQ_API_KEY`, and Sarvam AI models (Sarvam-M free, Sarvam-30B / 105B paid)
+require `SARVAM_API_KEY` (+ optional `SARVAM_INCLUDE_PAID=true`). The output
+is a model-by-model scorecard with a verdict column (`PRIMARY` / `FALLBACK` /
+`AVOID` / `BROKEN`) so you can decide which models earn a slot in the
+production fallback chain in `src/app/api/chat/route.ts`.
 
 ## Eval Results
 
